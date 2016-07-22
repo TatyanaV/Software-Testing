@@ -1,0 +1,897 @@
+%****************************RANDOM TEST ADVENTURER****************************%
+ADVENTURE CARD RANDOME TESTING
+
+
+
+Test #: 0
+
+Player #: 0
+Treasures Before: 30
+Treasures After: 32
+	TREASURE COUNT TEST PASSED
+Handcount Before: 301
+Handcount After: 303
+	HAND COUNT TEST PASSED
+
+Player #: 1
+Treasures Before: 77
+Treasures After: 79
+	TREASURE COUNT TEST PASSED
+Handcount Before: 410
+Handcount After: 410
+	HANDCOUNT TEST FAILED
+
+Player #: 2
+Treasures Before: 127
+Treasures After: 129
+	TREASURE COUNT TEST PASSED
+Handcount Before: 448
+Handcount After: 448
+	HANDCOUNT TEST FAILED
+
+Player #: 3
+Treasures Before: 183
+Treasures After: 185
+	TREASURE COUNT TEST PASSED
+Handcount Before: 388
+Handcount After: 388
+	HANDCOUNT TEST FAILED
+
+
+Test #: 1
+
+Player #: 0
+Treasures Before: 40
+Treasures After: 42
+	TREASURE COUNT TEST PASSED
+Handcount Before: 268
+Handcount After: 270
+	HAND COUNT TEST PASSED
+
+Player #: 1
+Treasures Before: 43
+Treasures After: 45
+	TREASURE COUNT TEST PASSED
+Handcount Before: 33
+Handcount After: 33
+	HANDCOUNT TEST FAILED
+
+Player #: 2
+Treasures Before: 73
+Treasures After: 75
+	TREASURE COUNT TEST PASSED
+Handcount Before: 296
+Handcount After: 296
+	HANDCOUNT TEST FAILED
+
+Player #: 3
+Treasures Before: 85
+Treasures After: 87
+	TREASURE COUNT TEST PASSED
+Handcount Before: 113
+Handcount After: 113
+	HANDCOUNT TEST FAILED
+
+
+Test #: 2
+
+Player #: 0
+Treasures Before: 56
+Treasures After: 58
+	TREASURE COUNT TEST PASSED
+Handcount Before: 402
+Handcount After: 404
+	HAND COUNT TEST PASSED
+
+Player #: 1
+Treasures Before: 87
+Treasures After: 89
+	TREASURE COUNT TEST PASSED
+Handcount Before: 227
+Handcount After: 227
+	HANDCOUNT TEST FAILED
+
+
+Test #: 3
+
+Player #: 0
+Treasures Before: 35
+Treasures After: 37
+	TREASURE COUNT TEST PASSED
+Handcount Before: 347
+Handcount After: 349
+	HAND COUNT TEST PASSED
+
+Player #: 1
+Treasures Before: 58
+Treasures After: 60
+	TREASURE COUNT TEST PASSED
+Handcount Before: 188
+Handcount After: 188
+	HANDCOUNT TEST FAILED
+
+Player #: 2
+Treasures Before: 87
+Treasures After: 89
+	TREASURE COUNT TEST PASSED
+Handcount Before: 229
+Handcount After: 229
+	HANDCOUNT TEST FAILED
+
+
+Test #: 4
+
+Player #: 0
+Treasures Before: 47
+Treasures After: 49
+	TREASURE COUNT TEST PASSED
+Handcount Before: 494
+Handcount After: 496
+	HAND COUNT TEST PASSED
+
+Player #: 1
+Treasures Before: 48
+Treasures After: 50
+	TREASURE COUNT TEST PASSED
+Handcount Before: 10
+Handcount After: 10
+	HANDCOUNT TEST FAILED
+
+Player #: 2
+Treasures Before: 67
+Treasures After: 69
+	TREASURE COUNT TEST PASSED
+Handcount Before: 154
+Handcount After: 154
+	HANDCOUNT TEST FAILED
+
+Player #: 3
+Treasures Before: 73
+Treasures After: 75
+	TREASURE COUNT TEST PASSED
+Handcount Before: 58
+Handcount After: 58
+	HANDCOUNT TEST FAILED
+
+
+Test #: 5
+
+Player #: 0
+Treasures Before: 16
+Treasures After: 18
+	TREASURE COUNT TEST PASSED
+Handcount Before: 121
+Handcount After: 123
+	HAND COUNT TEST PASSED
+
+Player #: 1
+Treasures Before: 60
+Treasures After: 62
+	TREASURE COUNT TEST PASSED
+Handcount Before: 381
+Handcount After: 381
+	HANDCOUNT TEST FAILED
+
+Player #: 2
+Treasures Before: 74
+Treasures After: 76
+	TREASURE COUNT TEST PASSED
+Handcount Before: 136
+Handcount After: 136
+	HANDCOUNT TEST FAILED
+
+
+Test #: 6
+
+Player #: 0
+Treasures Before: 61
+Treasures After: 63
+	TREASURE COUNT TEST PASSED
+Handcount Before: 496
+Handcount After: 498
+	HAND COUNT TEST PASSED
+
+Player #: 1
+Treasures Before: 126
+Treasures After: 128
+	TREASURE COUNT TEST PASSED
+Handcount Before: 499
+Handcount After: 499
+	HANDCOUNT TEST FAILED
+
+
+Test #: 7
+
+Player #: 0
+Treasures Before: 30
+Treasures After: 32
+	TREASURE COUNT TEST PASSED
+Handcount Before: 354
+Handcount After: 356
+	HAND COUNT TEST PASSED
+
+Player #: 1
+Treasures Before: 83
+Treasures After: 85
+	TREASURE COUNT TEST PASSED
+Handcount Before: 445
+Handcount After: 445
+	HANDCOUNT TEST FAILED
+
+Player #: 2
+Treasures Before: 87
+Treasures After: 89
+	TREASURE COUNT TEST PASSED
+Handcount Before: 21
+Handcount After: 21
+	HANDCOUNT TEST FAILED
+
+Player #: 3
+Treasures Before: 136
+Treasures After: 138
+	TREASURE COUNT TEST PASSED
+Handcount Before: 384
+Handcount After: 384
+	HANDCOUNT TEST FAILED
+
+
+Test #: 8
+
+Player #: 0
+Treasures Before: 44
+Treasures After: 46
+	TREASURE COUNT TEST PASSED
+Handcount Before: 287
+Handcount After: 289
+	HAND COUNT TEST PASSED
+
+Player #: 1
+Treasures Before: 83
+Treasures After: 85
+	TREASURE COUNT TEST PASSED
+Handcount Before: 244
+Handcount After: 244
+	HANDCOUNT TEST FAILED
+
+Player #: 2
+Treasures Before: 120
+Treasures After: 122
+	TREASURE COUNT TEST PASSED
+Handcount Before: 318
+Handcount After: 318
+	HANDCOUNT TEST FAILED
+
+
+Test #: 9
+
+Player #: 0
+Treasures Before: 3
+Treasures After: 5
+	TREASURE COUNT TEST PASSED
+Handcount Before: 28
+Handcount After: 30
+	HAND COUNT TEST PASSED
+
+Player #: 1
+Treasures Before: 45
+Treasures After: 47
+	TREASURE COUNT TEST PASSED
+Handcount Before: 419
+Handcount After: 419
+	HANDCOUNT TEST FAILED
+
+Player #: 2
+Treasures Before: 64
+Treasures After: 66
+	TREASURE COUNT TEST PASSED
+Handcount Before: 113
+Handcount After: 113
+	HANDCOUNT TEST FAILED
+
+Player #: 3
+Treasures Before: 88
+Treasures After: 90
+	TREASURE COUNT TEST PASSED
+Handcount Before: 239
+Handcount After: 239
+	HANDCOUNT TEST FAILED
+
+
+Test #: 10
+
+Player #: 0
+Treasures Before: 47
+Treasures After: 49
+	TREASURE COUNT TEST PASSED
+Handcount Before: 450
+Handcount After: 452
+	HAND COUNT TEST PASSED
+
+Player #: 1
+Treasures Before: 88
+Treasures After: 90
+	TREASURE COUNT TEST PASSED
+Handcount Before: 357
+Handcount After: 357
+	HANDCOUNT TEST FAILED
+
+
+Test #: 11
+
+Player #: 0
+Treasures Before: 1
+Treasures After: 3
+	TREASURE COUNT TEST PASSED
+Handcount Before: 9
+Handcount After: 11
+	HAND COUNT TEST PASSED
+
+Player #: 1
+Treasures Before: 18
+Treasures After: 20
+	TREASURE COUNT TEST PASSED
+Handcount Before: 134
+Handcount After: 134
+	HANDCOUNT TEST FAILED
+
+Player #: 2
+Treasures Before: 65
+Treasures After: 67
+	TREASURE COUNT TEST PASSED
+Handcount Before: 458
+Handcount After: 458
+	HANDCOUNT TEST FAILED
+
+
+Test #: 12
+
+Player #: 0
+Treasures Before: 3
+Treasures After: 5
+	TREASURE COUNT TEST PASSED
+Handcount Before: 36
+Handcount After: 38
+	HAND COUNT TEST PASSED
+
+Player #: 1
+Treasures Before: 22
+Treasures After: 24
+	TREASURE COUNT TEST PASSED
+Handcount Before: 222
+Handcount After: 222
+	HANDCOUNT TEST FAILED
+
+Player #: 2
+Treasures Before: 77
+Treasures After: 79
+	TREASURE COUNT TEST PASSED
+Handcount Before: 483
+Handcount After: 483
+	HANDCOUNT TEST FAILED
+
+
+Test #: 13
+
+Player #: 0
+Treasures Before: 26
+Treasures After: 28
+	TREASURE COUNT TEST PASSED
+Handcount Before: 299
+Handcount After: 301
+	HAND COUNT TEST PASSED
+
+Player #: 1
+Treasures Before: 43
+Treasures After: 45
+	TREASURE COUNT TEST PASSED
+Handcount Before: 189
+Handcount After: 189
+	HANDCOUNT TEST FAILED
+
+Player #: 2
+Treasures Before: 94
+Treasures After: 96
+	TREASURE COUNT TEST PASSED
+Handcount Before: 451
+Handcount After: 451
+	HANDCOUNT TEST FAILED
+
+Player #: 3
+Treasures Before: 97
+Treasures After: 99
+	TREASURE COUNT TEST PASSED
+Handcount Before: 42
+Handcount After: 42
+	HANDCOUNT TEST FAILED
+
+
+Test #: 14
+
+Player #: 0
+Treasures Before: 39
+Treasures After: 41
+	TREASURE COUNT TEST PASSED
+Handcount Before: 258
+Handcount After: 260
+	HAND COUNT TEST PASSED
+
+Player #: 1
+Treasures Before: 54
+Treasures After: 56
+	TREASURE COUNT TEST PASSED
+Handcount Before: 104
+Handcount After: 104
+	HANDCOUNT TEST FAILED
+
+Player #: 2
+Treasures Before: 84
+Treasures After: 86
+	TREASURE COUNT TEST PASSED
+Handcount Before: 336
+Handcount After: 336
+	HANDCOUNT TEST FAILED
+
+Player #: 3
+Treasures Before: 118
+Treasures After: 120
+	TREASURE COUNT TEST PASSED
+Handcount Before: 297
+Handcount After: 297
+	HANDCOUNT TEST FAILED
+
+
+Test #: 15
+
+Player #: 0
+Treasures Before: 32
+Treasures After: 34
+	TREASURE COUNT TEST PASSED
+Handcount Before: 302
+Handcount After: 304
+	HAND COUNT TEST PASSED
+
+Player #: 1
+Treasures Before: 59
+Treasures After: 61
+	TREASURE COUNT TEST PASSED
+Handcount Before: 308
+Handcount After: 308
+	HANDCOUNT TEST FAILED
+
+Player #: 2
+Treasures Before: 88
+Treasures After: 90
+	TREASURE COUNT TEST PASSED
+Handcount Before: 261
+Handcount After: 261
+	HANDCOUNT TEST FAILED
+
+Player #: 3
+Treasures Before: 132
+Treasures After: 134
+	TREASURE COUNT TEST PASSED
+Handcount Before: 361
+Handcount After: 361
+	HANDCOUNT TEST FAILED
+
+
+Test #: 16
+
+Player #: 0
+Treasures Before: 50
+Treasures After: 52
+	TREASURE COUNT TEST PASSED
+Handcount Before: 440
+Handcount After: 442
+	HAND COUNT TEST PASSED
+
+Player #: 1
+Treasures Before: 71
+Treasures After: 73
+	TREASURE COUNT TEST PASSED
+Handcount Before: 180
+Handcount After: 180
+	HANDCOUNT TEST FAILED
+
+Player #: 2
+Treasures Before: 84
+Treasures After: 86
+	TREASURE COUNT TEST PASSED
+Handcount Before: 194
+Handcount After: 194
+	HANDCOUNT TEST FAILED
+
+
+Test #: 17
+
+Player #: 0
+Treasures Before: 24
+Treasures After: 26
+	TREASURE COUNT TEST PASSED
+Handcount Before: 250
+Handcount After: 252
+	HAND COUNT TEST PASSED
+
+Player #: 1
+Treasures Before: 72
+Treasures After: 74
+	TREASURE COUNT TEST PASSED
+Handcount Before: 427
+Handcount After: 427
+	HANDCOUNT TEST FAILED
+
+Player #: 2
+Treasures Before: 97
+Treasures After: 99
+	TREASURE COUNT TEST PASSED
+Handcount Before: 147
+Handcount After: 147
+	HANDCOUNT TEST FAILED
+
+
+Test #: 18
+
+Player #: 0
+Treasures Before: 31
+Treasures After: 33
+	TREASURE COUNT TEST PASSED
+Handcount Before: 364
+Handcount After: 366
+	HAND COUNT TEST PASSED
+
+Player #: 1
+Treasures Before: 37
+Treasures After: 39
+	TREASURE COUNT TEST PASSED
+Handcount Before: 30
+Handcount After: 30
+	HANDCOUNT TEST FAILED
+
+
+Test #: 19
+
+Player #: 0
+Treasures Before: 44
+Treasures After: 46
+	TREASURE COUNT TEST PASSED
+Handcount Before: 418
+Handcount After: 420
+	HAND COUNT TEST PASSED
+
+Player #: 1
+Treasures Before: 84
+Treasures After: 86
+	TREASURE COUNT TEST PASSED
+Handcount Before: 373
+Handcount After: 373
+	HANDCOUNT TEST FAILED
+
+
+Test #: 20
+
+Player #: 0
+Treasures Before: 13
+Treasures After: 15
+	TREASURE COUNT TEST PASSED
+Handcount Before: 89
+Handcount After: 91
+	HAND COUNT TEST PASSED
+
+Player #: 1
+Treasures Before: 59
+Treasures After: 61
+	TREASURE COUNT TEST PASSED
+Handcount Before: 449
+Handcount After: 449
+	HANDCOUNT TEST FAILED
+
+
+Test #: 21
+
+Player #: 0
+Treasures Before: 14
+Treasures After: 16
+	TREASURE COUNT TEST PASSED
+Handcount Before: 122
+Handcount After: 124
+	HAND COUNT TEST PASSED
+
+Player #: 1
+Treasures Before: 30
+Treasures After: 32
+	TREASURE COUNT TEST PASSED
+Handcount Before: 178
+Handcount After: 178
+	HANDCOUNT TEST FAILED
+
+Player #: 2
+Treasures Before: 49
+Treasures After: 51
+	TREASURE COUNT TEST PASSED
+Handcount Before: 188
+Handcount After: 188
+	HANDCOUNT TEST FAILED
+
+
+Test #: 22
+
+Player #: 0
+Treasures Before: 10
+Treasures After: 12
+	TREASURE COUNT TEST PASSED
+Handcount Before: 53
+Handcount After: 55
+	HAND COUNT TEST PASSED
+
+Player #: 1
+Treasures Before: 63
+Treasures After: 65
+	TREASURE COUNT TEST PASSED
+Handcount Before: 403
+Handcount After: 403
+	HANDCOUNT TEST FAILED
+
+
+Test #: 23
+
+Player #: 0
+Treasures Before: 50
+Treasures After: 52
+	TREASURE COUNT TEST PASSED
+Handcount Before: 362
+Handcount After: 364
+	HAND COUNT TEST PASSED
+
+Player #: 1
+Treasures Before: 94
+Treasures After: 96
+	TREASURE COUNT TEST PASSED
+Handcount Before: 244
+Handcount After: 244
+	HANDCOUNT TEST FAILED
+
+Player #: 2
+Treasures Before: 136
+Treasures After: 138
+	TREASURE COUNT TEST PASSED
+Handcount Before: 334
+Handcount After: 334
+	HANDCOUNT TEST FAILED
+
+
+Test #: 24
+
+Player #: 0
+Treasures Before: 4
+Treasures After: 6
+	TREASURE COUNT TEST PASSED
+Handcount Before: 37
+Handcount After: 39
+	HAND COUNT TEST PASSED
+
+Player #: 1
+Treasures Before: 37
+Treasures After: 39
+	TREASURE COUNT TEST PASSED
+Handcount Before: 323
+Handcount After: 323
+	HANDCOUNT TEST FAILED
+
+Player #: 2
+Treasures Before: 99
+Treasures After: 101
+	TREASURE COUNT TEST PASSED
+Handcount Before: 493
+Handcount After: 493
+	HANDCOUNT TEST FAILED
+
+Player #: 3
+Treasures Before: 129
+Treasures After: 131
+	TREASURE COUNT TEST PASSED
+Handcount Before: 256
+Handcount After: 256
+	HANDCOUNT TEST FAILED
+RANDOM TESTING OF ADVENTURE CARD IS COMPLETE
+File 'randomtestadventurer.c'
+Lines executed:97.83% of 46
+Creating 'randomtestadventurer.c.gcov'
+
+File 'randomtestadventurer.c'
+Lines executed:97.83% of 46
+Branches executed:100.00% of 28
+Taken at least once:96.43% of 28
+Calls executed:96.55% of 29
+Creating 'randomtestadventurer.c.gcov'
+
+        -:    0:Source:randomtestadventurer.c
+        -:    0:Graph:randomtestadventurer.gcno
+        -:    0:Data:randomtestadventurer.gcda
+        -:    0:Runs:1
+        -:    0:Programs:1
+        -:    1:#include "dominion.h"
+        -:    2:#include "dominion_helpers.h"
+        -:    3:#include <string.h>
+        -:    4:#include <stdio.h>
+        -:    5:#include <assert.h>
+        -:    6:#include "rngs.h"
+        -:    7:#include <time.h>
+        -:    8:#include <stdlib.h>
+        -:    9:
+        -:   10:#include "dominion.h"
+        -:   11:#define MAX_TESTS 25
+        -:   12:
+        -:   13://REFFERENCES
+        -:   14:/*
+        -:   15:https://github.com/CS362-Winter-2016/cs362w16_phamju/blob/8dff85e2d0541d248c228967afe2f2ec89b8e032/dominion/playMe.c
+        -:   16:https://github.com/aburasali/cs362sp16/blob/6e08b61c7e573a9268fc278ebd298d0fdef5360a/projects/castigla/dominion/randomtestcard.c
+        -:   17:https://github.com/CS362-Winter-2016/cs362w16_eilertsm/blob/205a6d7501f695c3d9719a089bf13635020da6b2/dominion/randomtestadventurer.c
+        -:   18:https://github.com/CS362-Winter-2016/cs362w16_klindtwj/blob/master/dominion/randomtestadventurer.c
+        -:   19:https://github.com/CS362-Winter-2016/cs362w16_phamju/blob/8dff85e2d0541d248c228967afe2f2ec89b8e032/dominion/playMe.c
+        -:   20:https://github.com/aburasali/cs362sp16/blob/6e08b61c7e573a9268fc278ebd298d0fdef5360a/projects/tungr/dominion/randomtestadventurer.c
+        -:   21:
+        -:   22:*/
+        -:   23:
+function main called 1 returned 100% blocks executed 98%
+        1:   24:int main(){
+        -:   25:
+        -:   26:	//make new game object
+        1:   27:	struct gameState* G = newGame();
+call    0 returned 100%
+        -:   28:	//list of cards was taken from
+        -:   29:    //used the following reffence https://github.com/CS362-Winter-2016/cs362w16_phamju/blob/8dff85e2d0541d248c228967afe2f2ec89b8e032/dominion/playMe.c
+        1:   30:  	char *cardNames[] = {"curse", "estate", "duchy", "province", "copper", "silver", "gold", "adventurer", "council_room", "feast",
+        -:   31:  								"gardens", "mine", "remodel", "smithy", "village", "baron", "great_hall", "minion", "steward", "tribute",
+        -:   32:  								"ambassador", "cutpurse", "embargo", "outpost", "salvager", "sea_hag", "treasure_map"};
+        -:   33:    //cards that will be used to initialize the game
+        1:   34:    int k[10] = {adventurer, gardens, embargo, village, minion, mine, cutpurse, sea_hag, tribute, smithy};
+        -:   35:
+        -:   36:    int players, player, randomSeed, choice1, choice2, choice3, choice4, handPos, checkTreasure, countTreasurebefore, countTreasureafter, handOriginal;
+        -:   37:	//seeding the rand() function
+        -:   38:	time_t t;
+        1:   39:	srand((unsigned) time(&t));  //seeding the rand() function
+call    0 returned 100%
+call    1 returned 100%
+        1:   40:	printf("ADVENTURE CARD RANDOME TESTING\n\n");
+call    0 returned 100%
+        -:   41:    int w;
+       26:   42:	for(w = 0; w < MAX_TESTS; w++){
+branch  0 taken 96%
+branch  1 taken 4% (fallthrough)
+       25:   43:        countTreasurebefore = 0;
+       25:   44:        countTreasureafter = 0;
+       25:   45:        printf("\n\nTest #: %d\n", w);
+call    0 returned 100%
+        -:   46:        //random number of player from 2 to 4
+       25:   47:		players = (rand() % 3) + 2;
+call    0 returned 100%
+        -:   48:		//randomize the seed
+       25:   49:		randomSeed = (rand() % 17) + 1;
+call    0 returned 100%
+        -:   50:	    //initialize the game
+        -:   51:        //int initializeGame(int numPlayers, int kingdomCards[10], int randomSeed,  struct gameState *state) {
+       25:   52:		initializeGame(players, k, randomSeed, G);
+call    0 returned 100%
+        -:   53:        //loop through all the players to ranomize their decks
+      102:   54:		for(player = 0; player < players; player++){
+branch  0 taken 75%
+branch  1 taken 25% (fallthrough)
+       77:   55:            printf("\nPlayer #: %d\n", player);
+call    0 returned 100%
+        -:   56:			//the test the card, I will run the following function:
+        -:   57:			//if ( cardEffect(card, choice1, choice2, choice3, state, handPos, &coin_bonus) < 0 )
+       77:   58:            choice1 = rand() % 2;
+call    0 returned 100%
+       77:   59:			choice2 = rand() % 2;
+call    0 returned 100%
+       77:   60:			choice3 = rand() % 2;
+call    0 returned 100%
+       77:   61:			handPos = rand() % 4;
+call    0 returned 100%
+        -:   62:			//randomize the deck count
+       77:   63:			G->deckCount[player] = rand() % MAX_DECK;
+call    0 returned 100%
+        -:   64:			//randomize discardcount
+       77:   65:            G->discardCount[player] = rand() % MAX_DECK;
+call    0 returned 100%
+        -:   66:            //randomize handcount
+       77:   67:            handOriginal = G->handCount[player] = rand() % MAX_HAND;
+call    0 returned 100%
+        -:   68:            //randomize the card content for all 3 decks
+        -:   69:            int i;
+        -:   70:            //assign random cards in the deck
+    20280:   71:            for(i = 0; i < G->deckCount[player]; i++){
+branch  0 taken 99%
+branch  1 taken 1% (fallthrough)
+    20203:   72:				G->deck[player][i] = rand() % 27;
+call    0 returned 100%
+        -:   73:            };
+        -:   74:
+        -:   75:			//assign random cards in the discard pile
+    20032:   76:			for(i = 0; i < G->discardCount[player]; i++){
+branch  0 taken 99%
+branch  1 taken 1% (fallthrough)
+    19955:   77:				G->discard[player][i] = rand() % 27;
+call    0 returned 100%
+        -:   78:
+        -:   79:			}
+        -:   80:			//assign random cards in the hand pile
+    20639:   81:			for(i = 0; i < G->handCount[player]; i++){
+branch  0 taken 99%
+branch  1 taken 1% (fallthrough)
+    20562:   82:				G->hand[player][i] = rand() % 27;
+call    0 returned 100%
+    20562:   83:					if(G->hand[player][i] == copper || G->hand[player][i] == silver || G->hand[player][i] == gold){
+branch  0 taken 96% (fallthrough)
+branch  1 taken 4%
+branch  2 taken 96% (fallthrough)
+branch  3 taken 4%
+branch  4 taken 4% (fallthrough)
+branch  5 taken 96%
+     2374:   84:					countTreasurebefore++;
+        -:   85:				}
+        -:   86:			}
+        -:   87:
+        -:   88:			//play the adventure card
+       77:   89:			cardEffect(adventurer, choice1, choice2, choice3, G, handPos, 0);
+call    0 returned 100%
+        -:   90:			/*
+        -:   91:			    Adventure is an action card with the terminal action that digs for treasure cards in the deck. The palayer
+        -:   92:                draws cards from their deck until they get 2 treasure cards. The treasure cards are added to the deck of the
+        -:   93:                player and the rest of the cards that were revealed are placed in the discard pile. In case the deck is empty
+        -:   94:                before the player find 2 treasure cards, the discarded cards are shuffled and placed on the deck.
+        -:   95:            */
+        -:   96:
+        -:   97:            //according to the description above, the treasure count should increase +2
+        -:   98:			//check number of treasures after the adventure card was played
+    20689:   99:			for(i = 0; i < G->handCount[player]; i++){
+branch  0 taken 99%
+branch  1 taken 1% (fallthrough)
+    20612:  100:				if(G->hand[player][i] == copper || G->hand[player][i] == silver || G->hand[player][i]== gold){
+branch  0 taken 96% (fallthrough)
+branch  1 taken 4%
+branch  2 taken 96% (fallthrough)
+branch  3 taken 4%
+branch  4 taken 4% (fallthrough)
+branch  5 taken 96%
+     2424:  101:					countTreasureafter++;
+        -:  102:				}
+        -:  103:			}
+       77:  104:            printf("Treasures Before: %d\n", countTreasurebefore);
+call    0 returned 100%
+       77:  105:			printf("Treasures After: %d\n", countTreasureafter);
+call    0 returned 100%
+       77:  106:			if(countTreasureafter == countTreasurebefore + 2){
+branch  0 taken 100% (fallthrough)
+branch  1 taken 0%
+       77:  107:				printf("	TREASURE COUNT TEST PASSED\n");
+call    0 returned 100%
+        -:  108:			} else {
+    #####:  109:				printf("	TREASURE COUNT TEST FAILED\n");
+call    0 never executed
+        -:  110:			}
+        -:  111:            //according to the description of the adventure card above, the handcount should increase +2
+       77:  112:            printf("Handcount Before: %d\n", handOriginal);
+call    0 returned 100%
+       77:  113:			printf("Handcount After: %d\n", G->handCount[player]);
+call    0 returned 100%
+        -:  114:
+       77:  115:          if(handOriginal + 2 == G->handCount[player]){
+branch  0 taken 32% (fallthrough)
+branch  1 taken 68%
+       25:  116:				printf("	HAND COUNT TEST PASSED\n");
+call    0 returned 100%
+        -:  117:			} else {
+       52:  118:				printf("	HANDCOUNT TEST FAILED\n");
+call    0 returned 100%
+        -:  119:			}
+        -:  120:		}
+        -:  121:
+        -:  122:
+        -:  123:	}
+        -:  124:
+        1:  125:	printf("RANDOM TESTING OF ADVENTURE CARD IS COMPLETE\n");
+call    0 returned 100%
+        1:  126:	return 0;
+        -:  127:}
+%****************************RANDOM TESTING COMPLETE****************************%

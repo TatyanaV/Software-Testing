@@ -1,0 +1,539 @@
+        -:    0:Source:cardtest1.c
+        -:    0:Graph:cardtest1.gcno
+        -:    0:Data:cardtest1.gcda
+        -:    0:Runs:1
+        -:    0:Programs:1
+        -:    1:#include "stdlib.h"
+        -:    2:#include "stdio.h"
+        -:    3:#include "string.h"
+        -:    4:#include "math.h"
+        -:    5:#include "time.h"
+        -:    6:#include "assert.h"
+        -:    7:
+        -:    8:#include "rngs.h"
+        -:    9:#include "dominion.h"
+        -:   10:#include "dominion_helpers.h"
+        -:   11:#include "unitTestLib.h"
+        -:   12:
+        -:   13://void playAdventurer(struct gameState*, int, int*);
+        -:   14:int playAdventurer(struct gameState*);
+        -:   15:/* Function to Be Tested
+        -:   16: *
+        -:   17: * Description: This card should reveal cards until 2 treasure cards have been revealed. After, all non 
+        -:   18: *    treasure cards should be discarded.
+        -:   19: *
+        -:   20: *    The way it works is:
+        -:   21: *	 WHILE less than 2 treasures have been drawn
+        -:   22: *	 IF deckCount for player is less than 1 shuffle discard into deck     //state affected - vars:deck[player]
+        -:   23: *	 - Draw a card for the player					      //state affected - vars:deck[player], deckCount[player], hand[player], handCount[player]
+        -:   24: *	 IF card drawn is copper, silver, or gold increment treasure count
+        -:   25: *	 ELSE set card aside to discard later, decrement the handcount by 1, and increase size of temporary hand. //state affected - vars:handCount[player]
+        -:   26: *	 END IF/ELSE
+        -:   27: *	 END IF
+        -:   28: *	 END WHILE
+        -:   29: *	 WHILE One minus the temporary count > 0
+        -:   30: *	 - Set the top of the discard pile equal to the card at the z-1 index in temporary hand
+        -:   31: *	 - Decrement z
+        -:   32: *
+        -:   33: * Eval: 
+        -:   34: *
+        -:   35: * The shuffle function doesn't shuffle the discard back into deck. It just shuffles the deck so if deckCount < 1,
+        -:   36: *    there may be an infinite loop.
+        -:   37: * The "top" card of the hand has been the last card in the players hand (ie. index = handCount-1), card for comparison
+        -:   38: *    won't be the right card
+        -:   39: */
+        -:   40:/*
+        -:   41:void playAdventurer(struct gameState *state, int currentPlayer, int* temphand){
+        -:   42:
+        -:   43:  int drawntreasure=0;
+        -:   44:  int cardDrawn;
+        -:   45:  int z = 0;// this is the counter for the temp hand
+        -:   46:
+        -:   47:   while(drawntreasure<2){
+        -:   48:      if (state->deckCount[currentPlayer] <1){//if the deck is empty we need to shuffle discard and add to deck
+        -:   49:	 shuffle(currentPlayer, state);
+        -:   50:      }
+        -:   51:      drawCard(currentPlayer, state);
+        -:   52:      cardDrawn = state->hand[currentPlayer][0];//top card of hand is most recently drawn card.
+        -:   53:      if (cardDrawn == copper || cardDrawn == silver || cardDrawn == gold)
+        -:   54:	 drawntreasure++;
+        -:   55:      else{
+        -:   56:	 temphand[z]=cardDrawn;
+        -:   57:	 state->handCount[currentPlayer]--; //this should just remove the top card (the most recently drawn one).
+        -:   58:	 z++;
+        -:   59:      }
+        -:   60:   }
+        -:   61:
+        -:   62:   while(z-1>=0){
+        -:   63:      state->discard[currentPlayer][state->discardCount[currentPlayer]++]=temphand[z-1]; // discard all cards in play that have been drawn
+        -:   64:      z=z-1;
+        -:   65:   }
+        -:   66:   return;
+        -:   67:}
+        -:   68:*/
+function basicTest called 1 returned 100% blocks executed 71%
+        1:   69:int basicTest(struct gameState* state){
+        -:   70:
+        1:   71:   int* tempHand = malloc(MAX_HAND * sizeof(int));
+        1:   72:   memset(tempHand, 0, MAX_HAND * sizeof(int));
+        -:   73:
+        1:   74:   state->numPlayers = 2;
+        1:   75:   state->deckCount[0] = 27;
+        -:   76:
+        -:   77:   int i;
+        -:   78:   //Deck should include at one copper, one silver, and one gold to be found
+       28:   79:   for(i = 0;  i < state->deckCount[0]; i++){
+branch  0 taken 96%
+branch  1 taken 4% (fallthrough)
+       27:   80:      state->deck[0][i] = gardens;
+       27:   81:      if(i > 4 && i < 8){
+branch  0 taken 81% (fallthrough)
+branch  1 taken 19%
+branch  2 taken 14% (fallthrough)
+branch  3 taken 86%
+        3:   82:    	  state->deck[0][i] = copper;
+        -:   83:      }
+        -:   84:   }
+        1:   85:   state->handCount[0] = 5;
+        6:   86:   for(i = 0;  i < state->handCount[0]; i++){
+branch  0 taken 83%
+branch  1 taken 17% (fallthrough)
+        5:   87:      state->hand[0][i] = copper;
+        -:   88:   }
+        1:   89:   state->discardCount[0] = 10;
+       11:   90:   for(i = 0;  i < state->discardCount[0]; i++){
+branch  0 taken 91%
+branch  1 taken 9% (fallthrough)
+       10:   91:      state->discard[0][i] = i;
+        -:   92:   }
+        -:   93:
+        1:   94:   struct gameState* cpy = (struct gameState*)(malloc(sizeof(struct gameState)));
+        1:   95:   memcpy(cpy, state, sizeof(struct gameState));
+        -:   96:
+        1:   97:   playAdventurer(state);
+call    0 returned 100%
+        -:   98:
+        -:   99:   //Only copper in Deck, so last two cards in hand must be copper
+        1:  100:   if(state->hand[0][state->handCount[0]-1] != copper &&
+branch  0 taken 0% (fallthrough)
+branch  1 taken 100%
+branch  2 never executed
+branch  3 never executed
+    #####:  101:	  state->hand[0][state->handCount[0]-2] != copper){
+    #####:  102:	   return -1;
+        -:  103:   }
+        -:  104:
+        -:  105:   //2 new copper cards added to hand, and adventurer discarded
+        1:  106:   if(state->handCount[0] != cpy->handCount[0]+1){
+branch  0 taken 100% (fallthrough)
+branch  1 taken 0%
+        1:  107:	   return -2;
+        -:  108:   }
+        -:  109:
+        -:  110:   //Takes 5 draws to find the first copper
+    #####:  111:   if(state->discardCount[0] != cpy->discardCount[0]+5){
+branch  0 never executed
+branch  1 never executed
+    #####:  112:	   return -3;
+        -:  113:   }
+        -:  114:   //Wrong card discarded, only copper and gardens in deck
+    #####:  115:   if(state->discard[0][state->discardCount[0]-1] != gardens){
+branch  0 never executed
+branch  1 never executed
+    #####:  116:	   return -4;
+        -:  117:   }
+        -:  118:
+        -:  119:   //Card should exit normally as expected
+    #####:  120:   free(tempHand);
+    #####:  121:   return 0;
+        -:  122:}
+        -:  123:
+        -:  124://Corrects a state difference in state by matching to cpy's state
+        -:  125://Returns the unitTestLib code for which state variable was affected.
+function _stateTestHelper called 6 returned 100% blocks executed 62%
+        6:  126:int _stateTestHelper(struct gameState* state, struct gameState* cpy, int i){
+        -:  127:   int j;
+        6:  128:   int retVal = abs(checkState(cpy, state));
+call    0 returned 100%
+        6:  129:   switch (retVal){
+branch  0 taken 17%
+branch  1 taken 17%
+branch  2 taken 17%
+branch  3 taken 17%
+branch  4 taken 0%
+branch  5 taken 0%
+branch  6 taken 17%
+branch  7 taken 0%
+branch  8 taken 17%
+        -:  130:
+        -:  131:     case 11:
+      501:  132:		 for(j = 0; j < MAX_HAND; j++){
+branch  0 taken 99%
+branch  1 taken 1% (fallthrough)
+      500:  133:			state->hand[i][j] = cpy->hand[i][j];
+        -:  134:		 }
+        1:  135:		 return 11;
+        -:  136:
+        -:  137:     case 12:
+        1:  138:		 state->handCount[i] = cpy->handCount[i];
+        1:  139:		 return 12;
+        -:  140:
+        -:  141:     case 13:
+      501:  142:		 for(j = 0; j < MAX_DECK; j++){
+branch  0 taken 99%
+branch  1 taken 1% (fallthrough)
+      500:  143:			state->discard[i][j] = cpy->discard[i][j];
+        -:  144:		 }
+        1:  145:		 return 13;
+        -:  146:
+        -:  147:     case 14:
+        1:  148:		 state->discardCount[i] = cpy->discardCount[i];
+        1:  149:		 return 14;
+        -:  150:
+        -:  151:     case 15:
+    #####:  152:    	  for(j = 0; j < MAX_DECK; j++){
+branch  0 never executed
+branch  1 never executed
+    #####:  153:    		  state->playedCards[j] = cpy->playedCards[j];
+        -:  154:    	  }
+    #####:  155:		 return 15;
+        -:  156:
+        -:  157:     case 16:
+    #####:  158:		 state->playedCardCount = cpy->playedCardCount;
+    #####:  159:		 return 16;
+        -:  160:
+        -:  161:     case 17:
+        1:  162:    	 state->deckCount[i] = cpy->deckCount[i];
+        1:  163:    	 return 17;
+        -:  164:
+        -:  165:     case 18:
+        -:  166:
+    #####:  167:		 for(j = 0; j < MAX_DECK; j++){
+branch  0 never executed
+branch  1 never executed
+    #####:  168:			 state->deck[i][j] = cpy->deck[i][j];
+        -:  169:		 }
+    #####:  170:		 return 18;
+        -:  171:
+        -:  172:      default:
+        1:  173:	 if(retVal){
+branch  0 taken 0% (fallthrough)
+branch  1 taken 100%
+    #####:  174:	    return retVal;
+        -:  175:	 } else {
+        1:  176:	    return 0;
+        -:  177:	 }
+        -:  178:   }
+        -:  179:}
+        -:  180:
+function _stateTrackerChecker called 1 returned 100% blocks executed 100%
+        1:  181:int _stateTrackerChecker(int* tracker){
+        -:  182:   int i;
+        1:  183:   int count = 0;
+       20:  184:   for(i = 0; i < 19; i++){
+branch  0 taken 95%
+branch  1 taken 5% (fallthrough)
+       19:  185:      if(tracker[i] > 0){
+branch  0 taken 26% (fallthrough)
+branch  1 taken 74%
+        5:  186:	 count++;
+        -:  187:      }
+        -:  188:   }
+        1:  189:   return count;
+        -:  190:}
+        -:  191:
+function stateTest called 1 returned 100% blocks executed 86%
+        1:  192:int stateTest(struct gameState* state, int expectedStateChanges){
+        -:  193:
+        1:  194:   int* tempHand = malloc(MAX_HAND * sizeof(int));
+        1:  195:   memset(tempHand, 0, MAX_HAND * sizeof(int));
+        -:  196:
+        1:  197:   int* stateTracker = (int*)(malloc(19*sizeof(int)));
+        1:  198:   memset(stateTracker, 0, 19*sizeof(int));
+        -:  199:
+        -:  200:   int i, retVal;
+        -:  201:
+        1:  202:   state->numPlayers = 2;
+        1:  203:   state->deckCount[0] = 27;
+        -:  204:
+        -:  205:   //Deck should include at one copper, one silver, and one gold to be found
+       28:  206:   for(i = 0;  i < state->deckCount[0]; i++){
+branch  0 taken 96%
+branch  1 taken 4% (fallthrough)
+       27:  207:      state->deck[0][i] = i;
+        -:  208:   }
+        1:  209:   state->handCount[0] = 5;
+        -:  210:
+        -:  211:   //Fill hand with copper
+        6:  212:   for(i = 0;  i < state->handCount[0]; i++){
+branch  0 taken 83%
+branch  1 taken 17% (fallthrough)
+        5:  213:      state->hand[0][i] = copper;  //<-------CAUSES ENDLESS LOOP IF hand[0] != treasure
+        -:  214:   }
+        1:  215:   state->discardCount[0] = 10;
+       11:  216:   for(i = 0;  i < state->discardCount[0]; i++){
+branch  0 taken 91%
+branch  1 taken 9% (fallthrough)
+       10:  217:      state->discard[0][i] = i;
+        -:  218:   }
+        -:  219:
+        1:  220:   struct gameState* cpy = (struct gameState*)(malloc(sizeof(struct gameState)));
+        1:  221:   memcpy(cpy, state, sizeof(struct gameState));
+        -:  222:
+        1:  223:   playAdventurer(state);
+call    0 returned 100%
+        -:  224:   do{
+        -:  225:
+        6:  226:      retVal = _stateTestHelper(state, cpy, 0);
+call    0 returned 100%
+        6:  227:      if(retVal){
+branch  0 taken 83% (fallthrough)
+branch  1 taken 17%
+        5:  228:    	  stateTracker[retVal]++;
+        5:  229:    	  if(stateTracker[retVal] > 1){
+branch  0 taken 0% (fallthrough)
+branch  1 taken 100%
+    #####:  230:    		  printf("stateTest %i: Can't Clear State Error\n", retVal);
+call    0 never executed
+    #####:  231:    		  return -retVal;
+        -:  232:    	  }
+        -:  233:      }
+        6:  234:   } while (retVal);
+branch  0 taken 83%
+branch  1 taken 17% (fallthrough)
+        -:  235:
+        1:  236:   int sc = _stateTrackerChecker(stateTracker);
+call    0 returned 100%
+        -:  237:
+        1:  238:   if(sc != expectedStateChanges){
+branch  0 taken 100% (fallthrough)
+branch  1 taken 0%
+        1:  239:	   printf("stateTest -1: State error, %i Extra Changes\n", sc-expectedStateChanges);
+call    0 returned 100%
+        1:  240:	   return -1;
+        -:  241:   }
+    #####:  242:   free(stateTracker);
+    #####:  243:   free(cpy);
+    #####:  244:   free(tempHand);
+    #####:  245:   return 0;
+        -:  246:}
+        -:  247:
+function discardTest called 1 returned 100% blocks executed 93%
+        1:  248:int discardTest(struct gameState* state){
+        -:  249:
+        1:  250:   int* tempHand = malloc(MAX_HAND * sizeof(int));
+        1:  251:   memset(tempHand, 0, MAX_HAND * sizeof(int));
+        -:  252:
+        1:  253:   state->numPlayers = 2;
+        1:  254:   state->deckCount[0] = 27;
+        -:  255:
+        -:  256:   int i;
+        -:  257:   //Deck should include at one copper, one silver, and one gold to be found
+       28:  258:   for(i = 0;  i < state->deckCount[0]; i++){
+branch  0 taken 96%
+branch  1 taken 4% (fallthrough)
+       27:  259:      state->deck[0][i] = i;
+        -:  260:   }
+        1:  261:   state->handCount[0] = 5;
+        6:  262:   for(i = 5;  i < 5 + state->handCount[0]; i++){
+branch  0 taken 83%
+branch  1 taken 17% (fallthrough)
+        5:  263:      state->hand[0][i-5] = i;
+        -:  264:   }
+        1:  265:   state->discardCount[0] = 10;
+       11:  266:   for(i = 0;  i < state->discardCount[0]; i++){
+branch  0 taken 91%
+branch  1 taken 9% (fallthrough)
+       10:  267:      state->discard[0][i] = i;
+        -:  268:   }
+        -:  269:
+        1:  270:   struct gameState* cpy = (struct gameState*)(malloc(sizeof(struct gameState)));
+        1:  271:   memcpy(cpy, state, sizeof(struct gameState));
+        -:  272:
+        1:  273:   playAdventurer(state);
+call    0 returned 100%
+        1:  274:   if(state->discardCount[0] != cpy->discardCount[0]+1){
+branch  0 taken 0% (fallthrough)
+branch  1 taken 100%
+    #####:  275:	   free(cpy);
+    #####:  276:	   free(tempHand);
+    #####:  277:	   return -1;
+        -:  278:   }
+        -:  279:   //Card should exit normally as expected
+        1:  280:   free(cpy);
+        1:  281:   free(tempHand);
+        1:  282:   return 0;
+        -:  283:}
+        -:  284:
+function noTreasureInDeckOrDiscardTest called 1 returned 100% blocks executed 100%
+        1:  285:int noTreasureInDeckOrDiscardTest(struct gameState* state){
+        -:  286:
+        1:  287:   int* tempHand = malloc(MAX_HAND * sizeof(int));
+        1:  288:   memset(tempHand, 0, MAX_HAND * sizeof(int));
+        -:  289:
+        1:  290:   state->numPlayers = 2;
+        1:  291:   state->deckCount[0] = 5;
+        -:  292:
+        -:  293:   int i;
+        6:  294:   for(i = 0;  i < state->deckCount[0]; i++){
+branch  0 taken 83%
+branch  1 taken 17% (fallthrough)
+        5:  295:      state->deck[0][i] = 10;
+        -:  296:   }
+        1:  297:   state->handCount[0] = 5;
+        6:  298:   for(i = 0;  i < state->handCount[0]; i++){
+branch  0 taken 83%
+branch  1 taken 17% (fallthrough)
+        5:  299:      state->hand[0][i] = 5;
+        -:  300:   }
+        1:  301:   state->discardCount[0] = 5;
+        6:  302:   for(i = 0;  i < state->discardCount[0]; i++){
+branch  0 taken 83%
+branch  1 taken 17% (fallthrough)
+        5:  303:      state->discard[0][i] = 10;
+        -:  304:   }
+        -:  305:
+        1:  306:   playAdventurer(state);
+call    0 returned 100%
+        -:  307:   //Game should enter infinite loop with no treasure in deck or discard
+        1:  308:   free(tempHand);
+        1:  309:   return 0;
+        -:  310:}
+        -:  311:
+function noCardsInDeckTest called 1 returned 100% blocks executed 92%
+        1:  312:int noCardsInDeckTest(struct gameState* state){
+        -:  313:
+        1:  314:   int* tempHand = malloc(MAX_HAND * sizeof(int));
+        1:  315:   memset(tempHand, 0, MAX_HAND * sizeof(int));
+        -:  316:
+        1:  317:   state->numPlayers = 2;
+        1:  318:   state->deckCount[0] = 0;
+        1:  319:   state->handCount[0] = 5;
+        1:  320:   state->discardCount[0] = 5;
+        -:  321:
+        -:  322:   int i;
+        1:  323:   for(i = 0;  i < state->deckCount[0]; i++){
+branch  0 taken 0%
+branch  1 taken 100% (fallthrough)
+    #####:  324:      state->deck[0][i] = 10;
+        -:  325:   }
+        -:  326:
+        6:  327:   for(i = 0;  i < state->handCount[0]; i++){
+branch  0 taken 83%
+branch  1 taken 17% (fallthrough)
+        5:  328:      state->hand[0][i] = 5;
+        -:  329:   }
+        -:  330:
+        6:  331:   for(i = 0;  i < state->discardCount[0]; i++){
+branch  0 taken 83%
+branch  1 taken 17% (fallthrough)
+        5:  332:      state->discard[0][i] = 10;
+        -:  333:   }
+        -:  334:
+        1:  335:   playAdventurer(state);
+call    0 returned 100%
+        -:  336:   //Game should enter infinite loop with no treasure in deck or discard
+        1:  337:   free(tempHand);
+        1:  338:   return 0;
+        -:  339:}
+        -:  340:
+function unitTest called 1 returned 100% blocks executed 82%
+        1:  341:int unitTest(){
+        -:  342:
+        1:  343:   printf("\n+--------------------------------ADVENTURER CARD TEST----------------------------+\n");
+call    0 returned 100%
+        -:  344:   //Create Zeroed Gamestate;
+        1:  345:   struct gameState* testState = (struct gameState*)(malloc(sizeof(struct gameState)));
+        1:  346:   memset(testState, 0, sizeof(struct gameState));
+        1:  347:   int retVal = 0;
+        -:  348:
+        1:  349:   printf("\n+------basicTest------+\n\n");
+call    0 returned 100%
+        1:  350:   retVal = basicTest(testState);
+call    0 returned 100%
+        1:  351:   if(retVal != 0){
+branch  0 taken 100% (fallthrough)
+branch  1 taken 0%
+        1:  352:      printf("basicTest %i: Test Failed, \n", retVal);
+call    0 returned 100%
+        -:  353:   } else {
+    #####:  354:      printf("basicTest: Successful\n");
+call    0 never executed
+        -:  355:   }
+        1:  356:   memset(testState, 0, sizeof(struct gameState));
+        -:  357:
+        1:  358:   printf("\n+--------stateTest----------+\n\n");
+call    0 returned 100%
+        -:  359:   //Checks to ensure no values in current state are changed after function
+        1:  360:   retVal = stateTest(testState, 8);// Expected: hand, handCount, deck, deckCount, discard, discardCount, played, playedCount
+call    0 returned 100%
+        1:  361:   if(retVal){
+branch  0 taken 100% (fallthrough)
+branch  1 taken 0%
+        1:  362:	   printf("stateTest %i: Failed State Test\n", retVal);
+call    0 returned 100%
+        -:  363:	   //return -3;
+        -:  364:   } else {
+    #####:  365:		   printf("stateTest: Successful\n");
+call    0 never executed
+        -:  366:   }
+        -:  367:   
+        1:  368:   printf("\n+--------discardTest----------+\n\n");
+call    0 returned 100%
+        -:  369:   //Checks to ensure Adventurer Card is Discarded
+        1:  370:   retVal = discardTest(testState);
+call    0 returned 100%
+        1:  371:   if(retVal){
+branch  0 taken 0% (fallthrough)
+branch  1 taken 100%
+    #####:  372:	   printf("discardTest %i: Failed Discard Test\n", retVal);
+call    0 never executed
+        -:  373:	   //return -3;
+        -:  374:   } else {
+        1:  375:		   printf("discardTest: Successful\n");
+call    0 returned 100%
+        -:  376:   }
+        -:  377:
+        1:  378:   printf("\n+------noTreasureInDeckOrDiscardTest------+\n\n");
+call    0 returned 100%
+        1:  379:   retVal = noTreasureInDeckOrDiscardTest(testState);
+call    0 returned 100%
+        1:  380:   if(retVal == 0){
+branch  0 taken 100% (fallthrough)
+branch  1 taken 0%
+        1:  381:      printf("noTresureInDeckOrDiscardTest -1: Test Failed, Card Found Non Existent Treasures\n");
+call    0 returned 100%
+        -:  382:   } else {
+    #####:  383:      printf("noTreasureInDeckOrDiscardTest: Successful\n");
+call    0 never executed
+        -:  384:   }
+        1:  385:   memset(testState, 0, sizeof(struct gameState));
+        -:  386:
+        1:  387:   printf("\n+------noCardsInDeckTest------+\n\n");
+call    0 returned 100%
+        1:  388:    retVal = noCardsInDeckTest(testState);
+call    0 returned 100%
+        1:  389:    if(retVal == 0){
+branch  0 taken 100% (fallthrough)
+branch  1 taken 0%
+        1:  390:       printf("noCardsInDeckTest -1: Test Failed, Treasure Found When Deck Empty\n");
+call    0 returned 100%
+        -:  391:    } else {
+    #####:  392:       printf("noCardsInDeckTest: Successful\n");
+call    0 never executed
+        -:  393:    }
+        -:  394:
+        1:  395:   free(testState);
+        1:  396:   return retVal;
+        -:  397:}
+        -:  398:
+function main called 1 returned 100% blocks executed 100%
+        1:  399:int main(){
+        1:  400:   int testVal = unitTest();
+call    0 returned 100%
+        1:  401:   printf("Outcome: %i\n", testVal);
+call    0 returned 100%
+        1:  402:   return 0;
+        -:  403:}
+        -:  404:
+        -:  405:

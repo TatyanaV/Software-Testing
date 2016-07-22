@@ -1,0 +1,5321 @@
+TESTING ADVENTURER	TEST #: 0
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+Actual hand size = 5, Expected hand size = 6  
+Test Failed!
+state->discardCount[j] <= cpyState->discardCount[j]
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+TESTING ADVENTURER	TEST #: 1
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+Actual hand size = 5, Expected hand size = 6  
+Test Failed!
+state->discardCount[j] <= cpyState->discardCount[j]
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+TESTING ADVENTURER	TEST #: 2
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+Actual hand size = 5, Expected hand size = 6  
+Test Failed!
+state->discardCount[j] <= cpyState->discardCount[j]
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+TESTING ADVENTURER	TEST #: 3
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+Actual hand size = 5, Expected hand size = 6  
+Test Failed!
+state->discardCount[j] <= cpyState->discardCount[j]
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+TESTING ADVENTURER	TEST #: 4
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+Actual hand size = 5, Expected hand size = 6  
+Test Failed!
+state->discardCount[j] <= cpyState->discardCount[j]
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+TESTING ADVENTURER	TEST #: 5
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+Actual hand size = 5, Expected hand size = 6  
+Test Failed!
+state->discardCount[j] <= cpyState->discardCount[j]
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+TESTING ADVENTURER	TEST #: 6
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+Actual hand size = 5, Expected hand size = 6  
+Test Failed!
+state->discardCount[j] <= cpyState->discardCount[j]
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+TESTING ADVENTURER	TEST #: 7
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+Actual hand size = 5, Expected hand size = 6  
+Test Failed!
+state->discardCount[j] <= cpyState->discardCount[j]
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+TESTING ADVENTURER	TEST #: 8
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+Actual hand size = 5, Expected hand size = 6  
+Test Failed!
+state->discardCount[j] <= cpyState->discardCount[j]
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+TESTING ADVENTURER	TEST #: 9
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+Actual hand size = 5, Expected hand size = 6  
+Test Failed!
+state->discardCount[j] <= cpyState->discardCount[j]
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+TESTING ADVENTURER	TEST #: 10
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+Actual hand size = 5, Expected hand size = 6  
+Test Failed!
+state->discardCount[j] <= cpyState->discardCount[j]
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+TESTING ADVENTURER	TEST #: 11
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+Actual hand size = 5, Expected hand size = 6  
+Test Failed!
+state->discardCount[j] <= cpyState->discardCount[j]
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+TESTING ADVENTURER	TEST #: 12
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+Actual hand size = 5, Expected hand size = 6  
+Test Failed!
+state->discardCount[j] <= cpyState->discardCount[j]
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+TESTING ADVENTURER	TEST #: 13
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+Actual hand size = 5, Expected hand size = 6  
+Test Failed!
+state->discardCount[j] <= cpyState->discardCount[j]
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+TESTING ADVENTURER	TEST #: 14
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+Actual hand size = 5, Expected hand size = 6  
+Test Failed!
+state->discardCount[j] <= cpyState->discardCount[j]
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+TESTING ADVENTURER	TEST #: 15
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+Actual hand size = 5, Expected hand size = 6  
+Test Failed!
+state->discardCount[j] <= cpyState->discardCount[j]
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+TESTING ADVENTURER	TEST #: 16
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+Actual hand size = 5, Expected hand size = 6  
+Test Failed!
+state->discardCount[j] <= cpyState->discardCount[j]
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+TESTING ADVENTURER	TEST #: 17
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+Actual hand size = 5, Expected hand size = 6  
+Test Failed!
+state->discardCount[j] <= cpyState->discardCount[j]
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+TESTING ADVENTURER	TEST #: 18
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+Actual hand size = 5, Expected hand size = 6  
+Test Failed!
+state->discardCount[j] <= cpyState->discardCount[j]
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+TESTING ADVENTURER	TEST #: 19
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+Actual hand size = 5, Expected hand size = 6  
+Test Failed!
+state->discardCount[j] <= cpyState->discardCount[j]
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+TESTING ADVENTURER	TEST #: 20
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+Actual hand size = 5, Expected hand size = 6  
+Test Failed!
+state->discardCount[j] <= cpyState->discardCount[j]
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+TESTING ADVENTURER	TEST #: 21
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+Actual hand size = 5, Expected hand size = 6  
+Test Failed!
+state->discardCount[j] <= cpyState->discardCount[j]
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+TESTING ADVENTURER	TEST #: 22
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+Actual hand size = 5, Expected hand size = 6  
+Test Failed!
+state->discardCount[j] <= cpyState->discardCount[j]
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+TESTING ADVENTURER	TEST #: 23
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+Actual hand size = 5, Expected hand size = 6  
+Test Failed!
+state->discardCount[j] <= cpyState->discardCount[j]
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+TESTING ADVENTURER	TEST #: 24
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+Actual hand size = 5, Expected hand size = 6  
+Test Failed!
+state->discardCount[j] <= cpyState->discardCount[j]
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+TESTING ADVENTURER	TEST #: 25
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+Actual hand size = 5, Expected hand size = 6  
+Test Failed!
+state->discardCount[j] <= cpyState->discardCount[j]
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+TESTING ADVENTURER	TEST #: 26
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+Actual hand size = 5, Expected hand size = 6  
+Test Failed!
+state->discardCount[j] <= cpyState->discardCount[j]
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+TESTING ADVENTURER	TEST #: 27
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+Actual hand size = 5, Expected hand size = 6  
+Test Failed!
+state->discardCount[j] <= cpyState->discardCount[j]
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+TESTING ADVENTURER	TEST #: 28
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+Actual hand size = 5, Expected hand size = 6  
+Test Failed!
+state->discardCount[j] <= cpyState->discardCount[j]
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+TESTING ADVENTURER	TEST #: 29
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+Actual hand size = 5, Expected hand size = 6  
+Test Failed!
+state->discardCount[j] <= cpyState->discardCount[j]
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+TESTING ADVENTURER	TEST #: 30
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+Actual hand size = 5, Expected hand size = 6  
+Test Failed!
+state->discardCount[j] <= cpyState->discardCount[j]
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+TESTING ADVENTURER	TEST #: 31
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+Actual hand size = 5, Expected hand size = 6  
+Test Failed!
+state->discardCount[j] <= cpyState->discardCount[j]
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+TESTING ADVENTURER	TEST #: 32
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+Actual hand size = 5, Expected hand size = 6  
+Test Failed!
+state->discardCount[j] <= cpyState->discardCount[j]
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+TESTING ADVENTURER	TEST #: 33
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+Actual hand size = 5, Expected hand size = 6  
+Test Failed!
+state->discardCount[j] <= cpyState->discardCount[j]
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+TESTING ADVENTURER	TEST #: 34
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+Actual hand size = 5, Expected hand size = 6  
+Test Failed!
+state->discardCount[j] <= cpyState->discardCount[j]
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+TESTING ADVENTURER	TEST #: 35
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+Actual hand size = 5, Expected hand size = 6  
+Test Failed!
+state->discardCount[j] <= cpyState->discardCount[j]
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+TESTING ADVENTURER	TEST #: 36
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+Actual hand size = 5, Expected hand size = 6  
+Test Failed!
+state->discardCount[j] <= cpyState->discardCount[j]
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+TESTING ADVENTURER	TEST #: 37
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+Actual hand size = 5, Expected hand size = 6  
+Test Failed!
+state->discardCount[j] <= cpyState->discardCount[j]
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+TESTING ADVENTURER	TEST #: 38
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+Actual hand size = 5, Expected hand size = 6  
+Test Failed!
+state->discardCount[j] <= cpyState->discardCount[j]
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+TESTING ADVENTURER	TEST #: 39
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+Actual hand size = 5, Expected hand size = 6  
+Test Failed!
+state->discardCount[j] <= cpyState->discardCount[j]
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+TESTING ADVENTURER	TEST #: 40
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+Actual hand size = 5, Expected hand size = 6  
+Test Failed!
+state->discardCount[j] <= cpyState->discardCount[j]
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+TESTING ADVENTURER	TEST #: 41
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+Actual hand size = 5, Expected hand size = 6  
+Test Failed!
+state->discardCount[j] <= cpyState->discardCount[j]
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+TESTING ADVENTURER	TEST #: 42
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+Actual hand size = 5, Expected hand size = 6  
+Test Failed!
+state->discardCount[j] <= cpyState->discardCount[j]
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+TESTING ADVENTURER	TEST #: 43
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+Actual hand size = 5, Expected hand size = 6  
+Test Failed!
+state->discardCount[j] <= cpyState->discardCount[j]
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+TESTING ADVENTURER	TEST #: 44
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+Actual hand size = 5, Expected hand size = 6  
+Test Failed!
+state->discardCount[j] <= cpyState->discardCount[j]
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+TESTING ADVENTURER	TEST #: 45
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+Actual hand size = 5, Expected hand size = 6  
+Test Failed!
+state->discardCount[j] <= cpyState->discardCount[j]
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+TESTING ADVENTURER	TEST #: 46
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+Actual hand size = 5, Expected hand size = 6  
+Test Failed!
+state->discardCount[j] <= cpyState->discardCount[j]
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+TESTING ADVENTURER	TEST #: 47
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+Actual hand size = 5, Expected hand size = 6  
+Test Failed!
+state->discardCount[j] <= cpyState->discardCount[j]
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+TESTING ADVENTURER	TEST #: 48
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+Actual hand size = 5, Expected hand size = 6  
+Test Failed!
+state->discardCount[j] <= cpyState->discardCount[j]
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+TESTING ADVENTURER	TEST #: 49
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+Actual hand size = 5, Expected hand size = 6  
+Test Failed!
+state->discardCount[j] <= cpyState->discardCount[j]
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+TESTING ADVENTURER	TEST #: 50
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+Actual hand size = 5, Expected hand size = 6  
+Test Failed!
+state->discardCount[j] <= cpyState->discardCount[j]
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+TESTING ADVENTURER	TEST #: 51
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+Actual hand size = 5, Expected hand size = 6  
+Test Failed!
+state->discardCount[j] <= cpyState->discardCount[j]
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+TESTING ADVENTURER	TEST #: 52
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+Actual hand size = 5, Expected hand size = 6  
+Test Failed!
+state->discardCount[j] <= cpyState->discardCount[j]
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+TESTING ADVENTURER	TEST #: 53
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+Actual hand size = 5, Expected hand size = 6  
+Test Failed!
+state->discardCount[j] <= cpyState->discardCount[j]
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+TESTING ADVENTURER	TEST #: 54
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+Actual hand size = 5, Expected hand size = 6  
+Test Failed!
+state->discardCount[j] <= cpyState->discardCount[j]
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+TESTING ADVENTURER	TEST #: 55
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+Actual hand size = 5, Expected hand size = 6  
+Test Failed!
+state->discardCount[j] <= cpyState->discardCount[j]
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+TESTING ADVENTURER	TEST #: 56
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+Actual hand size = 5, Expected hand size = 6  
+Test Failed!
+state->discardCount[j] <= cpyState->discardCount[j]
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+TESTING ADVENTURER	TEST #: 57
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+Actual hand size = 5, Expected hand size = 6  
+Test Failed!
+state->discardCount[j] <= cpyState->discardCount[j]
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+TESTING ADVENTURER	TEST #: 58
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+Actual hand size = 5, Expected hand size = 6  
+Test Failed!
+state->discardCount[j] <= cpyState->discardCount[j]
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+TESTING ADVENTURER	TEST #: 59
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+Actual hand size = 5, Expected hand size = 6  
+Test Failed!
+state->discardCount[j] <= cpyState->discardCount[j]
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+TESTING ADVENTURER	TEST #: 60
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+Actual hand size = 5, Expected hand size = 6  
+Test Failed!
+state->discardCount[j] <= cpyState->discardCount[j]
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+TESTING ADVENTURER	TEST #: 61
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+Actual hand size = 5, Expected hand size = 6  
+Test Failed!
+state->discardCount[j] <= cpyState->discardCount[j]
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+TESTING ADVENTURER	TEST #: 62
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+Actual hand size = 5, Expected hand size = 6  
+Test Failed!
+state->discardCount[j] <= cpyState->discardCount[j]
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+TESTING ADVENTURER	TEST #: 63
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+Actual hand size = 5, Expected hand size = 6  
+Test Failed!
+state->discardCount[j] <= cpyState->discardCount[j]
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+TESTING ADVENTURER	TEST #: 64
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+Actual hand size = 5, Expected hand size = 6  
+Test Failed!
+state->discardCount[j] <= cpyState->discardCount[j]
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+TESTING ADVENTURER	TEST #: 65
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+Actual hand size = 5, Expected hand size = 6  
+Test Failed!
+state->discardCount[j] <= cpyState->discardCount[j]
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+TESTING ADVENTURER	TEST #: 66
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+Actual hand size = 5, Expected hand size = 6  
+Test Failed!
+state->discardCount[j] <= cpyState->discardCount[j]
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+TESTING ADVENTURER	TEST #: 67
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+Actual hand size = 5, Expected hand size = 6  
+Test Failed!
+state->discardCount[j] <= cpyState->discardCount[j]
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+TESTING ADVENTURER	TEST #: 68
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+Actual hand size = 5, Expected hand size = 6  
+Test Failed!
+state->discardCount[j] <= cpyState->discardCount[j]
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+TESTING ADVENTURER	TEST #: 69
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+Actual hand size = 5, Expected hand size = 6  
+Test Failed!
+state->discardCount[j] <= cpyState->discardCount[j]
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+TESTING ADVENTURER	TEST #: 70
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+Actual hand size = 5, Expected hand size = 6  
+Test Failed!
+state->discardCount[j] <= cpyState->discardCount[j]
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+TESTING ADVENTURER	TEST #: 71
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+Actual hand size = 5, Expected hand size = 6  
+Test Failed!
+state->discardCount[j] <= cpyState->discardCount[j]
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+TESTING ADVENTURER	TEST #: 72
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+Actual hand size = 5, Expected hand size = 6  
+Test Failed!
+state->discardCount[j] <= cpyState->discardCount[j]
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+TESTING ADVENTURER	TEST #: 73
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+Actual hand size = 5, Expected hand size = 6  
+Test Failed!
+state->discardCount[j] <= cpyState->discardCount[j]
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+TESTING ADVENTURER	TEST #: 74
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+Actual hand size = 5, Expected hand size = 6  
+Test Failed!
+state->discardCount[j] <= cpyState->discardCount[j]
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+TESTING ADVENTURER	TEST #: 75
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+Actual hand size = 5, Expected hand size = 6  
+Test Failed!
+state->discardCount[j] <= cpyState->discardCount[j]
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+TESTING ADVENTURER	TEST #: 76
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+Actual hand size = 5, Expected hand size = 6  
+Test Failed!
+state->discardCount[j] <= cpyState->discardCount[j]
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+TESTING ADVENTURER	TEST #: 77
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+Actual hand size = 5, Expected hand size = 6  
+Test Failed!
+state->discardCount[j] <= cpyState->discardCount[j]
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+TESTING ADVENTURER	TEST #: 78
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+Actual hand size = 5, Expected hand size = 6  
+Test Failed!
+state->discardCount[j] <= cpyState->discardCount[j]
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+TESTING ADVENTURER	TEST #: 79
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+Actual hand size = 5, Expected hand size = 6  
+Test Failed!
+state->discardCount[j] <= cpyState->discardCount[j]
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+TESTING ADVENTURER	TEST #: 80
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+Actual hand size = 5, Expected hand size = 6  
+Test Failed!
+state->discardCount[j] <= cpyState->discardCount[j]
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+TESTING ADVENTURER	TEST #: 81
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+Actual hand size = 5, Expected hand size = 6  
+Test Failed!
+state->discardCount[j] <= cpyState->discardCount[j]
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+TESTING ADVENTURER	TEST #: 82
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+Actual hand size = 5, Expected hand size = 6  
+Test Failed!
+state->discardCount[j] <= cpyState->discardCount[j]
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+TESTING ADVENTURER	TEST #: 83
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+Actual hand size = 5, Expected hand size = 6  
+Test Failed!
+state->discardCount[j] <= cpyState->discardCount[j]
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+TESTING ADVENTURER	TEST #: 84
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+Actual hand size = 5, Expected hand size = 6  
+Test Failed!
+state->discardCount[j] <= cpyState->discardCount[j]
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+TESTING ADVENTURER	TEST #: 85
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+Actual hand size = 5, Expected hand size = 6  
+Test Failed!
+state->discardCount[j] <= cpyState->discardCount[j]
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+TESTING ADVENTURER	TEST #: 86
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+Actual hand size = 5, Expected hand size = 6  
+Test Failed!
+state->discardCount[j] <= cpyState->discardCount[j]
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+TESTING ADVENTURER	TEST #: 87
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+Actual hand size = 5, Expected hand size = 6  
+Test Failed!
+state->discardCount[j] <= cpyState->discardCount[j]
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+TESTING ADVENTURER	TEST #: 88
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+Actual hand size = 5, Expected hand size = 6  
+Test Failed!
+state->discardCount[j] <= cpyState->discardCount[j]
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+TESTING ADVENTURER	TEST #: 89
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+Actual hand size = 5, Expected hand size = 6  
+Test Failed!
+state->discardCount[j] <= cpyState->discardCount[j]
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+TESTING ADVENTURER	TEST #: 90
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+Actual hand size = 5, Expected hand size = 6  
+Test Failed!
+state->discardCount[j] <= cpyState->discardCount[j]
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+TESTING ADVENTURER	TEST #: 91
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+Actual hand size = 5, Expected hand size = 6  
+Test Failed!
+state->discardCount[j] <= cpyState->discardCount[j]
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+TESTING ADVENTURER	TEST #: 92
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+Actual hand size = 5, Expected hand size = 6  
+Test Failed!
+state->discardCount[j] <= cpyState->discardCount[j]
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+TESTING ADVENTURER	TEST #: 93
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+Actual hand size = 5, Expected hand size = 6  
+Test Failed!
+state->discardCount[j] <= cpyState->discardCount[j]
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+TESTING ADVENTURER	TEST #: 94
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+Actual hand size = 5, Expected hand size = 6  
+Test Failed!
+state->discardCount[j] <= cpyState->discardCount[j]
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+TESTING ADVENTURER	TEST #: 95
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+Actual hand size = 5, Expected hand size = 6  
+Test Failed!
+state->discardCount[j] <= cpyState->discardCount[j]
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+TESTING ADVENTURER	TEST #: 96
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+Actual hand size = 5, Expected hand size = 6  
+Test Failed!
+state->discardCount[j] <= cpyState->discardCount[j]
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+TESTING ADVENTURER	TEST #: 97
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+Actual hand size = 5, Expected hand size = 6  
+Test Failed!
+state->discardCount[j] <= cpyState->discardCount[j]
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+TESTING ADVENTURER	TEST #: 98
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+Actual hand size = 5, Expected hand size = 6  
+Test Failed!
+state->discardCount[j] <= cpyState->discardCount[j]
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+TESTING ADVENTURER	TEST #: 99
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+Actual hand size = 5, Expected hand size = 6  
+Test Failed!
+state->discardCount[j] <= cpyState->discardCount[j]
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+File 'dominion.c'
+Lines executed:37.08% of 561
+Creating 'dominion.c.gcov'
+
+TESTING ADVENTURER	TEST #: 0
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+Actual hand size = 5, Expected hand size = 6  
+Test Failed!
+state->discardCount[j] <= cpyState->discardCount[j]
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+TESTING ADVENTURER	TEST #: 1
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+Actual hand size = 5, Expected hand size = 6  
+Test Failed!
+state->discardCount[j] <= cpyState->discardCount[j]
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+TESTING ADVENTURER	TEST #: 2
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+Actual hand size = 5, Expected hand size = 6  
+Test Failed!
+state->discardCount[j] <= cpyState->discardCount[j]
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+TESTING ADVENTURER	TEST #: 3
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+Actual hand size = 5, Expected hand size = 6  
+Test Failed!
+state->discardCount[j] <= cpyState->discardCount[j]
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+TESTING ADVENTURER	TEST #: 4
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+Actual hand size = 5, Expected hand size = 6  
+Test Failed!
+state->discardCount[j] <= cpyState->discardCount[j]
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+TESTING ADVENTURER	TEST #: 5
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+Actual hand size = 5, Expected hand size = 6  
+Test Failed!
+state->discardCount[j] <= cpyState->discardCount[j]
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+TESTING ADVENTURER	TEST #: 6
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+Actual hand size = 5, Expected hand size = 6  
+Test Failed!
+state->discardCount[j] <= cpyState->discardCount[j]
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+TESTING ADVENTURER	TEST #: 7
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+Actual hand size = 5, Expected hand size = 6  
+Test Failed!
+state->discardCount[j] <= cpyState->discardCount[j]
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+TESTING ADVENTURER	TEST #: 8
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+Actual hand size = 5, Expected hand size = 6  
+Test Failed!
+state->discardCount[j] <= cpyState->discardCount[j]
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+TESTING ADVENTURER	TEST #: 9
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+Actual hand size = 5, Expected hand size = 6  
+Test Failed!
+state->discardCount[j] <= cpyState->discardCount[j]
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+TESTING ADVENTURER	TEST #: 10
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+Actual hand size = 5, Expected hand size = 6  
+Test Failed!
+state->discardCount[j] <= cpyState->discardCount[j]
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+TESTING ADVENTURER	TEST #: 11
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+Actual hand size = 5, Expected hand size = 6  
+Test Failed!
+state->discardCount[j] <= cpyState->discardCount[j]
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+TESTING ADVENTURER	TEST #: 12
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+Actual hand size = 5, Expected hand size = 6  
+Test Failed!
+state->discardCount[j] <= cpyState->discardCount[j]
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+TESTING ADVENTURER	TEST #: 13
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+Actual hand size = 5, Expected hand size = 6  
+Test Failed!
+state->discardCount[j] <= cpyState->discardCount[j]
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+TESTING ADVENTURER	TEST #: 14
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+Actual hand size = 5, Expected hand size = 6  
+Test Failed!
+state->discardCount[j] <= cpyState->discardCount[j]
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+TESTING ADVENTURER	TEST #: 15
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+Actual hand size = 5, Expected hand size = 6  
+Test Failed!
+state->discardCount[j] <= cpyState->discardCount[j]
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+TESTING ADVENTURER	TEST #: 16
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+Actual hand size = 5, Expected hand size = 6  
+Test Failed!
+state->discardCount[j] <= cpyState->discardCount[j]
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+TESTING ADVENTURER	TEST #: 17
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+Actual hand size = 5, Expected hand size = 6  
+Test Failed!
+state->discardCount[j] <= cpyState->discardCount[j]
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+TESTING ADVENTURER	TEST #: 18
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+Actual hand size = 5, Expected hand size = 6  
+Test Failed!
+state->discardCount[j] <= cpyState->discardCount[j]
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+TESTING ADVENTURER	TEST #: 19
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+Actual hand size = 5, Expected hand size = 6  
+Test Failed!
+state->discardCount[j] <= cpyState->discardCount[j]
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+TESTING ADVENTURER	TEST #: 20
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+Actual hand size = 5, Expected hand size = 6  
+Test Failed!
+state->discardCount[j] <= cpyState->discardCount[j]
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+TESTING ADVENTURER	TEST #: 21
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+Actual hand size = 5, Expected hand size = 6  
+Test Failed!
+state->discardCount[j] <= cpyState->discardCount[j]
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+TESTING ADVENTURER	TEST #: 22
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+Actual hand size = 5, Expected hand size = 6  
+Test Failed!
+state->discardCount[j] <= cpyState->discardCount[j]
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+TESTING ADVENTURER	TEST #: 23
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+Actual hand size = 5, Expected hand size = 6  
+Test Failed!
+state->discardCount[j] <= cpyState->discardCount[j]
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+TESTING ADVENTURER	TEST #: 24
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+Actual hand size = 5, Expected hand size = 6  
+Test Failed!
+state->discardCount[j] <= cpyState->discardCount[j]
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+TESTING ADVENTURER	TEST #: 25
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+Actual hand size = 5, Expected hand size = 6  
+Test Failed!
+state->discardCount[j] <= cpyState->discardCount[j]
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+TESTING ADVENTURER	TEST #: 26
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+Actual hand size = 5, Expected hand size = 6  
+Test Failed!
+state->discardCount[j] <= cpyState->discardCount[j]
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+TESTING ADVENTURER	TEST #: 27
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+Actual hand size = 5, Expected hand size = 6  
+Test Failed!
+state->discardCount[j] <= cpyState->discardCount[j]
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+TESTING ADVENTURER	TEST #: 28
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+Actual hand size = 5, Expected hand size = 6  
+Test Failed!
+state->discardCount[j] <= cpyState->discardCount[j]
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+TESTING ADVENTURER	TEST #: 29
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+Actual hand size = 5, Expected hand size = 6  
+Test Failed!
+state->discardCount[j] <= cpyState->discardCount[j]
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+TESTING ADVENTURER	TEST #: 30
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+Actual hand size = 5, Expected hand size = 6  
+Test Failed!
+state->discardCount[j] <= cpyState->discardCount[j]
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+TESTING ADVENTURER	TEST #: 31
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+Actual hand size = 5, Expected hand size = 6  
+Test Failed!
+state->discardCount[j] <= cpyState->discardCount[j]
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+TESTING ADVENTURER	TEST #: 32
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+Actual hand size = 5, Expected hand size = 6  
+Test Failed!
+state->discardCount[j] <= cpyState->discardCount[j]
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+TESTING ADVENTURER	TEST #: 33
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+Actual hand size = 5, Expected hand size = 6  
+Test Failed!
+state->discardCount[j] <= cpyState->discardCount[j]
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+TESTING ADVENTURER	TEST #: 34
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+Actual hand size = 5, Expected hand size = 6  
+Test Failed!
+state->discardCount[j] <= cpyState->discardCount[j]
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+TESTING ADVENTURER	TEST #: 35
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+Actual hand size = 5, Expected hand size = 6  
+Test Failed!
+state->discardCount[j] <= cpyState->discardCount[j]
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+TESTING ADVENTURER	TEST #: 36
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+Actual hand size = 5, Expected hand size = 6  
+Test Failed!
+state->discardCount[j] <= cpyState->discardCount[j]
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+TESTING ADVENTURER	TEST #: 37
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+Actual hand size = 5, Expected hand size = 6  
+Test Failed!
+state->discardCount[j] <= cpyState->discardCount[j]
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+TESTING ADVENTURER	TEST #: 38
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+Actual hand size = 5, Expected hand size = 6  
+Test Failed!
+state->discardCount[j] <= cpyState->discardCount[j]
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+TESTING ADVENTURER	TEST #: 39
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+Actual hand size = 5, Expected hand size = 6  
+Test Failed!
+state->discardCount[j] <= cpyState->discardCount[j]
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+TESTING ADVENTURER	TEST #: 40
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+Actual hand size = 5, Expected hand size = 6  
+Test Failed!
+state->discardCount[j] <= cpyState->discardCount[j]
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+TESTING ADVENTURER	TEST #: 41
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+Actual hand size = 5, Expected hand size = 6  
+Test Failed!
+state->discardCount[j] <= cpyState->discardCount[j]
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+TESTING ADVENTURER	TEST #: 42
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+Actual hand size = 5, Expected hand size = 6  
+Test Failed!
+state->discardCount[j] <= cpyState->discardCount[j]
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+TESTING ADVENTURER	TEST #: 43
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+Actual hand size = 5, Expected hand size = 6  
+Test Failed!
+state->discardCount[j] <= cpyState->discardCount[j]
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+TESTING ADVENTURER	TEST #: 44
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+Actual hand size = 5, Expected hand size = 6  
+Test Failed!
+state->discardCount[j] <= cpyState->discardCount[j]
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+TESTING ADVENTURER	TEST #: 45
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+Actual hand size = 5, Expected hand size = 6  
+Test Failed!
+state->discardCount[j] <= cpyState->discardCount[j]
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+TESTING ADVENTURER	TEST #: 46
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+Actual hand size = 5, Expected hand size = 6  
+Test Failed!
+state->discardCount[j] <= cpyState->discardCount[j]
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+TESTING ADVENTURER	TEST #: 47
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+Actual hand size = 5, Expected hand size = 6  
+Test Failed!
+state->discardCount[j] <= cpyState->discardCount[j]
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+TESTING ADVENTURER	TEST #: 48
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+Actual hand size = 5, Expected hand size = 6  
+Test Failed!
+state->discardCount[j] <= cpyState->discardCount[j]
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+TESTING ADVENTURER	TEST #: 49
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+Actual hand size = 5, Expected hand size = 6  
+Test Failed!
+state->discardCount[j] <= cpyState->discardCount[j]
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+TESTING ADVENTURER	TEST #: 50
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+Actual hand size = 5, Expected hand size = 6  
+Test Failed!
+state->discardCount[j] <= cpyState->discardCount[j]
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+TESTING ADVENTURER	TEST #: 51
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+Actual hand size = 5, Expected hand size = 6  
+Test Failed!
+state->discardCount[j] <= cpyState->discardCount[j]
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+TESTING ADVENTURER	TEST #: 52
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+Actual hand size = 5, Expected hand size = 6  
+Test Failed!
+state->discardCount[j] <= cpyState->discardCount[j]
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+TESTING ADVENTURER	TEST #: 53
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+Actual hand size = 5, Expected hand size = 6  
+Test Failed!
+state->discardCount[j] <= cpyState->discardCount[j]
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+TESTING ADVENTURER	TEST #: 54
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+Actual hand size = 5, Expected hand size = 6  
+Test Failed!
+state->discardCount[j] <= cpyState->discardCount[j]
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+TESTING ADVENTURER	TEST #: 55
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+Actual hand size = 5, Expected hand size = 6  
+Test Failed!
+state->discardCount[j] <= cpyState->discardCount[j]
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+TESTING ADVENTURER	TEST #: 56
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+Actual hand size = 5, Expected hand size = 6  
+Test Failed!
+state->discardCount[j] <= cpyState->discardCount[j]
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+TESTING ADVENTURER	TEST #: 57
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+Actual hand size = 5, Expected hand size = 6  
+Test Failed!
+state->discardCount[j] <= cpyState->discardCount[j]
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+TESTING ADVENTURER	TEST #: 58
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+Actual hand size = 5, Expected hand size = 6  
+Test Failed!
+state->discardCount[j] <= cpyState->discardCount[j]
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+TESTING ADVENTURER	TEST #: 59
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+Actual hand size = 5, Expected hand size = 6  
+Test Failed!
+state->discardCount[j] <= cpyState->discardCount[j]
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+TESTING ADVENTURER	TEST #: 60
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+Actual hand size = 5, Expected hand size = 6  
+Test Failed!
+state->discardCount[j] <= cpyState->discardCount[j]
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+TESTING ADVENTURER	TEST #: 61
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+Actual hand size = 5, Expected hand size = 6  
+Test Failed!
+state->discardCount[j] <= cpyState->discardCount[j]
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+TESTING ADVENTURER	TEST #: 62
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+Actual hand size = 5, Expected hand size = 6  
+Test Failed!
+state->discardCount[j] <= cpyState->discardCount[j]
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+TESTING ADVENTURER	TEST #: 63
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+Actual hand size = 5, Expected hand size = 6  
+Test Failed!
+state->discardCount[j] <= cpyState->discardCount[j]
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+TESTING ADVENTURER	TEST #: 64
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+Actual hand size = 5, Expected hand size = 6  
+Test Failed!
+state->discardCount[j] <= cpyState->discardCount[j]
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+TESTING ADVENTURER	TEST #: 65
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+Actual hand size = 5, Expected hand size = 6  
+Test Failed!
+state->discardCount[j] <= cpyState->discardCount[j]
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+TESTING ADVENTURER	TEST #: 66
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+Actual hand size = 5, Expected hand size = 6  
+Test Failed!
+state->discardCount[j] <= cpyState->discardCount[j]
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+TESTING ADVENTURER	TEST #: 67
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+Actual hand size = 5, Expected hand size = 6  
+Test Failed!
+state->discardCount[j] <= cpyState->discardCount[j]
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+TESTING ADVENTURER	TEST #: 68
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+Actual hand size = 5, Expected hand size = 6  
+Test Failed!
+state->discardCount[j] <= cpyState->discardCount[j]
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+TESTING ADVENTURER	TEST #: 69
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+Actual hand size = 5, Expected hand size = 6  
+Test Failed!
+state->discardCount[j] <= cpyState->discardCount[j]
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+TESTING ADVENTURER	TEST #: 70
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+Actual hand size = 5, Expected hand size = 6  
+Test Failed!
+state->discardCount[j] <= cpyState->discardCount[j]
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+TESTING ADVENTURER	TEST #: 71
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+Actual hand size = 5, Expected hand size = 6  
+Test Failed!
+state->discardCount[j] <= cpyState->discardCount[j]
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+TESTING ADVENTURER	TEST #: 72
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+Actual hand size = 5, Expected hand size = 6  
+Test Failed!
+state->discardCount[j] <= cpyState->discardCount[j]
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+TESTING ADVENTURER	TEST #: 73
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+Actual hand size = 5, Expected hand size = 6  
+Test Failed!
+state->discardCount[j] <= cpyState->discardCount[j]
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+TESTING ADVENTURER	TEST #: 74
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+Actual hand size = 5, Expected hand size = 6  
+Test Failed!
+state->discardCount[j] <= cpyState->discardCount[j]
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+TESTING ADVENTURER	TEST #: 75
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+Actual hand size = 5, Expected hand size = 6  
+Test Failed!
+state->discardCount[j] <= cpyState->discardCount[j]
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+TESTING ADVENTURER	TEST #: 76
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+Actual hand size = 5, Expected hand size = 6  
+Test Failed!
+state->discardCount[j] <= cpyState->discardCount[j]
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+TESTING ADVENTURER	TEST #: 77
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+Actual hand size = 5, Expected hand size = 6  
+Test Failed!
+state->discardCount[j] <= cpyState->discardCount[j]
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+TESTING ADVENTURER	TEST #: 78
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+Actual hand size = 5, Expected hand size = 6  
+Test Failed!
+state->discardCount[j] <= cpyState->discardCount[j]
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+TESTING ADVENTURER	TEST #: 79
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+Actual hand size = 5, Expected hand size = 6  
+Test Failed!
+state->discardCount[j] <= cpyState->discardCount[j]
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+TESTING ADVENTURER	TEST #: 80
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+Actual hand size = 5, Expected hand size = 6  
+Test Failed!
+state->discardCount[j] <= cpyState->discardCount[j]
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+TESTING ADVENTURER	TEST #: 81
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+Actual hand size = 5, Expected hand size = 6  
+Test Failed!
+state->discardCount[j] <= cpyState->discardCount[j]
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+TESTING ADVENTURER	TEST #: 82
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+Actual hand size = 5, Expected hand size = 6  
+Test Failed!
+state->discardCount[j] <= cpyState->discardCount[j]
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+TESTING ADVENTURER	TEST #: 83
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+Actual hand size = 5, Expected hand size = 6  
+Test Failed!
+state->discardCount[j] <= cpyState->discardCount[j]
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+TESTING ADVENTURER	TEST #: 84
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+Actual hand size = 5, Expected hand size = 6  
+Test Failed!
+state->discardCount[j] <= cpyState->discardCount[j]
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+TESTING ADVENTURER	TEST #: 85
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+Actual hand size = 5, Expected hand size = 6  
+Test Failed!
+state->discardCount[j] <= cpyState->discardCount[j]
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+TESTING ADVENTURER	TEST #: 86
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+Actual hand size = 5, Expected hand size = 6  
+Test Failed!
+state->discardCount[j] <= cpyState->discardCount[j]
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+TESTING ADVENTURER	TEST #: 87
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+Actual hand size = 5, Expected hand size = 6  
+Test Failed!
+state->discardCount[j] <= cpyState->discardCount[j]
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+TESTING ADVENTURER	TEST #: 88
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+Actual hand size = 5, Expected hand size = 6  
+Test Failed!
+state->discardCount[j] <= cpyState->discardCount[j]
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+TESTING ADVENTURER	TEST #: 89
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+Actual hand size = 5, Expected hand size = 6  
+Test Failed!
+state->discardCount[j] <= cpyState->discardCount[j]
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+TESTING ADVENTURER	TEST #: 90
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+Actual hand size = 5, Expected hand size = 6  
+Test Failed!
+state->discardCount[j] <= cpyState->discardCount[j]
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+TESTING ADVENTURER	TEST #: 91
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+Actual hand size = 5, Expected hand size = 6  
+Test Failed!
+state->discardCount[j] <= cpyState->discardCount[j]
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+TESTING ADVENTURER	TEST #: 92
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+Actual hand size = 5, Expected hand size = 6  
+Test Failed!
+state->discardCount[j] <= cpyState->discardCount[j]
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+TESTING ADVENTURER	TEST #: 93
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+Actual hand size = 5, Expected hand size = 6  
+Test Failed!
+state->discardCount[j] <= cpyState->discardCount[j]
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+TESTING ADVENTURER	TEST #: 94
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+Actual hand size = 5, Expected hand size = 6  
+Test Failed!
+state->discardCount[j] <= cpyState->discardCount[j]
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+TESTING ADVENTURER	TEST #: 95
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+Actual hand size = 5, Expected hand size = 6  
+Test Failed!
+state->discardCount[j] <= cpyState->discardCount[j]
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+TESTING ADVENTURER	TEST #: 96
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+Actual hand size = 5, Expected hand size = 6  
+Test Failed!
+state->discardCount[j] <= cpyState->discardCount[j]
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+TESTING ADVENTURER	TEST #: 97
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+Actual hand size = 5, Expected hand size = 6  
+Test Failed!
+state->discardCount[j] <= cpyState->discardCount[j]
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+TESTING ADVENTURER	TEST #: 98
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+Actual hand size = 5, Expected hand size = 6  
+Test Failed!
+state->discardCount[j] <= cpyState->discardCount[j]
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+TESTING ADVENTURER	TEST #: 99
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+State->playedCards[0] != adventurer.
+Test Failed!
+State->coins !> cpyState->coins
+Test Failed!
+State->numActions != cpyState->numActions-1.
+Test Failed!
+Actual hand size = 5, Expected hand size = 6  
+Test Failed!
+state->discardCount[j] <= cpyState->discardCount[j]
+Test Failed!
+Actual hand size = 0, Expected hand size = 1  
+Test Passed!
+Expected played state discardCount to be larger than cpyState discardCount.
+File 'dominion.c'
+Lines executed:37.08% of 561
+Branches executed:28.09% of 413
+Taken at least once:25.18% of 413
+Calls executed:21.51% of 93
+Creating 'dominion.c.gcov'
+

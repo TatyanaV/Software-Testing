@@ -1,0 +1,45 @@
+﻿Final Project: Part A
+
+
+Team Members:
+Sam Schultz, Sean Mulholland, Tatyana Vlaskin
+
+
+Explain testIsValid Function of UrlValidator test code.
+
+
+        The testIsValid() function is a wrapper for the workhorse testIsValid(Object[] testObjects, long options) function. The function without arguments is called immediately calls the second testIsValid function with the an object, testUrlParts, and a defined option from the UrlValidator class. testUrlParts contains five ResultPair arrays defined in the body of the class of varying lengths. The option accessed is “ALLOW_ALL_SCHEMES” which allows for validating against all url schemes beyond http, https, and ftp. The function then makes a couple test assertions to ensure basic functionality against known valid urls, and makes basic declarations. 
+        There is then an oddly, yet cleverly, built do/while loop that accesses a global variable called testUrlPartsIndex. This “index” actually is an array of indices that keep track of each ResultPair (aka “part) array index in testUrlParts. While in the loop, an interior for loop builds a test url string from each of the testUrlParts indices. Based on each part, it keeps a running boolean that tracks whether the test should succeed based on the being added to the string. After the test url has been assembled, the UrlValidator is run and the outcome saved. If the UrlValidator says a url IS valid, that url is then printed and an assertion is made that the saved outcome is equal to the expected outcome. If this test fails, the testers should have a the last url string to give to the engineers to debug. 
+The code has some extra debug print statements that, as currently written, are disabled so this leads us to the while condition of our do/while loop. Here a function called incrementTestPartsIndex is called with the testPartsIndex array and the testObjects (i.e. test parts) as arguments. This function is the really clever design of the whole thing. This is an adding machine that can be used for numbers where each digit is of a different base. 
+What it does is sets a boolean called carry, and another called maxIndex that will be used later. The function then uses a for loop starting at the highest index of testPartsIndex (the global used for tracking location in testUrlParts) and gets its value in temporary variable. It checks if carry is set and since it always is on the initial loop, it checks if the temporary variable is 1 less than its max allowed value (determined by the length of the associated part array). If the variable is less than one less the max value, it gets incremented and stored appropriately and carry is set false. If the variable is not less than one less the max value (i.e. it is equal to 1 less the max), that index gets set to 0 and carry is set to 1. On the next iteration of the loop, the next highest digit gets the same check and if a carry isn’t needed when one is added the value gets incremented. If incrementing that particular index would cause it to be equal to its max, the carry bit is still needed and that index is set to 0, and so on.
+What makes this so clever, is that because it depends on the lengths of the parts lists the test scheme is essentially a modular factory for generating multi part objects. If the inner for loop was repurposed to assemble a different type of object in lieu of a simple string the rest of the code would still function because it is index based. If the data being fed into it grows in dimension, either by numbers of sets, or numbers of parts in the sets the test will still run and assemble everything. Even the expected test outcome was done in a clever way such that during assembly if it finds a “bad” part the whole object will be bad, and the entire object should be expected to produce a bad outcome in the function being tested.
+
+
+Give how many total number of urls it is testing.
+        The max count for each part list is as follows: testUrlScheme has 9 options, testUrlAuthority has 19 options, terstUrlPort has 7 options, testPath has 10 options, testUrlQuery has 3 options. 
+
+
+
+
+Since it actually tests every combination as indicated by the multi-base adding machine we see:
+
+
+        3 * 7 * 9 * 10 * 19 = 35910 total urls.
+
+
+explain how it is building all the urls
+
+
+        The way it builds the urls is by parts like in a factory. An empty string is instantiated every time, and then the parts are appended to the end of the string with 1 part from each set for every test. It has 5 sets of parts total: a set of url schemes, a set of authorities, a set of port numbers, a set of paths, and a set of queries. Each of these has “good” parts that can be included in a correct url, and “bad” parts that when included would create an invalid url. If each part in each group was numbered 1 to ni where ni is the number of parts in that set, it starts with all the parts numbered 1. It then increments through all of set fives parts trying each one. After each one of these combinations have been tried, it increments set 4’s part number by 1 and tries all the combinations with set 5 again. It repeats this process for every possible combination of parts until you have parts n1, n2, n3, n4, n5 in the url at which point every combination has been tested and the testing ends.
+
+
+Give an example of valid url being tested and an invalid url being tested by testIsValid() method
+
+
+        The very first url tested is: “http://www.google.com:80/test1?action=view”. Each of the parts (“http://”, “www.google.com”, “:80”, “/test1”, and “?action=view”) is marked as a true, so this would be an example of a valid url being tested. If we substitute in “/..” in place of “/test1” we’d have an invalid url being tested since “/..” is marked as a “bad” part. This happens to be our first tested invalid url, and the whole thing is “http://www.google.com:80/..?action=view”.
+
+
+Do you think that a real world test (URL Validator's testIsValid() test in this case) is very different than the unit tests and card tests that we wrote (in terms of concepts & complexity)? Explain in few lines
+
+
+        The goal of both set of tests was very much in the same vein. They were both intending to find inputs that either break the original code, or validate the codes functionality but the implementations were quite different in terms of complexities, and code concepts. The professional code very clearly uses a factory method to piece together each individual test case in a simple, and scalable fashion. The tests written for the unit tests and card tests looked a lot more like all the testValidator###() functions that populate the class but aren’t called in main. A lot of valid places to start, but not an effective long term testing strategy. By using an appropriate design pattern, we can see how much more power those few lines of code contain (~36000 smart tests) vs. the card test/testValidator style tests that are just lines of hand built test cases.

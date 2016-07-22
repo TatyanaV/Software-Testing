@@ -1,0 +1,3512 @@
++------------Current Error Count: 0 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 3 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 6 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 9 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 12 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 15 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 17 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+Basic Function Check: Adventurer not on top of played cards tracker
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 21 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 24 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+handCount[3]: 		82, 84
+deckCount[3]: 		37, 35
+
++------------Current Error Count: 27 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+handCount[1]: 		54, 56
+deckCount[1]: 		120, 118
+
++------------Current Error Count: 30 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+handCount[1]: 		164, 166
+deckCount[1]: 		74, 72
+
++------------Current Error Count: 33 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+handCount[1]: 		104, 106
+deckCount[1]: 		202, 200
+
++------------Current Error Count: 36 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+handCount[0]: 		24, 26
+deckCount[0]: 		11, 9
+
++------------Current Error Count: 39 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+handCount[1]: 		47, 49
+deckCount[1]: 		74, 72
+
++------------Current Error Count: 42 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 45 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+handCount[2]: 		20, 22
+deckCount[2]: 		10, 8
+
++------------Current Error Count: 48 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 51 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+handCount[0]: 		29, 31
+deckCount[0]: 		192, 190
+
++------------Current Error Count: 54 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 57 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+handCount[0]: 		194, 196
+deckCount[0]: 		123, 121
+
++------------Current Error Count: 60 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 63 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 66 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 69 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+handCount[1]: 		13, 15
+deckCount[1]: 		143, 140
+discardCount[1]: 	79, 80
+
++------------Current Error Count: 72 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 75 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 78 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+handCount[1]: 		36, 38
+deckCount[1]: 		202, 200
+
++------------Current Error Count: 81 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 84 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+handCount[2]: 		6, 8
+deckCount[2]: 		165, 163
+
++------------Current Error Count: 87 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 90 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 93 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 95 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 98 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 100 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 103 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+handCount[0]: 		10, 12
+deckCount[0]: 		60, 57
+discardCount[0]: 	34, 35
+
++------------Current Error Count: 106 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+handCount[1]: 		77, 79
+deckCount[1]: 		91, 89
+
++------------Current Error Count: 109 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+handCount[0]: 		41, 43
+deckCount[0]: 		87, 85
+
++------------Current Error Count: 112 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+handCount[3]: 		10, 12
+deckCount[3]: 		29, 27
+
++------------Current Error Count: 115 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 118 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 121 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+handCount[2]: 		104, 106
+deckCount[2]: 		98, 96
+
++------------Current Error Count: 124 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 127 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 129 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+handCount[3]: 		7, 9
+deckCount[3]: 		25, 23
+
++------------Current Error Count: 132 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 135 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+handCount[1]: 		34, 36
+deckCount[1]: 		184, 182
+
++------------Current Error Count: 138 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 141 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 144 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+handCount[1]: 		29, 31
+deckCount[1]: 		2, 0
+
++------------Current Error Count: 147 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+handCount[0]: 		10, 12
+deckCount[0]: 		124, 122
+
++------------Current Error Count: 150 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+handCount[2]: 		133, 135
+deckCount[2]: 		162, 160
+
++------------Current Error Count: 153 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+handCount[1]: 		127, 129
+deckCount[1]: 		147, 145
+
++------------Current Error Count: 156 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 158 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 161 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 164 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 167 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 170 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+handCount[1]: 		78, 80
+deckCount[1]: 		183, 181
+
++------------Current Error Count: 173 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 176 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 179 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+handCount[0]: 		127, 129
+deckCount[0]: 		192, 190
+
++------------Current Error Count: 182 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 184 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+handCount[1]: 		138, 140
+deckCount[1]: 		128, 126
+
++------------Current Error Count: 186 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 189 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+handCount[1]: 		121, 123
+deckCount[1]: 		111, 109
+
++------------Current Error Count: 192 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+handCount[0]: 		25, 27
+deckCount[0]: 		87, 85
+
++------------Current Error Count: 195 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 198 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 201 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 204 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 207 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 210 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 213 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 215 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+handCount[1]: 		155, 157
+deckCount[1]: 		38, 36
+
++------------Current Error Count: 218 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 221 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 223 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+handCount[2]: 		90, 92
+deckCount[2]: 		27, 25
+
++------------Current Error Count: 226 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 229 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 232 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 235 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+handCount[2]: 		159, 161
+deckCount[2]: 		161, 159
+
++------------Current Error Count: 238 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 241 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 244 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 247 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 250 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 252 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 254 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+handCount[3]: 		10, 12
+deckCount[3]: 		14, 12
+
++------------Current Error Count: 257 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+handCount[1]: 		93, 95
+deckCount[1]: 		89, 87
+
++------------Current Error Count: 260 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+handCount[1]: 		69, 71
+deckCount[1]: 		119, 117
+
++------------Current Error Count: 263 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 266 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+handCount[3]: 		59, 61
+deckCount[3]: 		78, 76
+
++------------Current Error Count: 269 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+handCount[2]: 		131, 133
+deckCount[2]: 		132, 130
+
++------------Current Error Count: 272 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 275 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+handCount[2]: 		67, 69
+deckCount[2]: 		96, 94
+
++------------Current Error Count: 277 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+handCount[2]: 		32, 34
+deckCount[2]: 		38, 36
+
++------------Current Error Count: 280 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 283 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+handCount[0]: 		54, 56
+deckCount[0]: 		11, 9
+
++------------Current Error Count: 286 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 289 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 292 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 295 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 298 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 301 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 304 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 307 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+handCount[1]: 		43, 45
+deckCount[1]: 		9, 7
+
++------------Current Error Count: 310 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 313 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 316 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 319 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 322 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 325 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 328 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 331 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+handCount[0]: 		19, 21
+deckCount[0]: 		26, 24
+
++------------Current Error Count: 334 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 336 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 339 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+handCount[0]: 		118, 120
+deckCount[0]: 		47, 45
+
++------------Current Error Count: 341 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 344 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 347 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 350 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 353 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 355 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 358 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 361 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 364 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+handCount[0]: 		4, 6
+deckCount[0]: 		43, 41
+
++------------Current Error Count: 367 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 370 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 373 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+handCount[1]: 		0, 2
+deckCount[1]: 		114, 112
+
++------------Current Error Count: 376 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 379 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 382 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+handCount[1]: 		123, 125
+deckCount[1]: 		198, 196
+
++------------Current Error Count: 385 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 388 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 391 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 394 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 397 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 400 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 402 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 405 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 407 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 410 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+handCount[0]: 		207, 209
+deckCount[0]: 		242, 240
+
++------------Current Error Count: 413 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 416 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+handCount[0]: 		10, 12
+deckCount[0]: 		220, 218
+
++------------Current Error Count: 419 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+handCount[1]: 		14, 16
+deckCount[1]: 		40, 38
+
++------------Current Error Count: 422 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 425 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+Basic Function Check: Adventurer not on top of played cards tracker
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 429 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+handCount[1]: 		76, 78
+deckCount[1]: 		225, 223
+
++------------Current Error Count: 432 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+handCount[1]: 		70, 72
+deckCount[1]: 		107, 105
+
++------------Current Error Count: 435 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+handCount[1]: 		55, 57
+deckCount[1]: 		127, 125
+
++------------Current Error Count: 438 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 441 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 444 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+handCount[1]: 		169, 171
+deckCount[1]: 		65, 63
+
++------------Current Error Count: 447 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+handCount[3]: 		20, 22
+deckCount[3]: 		26, 24
+
++------------Current Error Count: 450 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Adventurer not accounted for in played card count
+Basic Function Check: Adventurer not on top of played cards tracker
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 453 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 456 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+handCount[2]: 		137, 139
+deckCount[2]: 		163, 161
+
++------------Current Error Count: 459 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 462 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 465 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 468 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+handCount[0]: 		59, 61
+deckCount[0]: 		209, 206
+discardCount[0]: 	6, 7
+
++------------Current Error Count: 471 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 473 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+handCount[1]: 		13, 15
+deckCount[1]: 		88, 86
+
++------------Current Error Count: 476 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 479 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 482 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+handCount[2]: 		84, 86
+deckCount[2]: 		96, 94
+
++------------Current Error Count: 484 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 487 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 490 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 493 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 495 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 498 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+handCount[0]: 		84, 86
+deckCount[0]: 		160, 158
+
++------------Current Error Count: 501 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 504 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+handCount[3]: 		19, 21
+deckCount[3]: 		46, 44
+
++------------Current Error Count: 506 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 509 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 512 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+handCount[1]: 		52, 54
+deckCount[1]: 		36, 34
+
++------------Current Error Count: 515 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+handCount[3]: 		60, 62
+deckCount[3]: 		52, 50
+
++------------Current Error Count: 517 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 520 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+handCount[3]: 		49, 51
+deckCount[3]: 		2, 0
+
++------------Current Error Count: 523 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Adventurer not accounted for in played card count
+Basic Function Check: Adventurer not on top of played cards tracker
+
+		col 1 = before, col2 = after
+handCount[1]: 		3, 5
+deckCount[1]: 		202, 200
+
++------------Current Error Count: 526 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 528 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+handCount[0]: 		162, 164
+deckCount[0]: 		17, 15
+
++------------Current Error Count: 531 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+handCount[0]: 		125, 127
+deckCount[0]: 		170, 168
+
++------------Current Error Count: 534 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+handCount[1]: 		156, 158
+deckCount[1]: 		68, 66
+
++------------Current Error Count: 537 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+handCount[0]: 		34, 36
+deckCount[0]: 		223, 221
+
++------------Current Error Count: 540 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 543 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 546 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+Basic Function Check: Adventurer not on top of played cards tracker
+
+		col 1 = before, col2 = after
+handCount[0]: 		54, 56
+deckCount[0]: 		80, 78
+
++------------Current Error Count: 550 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+Basic Function Check: Adventurer not on top of played cards tracker
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 554 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 557 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 560 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 563 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+handCount[2]: 		70, 72
+deckCount[2]: 		64, 62
+
++------------Current Error Count: 566 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+handCount[1]: 		81, 83
+deckCount[1]: 		12, 10
+
++------------Current Error Count: 569 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+handCount[1]: 		121, 123
+deckCount[1]: 		248, 246
+
++------------Current Error Count: 572 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+handCount[1]: 		148, 150
+deckCount[1]: 		148, 146
+
++------------Current Error Count: 575 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+handCount[1]: 		47, 49
+deckCount[1]: 		117, 115
+
++------------Current Error Count: 578 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 581 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 584 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+handCount[0]: 		76, 78
+deckCount[0]: 		65, 63
+
++------------Current Error Count: 587 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 590 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+handCount[2]: 		16, 18
+deckCount[2]: 		83, 81
+
++------------Current Error Count: 593 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+handCount[2]: 		111, 113
+deckCount[2]: 		118, 116
+
++------------Current Error Count: 596 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 598 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 601 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 603 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 605 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+handCount[0]: 		120, 122
+deckCount[0]: 		55, 53
+
++------------Current Error Count: 608 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 611 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+handCount[2]: 		3, 5
+deckCount[2]: 		60, 58
+
++------------Current Error Count: 614 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+handCount[0]: 		79, 81
+deckCount[0]: 		30, 28
+
++------------Current Error Count: 617 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 620 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+handCount[1]: 		97, 99
+deckCount[1]: 		140, 138
+
++------------Current Error Count: 623 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+Basic Function Check: Adventurer not on top of played cards tracker
+
+		col 1 = before, col2 = after
+handCount[0]: 		36, 38
+deckCount[0]: 		131, 129
+
++------------Current Error Count: 627 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 630 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+handCount[1]: 		21, 23
+deckCount[1]: 		180, 178
+
++------------Current Error Count: 633 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+handCount[1]: 		42, 44
+deckCount[1]: 		33, 31
+
++------------Current Error Count: 636 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 639 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 642 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+handCount[2]: 		147, 149
+deckCount[2]: 		161, 159
+
++------------Current Error Count: 645 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+handCount[0]: 		29, 31
+deckCount[0]: 		139, 137
+
++------------Current Error Count: 648 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+handCount[0]: 		145, 147
+deckCount[0]: 		37, 35
+
++------------Current Error Count: 651 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 654 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+Basic Function Check: Adventurer not on top of played cards tracker
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 658 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 661 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 664 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 667 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 669 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+handCount[2]: 		30, 32
+deckCount[2]: 		100, 98
+
++------------Current Error Count: 671 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 674 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 677 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 680 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 683 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+handCount[0]: 		31, 33
+deckCount[0]: 		205, 203
+
++------------Current Error Count: 686 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 689 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 692 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 695 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 698 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+handCount[0]: 		65, 67
+deckCount[0]: 		100, 98
+
++------------Current Error Count: 701 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 704 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+handCount[0]: 		75, 77
+deckCount[0]: 		162, 160
+
++------------Current Error Count: 707 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+handCount[0]: 		120, 122
+deckCount[0]: 		47, 45
+
++------------Current Error Count: 710 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 713 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 716 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 719 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 722 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 725 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 728 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 731 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 734 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+handCount[0]: 		55, 57
+deckCount[0]: 		48, 46
+
++------------Current Error Count: 737 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+handCount[0]: 		83, 85
+deckCount[0]: 		117, 115
+
++------------Current Error Count: 740 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+Basic Function Check: Adventurer not on top of played cards tracker
+
+		col 1 = before, col2 = after
+handCount[0]: 		31, 33
+deckCount[0]: 		1, 190
+discardCount[0]: 	191, 0
+deck[0][0]: 		13, 3
+discard[0][0]: 		23, -1
+discard[0][1]: 		12, -1
+discard[0][2]: 		15, -1
+discard[0][3]: 		4, -1
+discard[0][4]: 		18, -1
+discard[0][5]: 		11, -1
+discard[0][6]: 		22, -1
+discard[0][7]: 		4, -1
+discard[0][8]: 		20, -1
+discard[0][9]: 		10, -1
+discard[0][10]: 		25, -1
+discard[0][11]: 		4, -1
+discard[0][12]: 		7, -1
+discard[0][13]: 		16, -1
+discard[0][14]: 		26, -1
+discard[0][15]: 		5, -1
+discard[0][16]: 		22, -1
+discard[0][17]: 		6, -1
+discard[0][18]: 		21, -1
+discard[0][19]: 		25, -1
+discard[0][20]: 		3, -1
+discard[0][21]: 		5, -1
+discard[0][22]: 		9, -1
+discard[0][23]: 		19, -1
+discard[0][24]: 		25, -1
+discard[0][25]: 		1, -1
+discard[0][26]: 		19, -1
+discard[0][27]: 		26, -1
+discard[0][28]: 		5, -1
+discard[0][29]: 		0, -1
+discard[0][30]: 		4, -1
+discard[0][31]: 		24, -1
+discard[0][32]: 		21, -1
+discard[0][33]: 		22, -1
+discard[0][34]: 		9, -1
+discard[0][35]: 		24, -1
+discard[0][36]: 		16, -1
+discard[0][37]: 		14, -1
+discard[0][38]: 		17, -1
+discard[0][39]: 		20, -1
+discard[0][40]: 		13, -1
+discard[0][41]: 		23, -1
+discard[0][42]: 		15, -1
+discard[0][43]: 		23, -1
+discard[0][44]: 		21, -1
+discard[0][45]: 		11, -1
+discard[0][46]: 		21, -1
+discard[0][47]: 		10, -1
+discard[0][48]: 		22, -1
+discard[0][49]: 		6, -1
+discard[0][50]: 		8, -1
+discard[0][51]: 		24, -1
+discard[0][52]: 		14, -1
+discard[0][53]: 		0, -1
+discard[0][54]: 		17, -1
+discard[0][55]: 		15, -1
+discard[0][56]: 		14, -1
+discard[0][57]: 		18, -1
+discard[0][58]: 		5, -1
+discard[0][59]: 		19, -1
+discard[0][60]: 		2, -1
+discard[0][61]: 		17, -1
+discard[0][62]: 		4, -1
+discard[0][63]: 		9, -1
+discard[0][64]: 		22, -1
+discard[0][65]: 		19, -1
+discard[0][66]: 		26, -1
+discard[0][67]: 		16, -1
+discard[0][68]: 		13, -1
+discard[0][69]: 		19, -1
+discard[0][70]: 		21, -1
+discard[0][71]: 		0, -1
+discard[0][72]: 		11, -1
+discard[0][73]: 		14, -1
+discard[0][74]: 		1, -1
+discard[0][75]: 		17, -1
+discard[0][76]: 		6, -1
+discard[0][77]: 		19, -1
+discard[0][78]: 		10, -1
+discard[0][79]: 		10, -1
+discard[0][80]: 		1, -1
+discard[0][81]: 		13, -1
+discard[0][82]: 		19, -1
+discard[0][83]: 		26, -1
+discard[0][84]: 		22, -1
+discard[0][85]: 		13, -1
+discard[0][86]: 		14, -1
+discard[0][87]: 		5, -1
+discard[0][88]: 		14, -1
+discard[0][89]: 		3, -1
+discard[0][90]: 		1, -1
+discard[0][91]: 		16, -1
+discard[0][92]: 		8, -1
+discard[0][93]: 		16, -1
+discard[0][94]: 		4, -1
+discard[0][95]: 		11, -1
+discard[0][96]: 		9, -1
+discard[0][97]: 		23, -1
+discard[0][98]: 		3, -1
+discard[0][99]: 		1, -1
+discard[0][100]: 		11, -1
+discard[0][101]: 		12, -1
+discard[0][102]: 		16, -1
+discard[0][103]: 		0, -1
+discard[0][104]: 		17, -1
+discard[0][105]: 		12, -1
+discard[0][106]: 		18, -1
+discard[0][107]: 		19, -1
+discard[0][108]: 		25, -1
+discard[0][109]: 		9, -1
+discard[0][110]: 		11, -1
+discard[0][111]: 		12, -1
+discard[0][112]: 		18, -1
+discard[0][113]: 		26, -1
+discard[0][114]: 		2, -1
+discard[0][115]: 		16, -1
+discard[0][116]: 		7, -1
+discard[0][117]: 		18, -1
+discard[0][118]: 		12, -1
+discard[0][119]: 		8, -1
+discard[0][120]: 		15, -1
+discard[0][121]: 		23, -1
+discard[0][122]: 		25, -1
+discard[0][123]: 		17, -1
+discard[0][124]: 		0, -1
+discard[0][125]: 		4, -1
+discard[0][126]: 		4, -1
+discard[0][127]: 		16, -1
+discard[0][128]: 		2, -1
+discard[0][129]: 		17, -1
+discard[0][130]: 		2, -1
+discard[0][131]: 		9, -1
+discard[0][132]: 		19, -1
+discard[0][133]: 		4, -1
+discard[0][134]: 		21, -1
+discard[0][135]: 		17, -1
+discard[0][136]: 		21, -1
+discard[0][137]: 		13, -1
+discard[0][138]: 		10, -1
+discard[0][139]: 		11, -1
+discard[0][140]: 		16, -1
+discard[0][141]: 		23, -1
+discard[0][142]: 		18, -1
+discard[0][143]: 		18, -1
+discard[0][144]: 		3, -1
+discard[0][145]: 		24, -1
+discard[0][146]: 		6, -1
+discard[0][147]: 		1, -1
+discard[0][148]: 		8, -1
+discard[0][149]: 		9, -1
+discard[0][150]: 		9, -1
+discard[0][151]: 		6, -1
+discard[0][152]: 		26, -1
+discard[0][153]: 		15, -1
+discard[0][154]: 		11, -1
+discard[0][155]: 		12, -1
+discard[0][156]: 		12, -1
+discard[0][157]: 		1, -1
+discard[0][158]: 		4, -1
+discard[0][159]: 		17, -1
+discard[0][160]: 		11, -1
+discard[0][161]: 		20, -1
+discard[0][162]: 		7, -1
+discard[0][163]: 		6, -1
+discard[0][164]: 		5, -1
+discard[0][165]: 		20, -1
+discard[0][166]: 		13, -1
+discard[0][167]: 		26, -1
+discard[0][168]: 		14, -1
+discard[0][169]: 		8, -1
+discard[0][170]: 		0, -1
+discard[0][171]: 		17, -1
+discard[0][172]: 		18, -1
+discard[0][173]: 		15, -1
+discard[0][174]: 		14, -1
+discard[0][175]: 		20, -1
+discard[0][176]: 		18, -1
+discard[0][177]: 		24, -1
+discard[0][178]: 		19, -1
+discard[0][179]: 		8, -1
+discard[0][180]: 		5, -1
+discard[0][181]: 		24, -1
+discard[0][182]: 		18, -1
+discard[0][183]: 		11, -1
+discard[0][184]: 		7, -1
+discard[0][185]: 		1, -1
+discard[0][186]: 		26, -1
+discard[0][187]: 		14, -1
+discard[0][188]: 		20, -1
+discard[0][189]: 		16, -1
+discard[0][190]: 		4, -1
+
++------------Current Error Count: 744 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 746 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 749 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+handCount[0]: 		87, 89
+deckCount[0]: 		55, 53
+
++------------Current Error Count: 752 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+handCount[1]: 		84, 86
+deckCount[1]: 		246, 244
+
++------------Current Error Count: 755 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 758 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 761 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+handCount[0]: 		82, 84
+deckCount[0]: 		147, 145
+
++------------Current Error Count: 764 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 767 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+handCount[2]: 		23, 25
+deckCount[2]: 		55, 53
+
++------------Current Error Count: 770 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 773 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 776 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 779 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+handCount[1]: 		208, 210
+deckCount[1]: 		238, 236
+
++------------Current Error Count: 782 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 784 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 787 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 789 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 792 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+handCount[0]: 		54, 56
+deckCount[0]: 		3, 1
+
++------------Current Error Count: 795 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+handCount[2]: 		86, 88
+deckCount[2]: 		54, 52
+
++------------Current Error Count: 798 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 801 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 804 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+handCount[0]: 		93, 95
+deckCount[0]: 		130, 128
+
++------------Current Error Count: 806 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 809 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+handCount[1]: 		126, 128
+deckCount[1]: 		129, 127
+
++------------Current Error Count: 812 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 815 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 818 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+handCount[1]: 		152, 154
+deckCount[1]: 		217, 215
+
++------------Current Error Count: 821 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+handCount[2]: 		110, 112
+deckCount[2]: 		95, 92
+discardCount[2]: 	11, 12
+
++------------Current Error Count: 824 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 827 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 830 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+handCount[1]: 		14, 16
+deckCount[1]: 		83, 81
+
++------------Current Error Count: 833 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 836 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 839 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 841 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 844 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 847 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 850 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 853 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+handCount[1]: 		70, 72
+deckCount[1]: 		237, 235
+
++------------Current Error Count: 856 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 859 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 862 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+handCount[1]: 		74, 76
+deckCount[1]: 		17, 15
+
++------------Current Error Count: 865 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 868 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 871 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+handCount[1]: 		233, 235
+deckCount[1]: 		240, 238
+
++------------Current Error Count: 874 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+handCount[1]: 		129, 131
+deckCount[1]: 		182, 180
+
++------------Current Error Count: 877 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+handCount[0]: 		42, 44
+deckCount[0]: 		160, 158
+
++------------Current Error Count: 880 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 882 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 885 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 888 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+handCount[1]: 		27, 29
+deckCount[1]: 		65, 63
+
++------------Current Error Count: 891 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+handCount[0]: 		42, 44
+deckCount[0]: 		146, 144
+
++------------Current Error Count: 894 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 897 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 900 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+handCount[0]: 		82, 84
+deckCount[0]: 		91, 89
+
++------------Current Error Count: 903 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+handCount[1]: 		64, 66
+deckCount[1]: 		40, 38
+
++------------Current Error Count: 906 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 909 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 911 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 914 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 917 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 920 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 923 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+handCount[0]: 		35, 37
+deckCount[0]: 		167, 165
+
++------------Current Error Count: 926 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+handCount[0]: 		99, 101
+deckCount[0]: 		105, 102
+discardCount[0]: 	17, 18
+
++------------Current Error Count: 929 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+handCount[2]: 		44, 46
+deckCount[2]: 		31, 29
+
++------------Current Error Count: 932 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 935 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 937 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 940 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 943 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 946 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 948 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+handCount[2]: 		5, 7
+deckCount[2]: 		20, 18
+
++------------Current Error Count: 951 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+handCount[1]: 		169, 171
+deckCount[1]: 		210, 208
+
++------------Current Error Count: 954 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 956 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 959 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 962 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 965 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+handCount[1]: 		121, 123
+deckCount[1]: 		24, 22
+
++------------Current Error Count: 968 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 971 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+handCount[0]: 		17, 19
+deckCount[0]: 		66, 64
+
++------------Current Error Count: 974 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 977 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 979 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 982 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 985 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 988 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+handCount[0]: 		51, 53
+deckCount[0]: 		56, 54
+
++------------Current Error Count: 991 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+
++------------Current Error Count: 994 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+handCount[1]: 		5, 7
+deckCount[1]: 		31, 29
+
++------------Current Error Count: 997 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +1 cards in hand
+Basic Function Check: Didn't draw a treasure into newest hand position
+Basic Function Check: Adventurer not accounted for in played card count
+
+		col 1 = before, col2 = after
+
++------------Final Error Count: 1000 -------------+
+

@@ -1,0 +1,6212 @@
++------------Current Error Count: 0 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		5, 6
+
+Full Card Check Errors:
+None
++------------Current Error Count: 2 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		261, 262
+
+Full Card Check Errors:
+None
++------------Current Error Count: 4 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		209, 210
+
+Full Card Check Errors:
+None
++------------Current Error Count: 6 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+handCount[1]: 		108, 109
+deckCount[1]: 		113, 111
+hand[1][29]: 		13, 15
+playedCardCount: 		338, 339
+
+Full Card Check Errors:
+Full Card Check: Card value 13 has different count of cards before than after
+Full Card Check: Total card counts didn't match before and after
+
+		col 1 = before, col2 = after
+handCount[1]: 		108, 109
+deckCount[1]: 		113, 111
+hand[1][29]: 		13, 15
+playedCardCount: 		338, 339
+
++------------Current Error Count: 10 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		59, 60
+
+Full Card Check Errors:
+None
++------------Current Error Count: 12 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+handCount[1]: 		17, 18
+deckCount[1]: 		22, 20
+playedCardCount: 		349, 350
+
+Full Card Check Errors:
+Full Card Check: Card value 13 has different count of cards before than after
+Full Card Check: Total card counts didn't match before and after
+
+		col 1 = before, col2 = after
+handCount[1]: 		17, 18
+deckCount[1]: 		22, 20
+playedCardCount: 		349, 350
+
++------------Current Error Count: 16 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		94, 95
+
+Full Card Check Errors:
+None
++------------Current Error Count: 18 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		166, 167
+
+Full Card Check Errors:
+None
++------------Current Error Count: 20 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		109, 110
+
+Full Card Check Errors:
+None
++------------Current Error Count: 22 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		112, 113
+
+Full Card Check Errors:
+None
++------------Current Error Count: 24 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		481, 482
+
+Full Card Check Errors:
+None
++------------Current Error Count: 26 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		442, 443
+
+Full Card Check Errors:
+None
++------------Current Error Count: 28 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		138, 139
+
+Full Card Check Errors:
+None
++------------Current Error Count: 30 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+handCount[1]: 		7, 8
+deckCount[1]: 		16, 14
+hand[1][4]: 		13, 26
+playedCardCount: 		94, 95
+
+Full Card Check Errors:
+Full Card Check: Card value 13 has different count of cards before than after
+Full Card Check: Total card counts didn't match before and after
+
+		col 1 = before, col2 = after
+handCount[1]: 		7, 8
+deckCount[1]: 		16, 14
+hand[1][4]: 		13, 26
+playedCardCount: 		94, 95
+
++------------Current Error Count: 34 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+handCount[1]: 		63, 64
+deckCount[1]: 		56, 54
+hand[1][24]: 		13, 6
+playedCardCount: 		13, 14
+
+Full Card Check Errors:
+Full Card Check: Card value 13 has different count of cards before than after
+Full Card Check: Total card counts didn't match before and after
+
+		col 1 = before, col2 = after
+handCount[1]: 		63, 64
+deckCount[1]: 		56, 54
+hand[1][24]: 		13, 6
+playedCardCount: 		13, 14
+
++------------Current Error Count: 38 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		67, 68
+
+Full Card Check Errors:
+None
++------------Current Error Count: 40 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+handCount[2]: 		4, 5
+deckCount[2]: 		73, 71
+hand[2][1]: 		13, 25
+playedCardCount: 		277, 278
+
+Full Card Check Errors:
+Full Card Check: Card value 13 has different count of cards before than after
+Full Card Check: Total card counts didn't match before and after
+
+		col 1 = before, col2 = after
+handCount[2]: 		4, 5
+deckCount[2]: 		73, 71
+hand[2][1]: 		13, 25
+playedCardCount: 		277, 278
+
++------------Current Error Count: 44 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+handCount[2]: 		41, 42
+deckCount[2]: 		128, 126
+hand[2][1]: 		13, 17
+playedCardCount: 		451, 452
+
+Full Card Check Errors:
+Full Card Check: Card value 13 has different count of cards before than after
+Full Card Check: Total card counts didn't match before and after
+
+		col 1 = before, col2 = after
+handCount[2]: 		41, 42
+deckCount[2]: 		128, 126
+hand[2][1]: 		13, 17
+playedCardCount: 		451, 452
+
++------------Current Error Count: 48 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+handCount[0]: 		136, 137
+deckCount[0]: 		188, 186
+hand[0][67]: 		13, 6
+playedCardCount: 		60, 61
+
+Full Card Check Errors:
+Full Card Check: Card value 13 has different count of cards before than after
+Full Card Check: Total card counts didn't match before and after
+
+		col 1 = before, col2 = after
+handCount[0]: 		136, 137
+deckCount[0]: 		188, 186
+hand[0][67]: 		13, 6
+playedCardCount: 		60, 61
+
++------------Current Error Count: 52 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+handCount[1]: 		35, 36
+deckCount[1]: 		61, 59
+hand[1][5]: 		13, 14
+playedCardCount: 		158, 159
+
+Full Card Check Errors:
+Full Card Check: Card value 13 has different count of cards before than after
+Full Card Check: Total card counts didn't match before and after
+
+		col 1 = before, col2 = after
+handCount[1]: 		35, 36
+deckCount[1]: 		61, 59
+hand[1][5]: 		13, 14
+playedCardCount: 		158, 159
+
++------------Current Error Count: 56 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		291, 292
+
+Full Card Check Errors:
+None
++------------Current Error Count: 58 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		86, 87
+
+Full Card Check Errors:
+None
++------------Current Error Count: 60 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		358, 359
+
+Full Card Check Errors:
+None
++------------Current Error Count: 62 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+handCount[0]: 		31, 32
+deckCount[0]: 		96, 94
+hand[0][22]: 		13, 5
+playedCardCount: 		388, 389
+
+Full Card Check Errors:
+Full Card Check: Card value 13 has different count of cards before than after
+Full Card Check: Total card counts didn't match before and after
+
+		col 1 = before, col2 = after
+handCount[0]: 		31, 32
+deckCount[0]: 		96, 94
+hand[0][22]: 		13, 5
+playedCardCount: 		388, 389
+
++------------Current Error Count: 66 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+handCount[2]: 		1, 2
+deckCount[2]: 		0, 117
+discardCount[2]: 	119, 0
+hand[2][0]: 		13, 12
+discard[2][0]: 		13, -1
+discard[2][1]: 		24, -1
+discard[2][2]: 		15, -1
+discard[2][3]: 		22, -1
+discard[2][4]: 		26, -1
+discard[2][5]: 		2, -1
+discard[2][6]: 		20, -1
+discard[2][7]: 		26, -1
+discard[2][8]: 		5, -1
+discard[2][9]: 		8, -1
+discard[2][10]: 		24, -1
+discard[2][11]: 		3, -1
+discard[2][12]: 		6, -1
+discard[2][13]: 		22, -1
+discard[2][14]: 		16, -1
+discard[2][15]: 		4, -1
+discard[2][16]: 		10, -1
+discard[2][17]: 		22, -1
+discard[2][18]: 		19, -1
+discard[2][19]: 		23, -1
+discard[2][20]: 		12, -1
+discard[2][21]: 		2, -1
+discard[2][22]: 		6, -1
+discard[2][23]: 		9, -1
+discard[2][24]: 		22, -1
+discard[2][25]: 		7, -1
+discard[2][26]: 		9, -1
+discard[2][27]: 		9, -1
+discard[2][28]: 		13, -1
+discard[2][29]: 		19, -1
+discard[2][30]: 		20, -1
+discard[2][31]: 		26, -1
+discard[2][32]: 		4, -1
+discard[2][33]: 		3, -1
+discard[2][34]: 		17, -1
+discard[2][35]: 		25, -1
+discard[2][36]: 		19, -1
+discard[2][37]: 		10, -1
+discard[2][38]: 		23, -1
+discard[2][39]: 		2, -1
+discard[2][40]: 		3, -1
+discard[2][41]: 		10, -1
+discard[2][42]: 		21, -1
+discard[2][43]: 		21, -1
+discard[2][44]: 		19, -1
+discard[2][45]: 		4, -1
+discard[2][46]: 		16, -1
+discard[2][47]: 		2, -1
+discard[2][48]: 		20, -1
+discard[2][49]: 		4, -1
+discard[2][50]: 		18, -1
+discard[2][51]: 		10, -1
+discard[2][52]: 		14, -1
+discard[2][53]: 		9, -1
+discard[2][54]: 		4, -1
+discard[2][55]: 		22, -1
+discard[2][56]: 		3, -1
+discard[2][57]: 		7, -1
+discard[2][58]: 		11, -1
+discard[2][59]: 		19, -1
+discard[2][60]: 		15, -1
+discard[2][61]: 		12, -1
+discard[2][62]: 		23, -1
+discard[2][63]: 		17, -1
+discard[2][64]: 		16, -1
+discard[2][65]: 		1, -1
+discard[2][66]: 		4, -1
+discard[2][67]: 		19, -1
+discard[2][68]: 		23, -1
+discard[2][69]: 		6, -1
+discard[2][70]: 		22, -1
+discard[2][71]: 		21, -1
+discard[2][72]: 		19, -1
+discard[2][73]: 		6, -1
+discard[2][74]: 		5, -1
+discard[2][75]: 		8, -1
+discard[2][76]: 		25, -1
+discard[2][77]: 		19, -1
+discard[2][78]: 		17, -1
+discard[2][79]: 		8, -1
+discard[2][80]: 		24, -1
+discard[2][81]: 		21, -1
+discard[2][82]: 		0, -1
+discard[2][83]: 		4, -1
+discard[2][84]: 		6, -1
+discard[2][85]: 		17, -1
+discard[2][86]: 		9, -1
+discard[2][87]: 		19, -1
+discard[2][88]: 		13, -1
+discard[2][89]: 		8, -1
+discard[2][90]: 		22, -1
+discard[2][91]: 		1, -1
+discard[2][92]: 		25, -1
+discard[2][93]: 		7, -1
+discard[2][94]: 		9, -1
+discard[2][95]: 		7, -1
+discard[2][96]: 		11, -1
+discard[2][97]: 		4, -1
+discard[2][98]: 		11, -1
+discard[2][99]: 		22, -1
+discard[2][100]: 		4, -1
+discard[2][101]: 		8, -1
+discard[2][102]: 		21, -1
+discard[2][103]: 		24, -1
+discard[2][104]: 		5, -1
+discard[2][105]: 		10, -1
+discard[2][106]: 		15, -1
+discard[2][107]: 		5, -1
+discard[2][108]: 		22, -1
+discard[2][109]: 		2, -1
+discard[2][110]: 		23, -1
+discard[2][111]: 		17, -1
+discard[2][112]: 		2, -1
+discard[2][113]: 		1, -1
+discard[2][114]: 		10, -1
+discard[2][115]: 		18, -1
+discard[2][116]: 		21, -1
+discard[2][117]: 		11, -1
+discard[2][118]: 		4, -1
+playedCardCount: 		435, 436
+
+Full Card Check Errors:
+Full Card Check: Card value 13 has different count of cards before than after
+Full Card Check: Total card counts didn't match before and after
+
+		col 1 = before, col2 = after
+handCount[2]: 		1, 2
+deckCount[2]: 		0, 117
+discardCount[2]: 	119, 0
+hand[2][0]: 		13, 12
+discard[2][0]: 		13, -1
+discard[2][1]: 		24, -1
+discard[2][2]: 		15, -1
+discard[2][3]: 		22, -1
+discard[2][4]: 		26, -1
+discard[2][5]: 		2, -1
+discard[2][6]: 		20, -1
+discard[2][7]: 		26, -1
+discard[2][8]: 		5, -1
+discard[2][9]: 		8, -1
+discard[2][10]: 		24, -1
+discard[2][11]: 		3, -1
+discard[2][12]: 		6, -1
+discard[2][13]: 		22, -1
+discard[2][14]: 		16, -1
+discard[2][15]: 		4, -1
+discard[2][16]: 		10, -1
+discard[2][17]: 		22, -1
+discard[2][18]: 		19, -1
+discard[2][19]: 		23, -1
+discard[2][20]: 		12, -1
+discard[2][21]: 		2, -1
+discard[2][22]: 		6, -1
+discard[2][23]: 		9, -1
+discard[2][24]: 		22, -1
+discard[2][25]: 		7, -1
+discard[2][26]: 		9, -1
+discard[2][27]: 		9, -1
+discard[2][28]: 		13, -1
+discard[2][29]: 		19, -1
+discard[2][30]: 		20, -1
+discard[2][31]: 		26, -1
+discard[2][32]: 		4, -1
+discard[2][33]: 		3, -1
+discard[2][34]: 		17, -1
+discard[2][35]: 		25, -1
+discard[2][36]: 		19, -1
+discard[2][37]: 		10, -1
+discard[2][38]: 		23, -1
+discard[2][39]: 		2, -1
+discard[2][40]: 		3, -1
+discard[2][41]: 		10, -1
+discard[2][42]: 		21, -1
+discard[2][43]: 		21, -1
+discard[2][44]: 		19, -1
+discard[2][45]: 		4, -1
+discard[2][46]: 		16, -1
+discard[2][47]: 		2, -1
+discard[2][48]: 		20, -1
+discard[2][49]: 		4, -1
+discard[2][50]: 		18, -1
+discard[2][51]: 		10, -1
+discard[2][52]: 		14, -1
+discard[2][53]: 		9, -1
+discard[2][54]: 		4, -1
+discard[2][55]: 		22, -1
+discard[2][56]: 		3, -1
+discard[2][57]: 		7, -1
+discard[2][58]: 		11, -1
+discard[2][59]: 		19, -1
+discard[2][60]: 		15, -1
+discard[2][61]: 		12, -1
+discard[2][62]: 		23, -1
+discard[2][63]: 		17, -1
+discard[2][64]: 		16, -1
+discard[2][65]: 		1, -1
+discard[2][66]: 		4, -1
+discard[2][67]: 		19, -1
+discard[2][68]: 		23, -1
+discard[2][69]: 		6, -1
+discard[2][70]: 		22, -1
+discard[2][71]: 		21, -1
+discard[2][72]: 		19, -1
+discard[2][73]: 		6, -1
+discard[2][74]: 		5, -1
+discard[2][75]: 		8, -1
+discard[2][76]: 		25, -1
+discard[2][77]: 		19, -1
+discard[2][78]: 		17, -1
+discard[2][79]: 		8, -1
+discard[2][80]: 		24, -1
+discard[2][81]: 		21, -1
+discard[2][82]: 		0, -1
+discard[2][83]: 		4, -1
+discard[2][84]: 		6, -1
+discard[2][85]: 		17, -1
+discard[2][86]: 		9, -1
+discard[2][87]: 		19, -1
+discard[2][88]: 		13, -1
+discard[2][89]: 		8, -1
+discard[2][90]: 		22, -1
+discard[2][91]: 		1, -1
+discard[2][92]: 		25, -1
+discard[2][93]: 		7, -1
+discard[2][94]: 		9, -1
+discard[2][95]: 		7, -1
+discard[2][96]: 		11, -1
+discard[2][97]: 		4, -1
+discard[2][98]: 		11, -1
+discard[2][99]: 		22, -1
+discard[2][100]: 		4, -1
+discard[2][101]: 		8, -1
+discard[2][102]: 		21, -1
+discard[2][103]: 		24, -1
+discard[2][104]: 		5, -1
+discard[2][105]: 		10, -1
+discard[2][106]: 		15, -1
+discard[2][107]: 		5, -1
+discard[2][108]: 		22, -1
+discard[2][109]: 		2, -1
+discard[2][110]: 		23, -1
+discard[2][111]: 		17, -1
+discard[2][112]: 		2, -1
+discard[2][113]: 		1, -1
+discard[2][114]: 		10, -1
+discard[2][115]: 		18, -1
+discard[2][116]: 		21, -1
+discard[2][117]: 		11, -1
+discard[2][118]: 		4, -1
+playedCardCount: 		435, 436
+
++------------Current Error Count: 70 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		154, 155
+
+Full Card Check Errors:
+None
++------------Current Error Count: 72 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		264, 265
+
+Full Card Check Errors:
+None
++------------Current Error Count: 74 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		46, 47
+
+Full Card Check Errors:
+None
++------------Current Error Count: 76 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		494, 495
+
+Full Card Check Errors:
+None
++------------Current Error Count: 78 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+handCount[2]: 		32, 33
+deckCount[2]: 		28, 26
+hand[2][21]: 		13, 6
+playedCardCount: 		349, 350
+
+Full Card Check Errors:
+Full Card Check: Card value 13 has different count of cards before than after
+Full Card Check: Total card counts didn't match before and after
+
+		col 1 = before, col2 = after
+handCount[2]: 		32, 33
+deckCount[2]: 		28, 26
+hand[2][21]: 		13, 6
+playedCardCount: 		349, 350
+
++------------Current Error Count: 82 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		349, 350
+
+Full Card Check Errors:
+None
++------------Current Error Count: 84 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		426, 427
+
+Full Card Check Errors:
+None
++------------Current Error Count: 86 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+handCount[0]: 		45, 46
+deckCount[0]: 		234, 232
+hand[0][31]: 		13, 15
+playedCardCount: 		158, 159
+
+Full Card Check Errors:
+Full Card Check: Card value 13 has different count of cards before than after
+Full Card Check: Total card counts didn't match before and after
+
+		col 1 = before, col2 = after
+handCount[0]: 		45, 46
+deckCount[0]: 		234, 232
+hand[0][31]: 		13, 15
+playedCardCount: 		158, 159
+
++------------Current Error Count: 90 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		103, 104
+
+Full Card Check Errors:
+None
++------------Current Error Count: 92 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		65, 66
+
+Full Card Check Errors:
+None
++------------Current Error Count: 94 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		302, 303
+
+Full Card Check Errors:
+None
++------------Current Error Count: 96 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		267, 268
+
+Full Card Check Errors:
+None
++------------Current Error Count: 98 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		303, 304
+
+Full Card Check Errors:
+None
++------------Current Error Count: 100 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		277, 278
+
+Full Card Check Errors:
+None
++------------Current Error Count: 102 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+handCount[2]: 		96, 97
+deckCount[2]: 		159, 157
+playedCardCount: 		234, 235
+
+Full Card Check Errors:
+Full Card Check: Card value 13 has different count of cards before than after
+Full Card Check: Total card counts didn't match before and after
+
+		col 1 = before, col2 = after
+handCount[2]: 		96, 97
+deckCount[2]: 		159, 157
+playedCardCount: 		234, 235
+
++------------Current Error Count: 106 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		458, 459
+
+Full Card Check Errors:
+None
++------------Current Error Count: 108 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		398, 399
+
+Full Card Check Errors:
+None
++------------Current Error Count: 110 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		149, 150
+
+Full Card Check Errors:
+None
++------------Current Error Count: 112 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		105, 106
+
+Full Card Check Errors:
+None
++------------Current Error Count: 114 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+handCount[1]: 		36, 37
+deckCount[1]: 		13, 11
+hand[1][8]: 		13, 17
+playedCardCount: 		479, 480
+
+Full Card Check Errors:
+Full Card Check: Card value 13 has different count of cards before than after
+Full Card Check: Total card counts didn't match before and after
+
+		col 1 = before, col2 = after
+handCount[1]: 		36, 37
+deckCount[1]: 		13, 11
+hand[1][8]: 		13, 17
+playedCardCount: 		479, 480
+
++------------Current Error Count: 118 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		44, 45
+
+Full Card Check Errors:
+None
++------------Current Error Count: 120 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+handCount[0]: 		58, 59
+deckCount[0]: 		67, 65
+hand[0][3]: 		13, 18
+playedCardCount: 		247, 248
+
+Full Card Check Errors:
+Full Card Check: Card value 13 has different count of cards before than after
+Full Card Check: Total card counts didn't match before and after
+
+		col 1 = before, col2 = after
+handCount[0]: 		58, 59
+deckCount[0]: 		67, 65
+hand[0][3]: 		13, 18
+playedCardCount: 		247, 248
+
++------------Current Error Count: 124 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		26, 27
+
+Full Card Check Errors:
+None
++------------Current Error Count: 126 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		350, 351
+
+Full Card Check Errors:
+None
++------------Current Error Count: 128 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+handCount[0]: 		199, 200
+deckCount[0]: 		176, 174
+hand[0][3]: 		13, 18
+playedCardCount: 		308, 309
+
+Full Card Check Errors:
+Full Card Check: Card value 13 has different count of cards before than after
+Full Card Check: Total card counts didn't match before and after
+
+		col 1 = before, col2 = after
+handCount[0]: 		199, 200
+deckCount[0]: 		176, 174
+hand[0][3]: 		13, 18
+playedCardCount: 		308, 309
+
++------------Current Error Count: 132 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+handCount[3]: 		22, 23
+deckCount[3]: 		118, 116
+hand[3][0]: 		13, 4
+playedCardCount: 		236, 237
+
+Full Card Check Errors:
+Full Card Check: Card value 13 has different count of cards before than after
+Full Card Check: Total card counts didn't match before and after
+
+		col 1 = before, col2 = after
+handCount[3]: 		22, 23
+deckCount[3]: 		118, 116
+hand[3][0]: 		13, 4
+playedCardCount: 		236, 237
+
++------------Current Error Count: 136 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+handCount[1]: 		58, 59
+deckCount[1]: 		21, 19
+hand[1][10]: 		13, 21
+playedCardCount: 		314, 315
+
+Full Card Check Errors:
+Full Card Check: Card value 13 has different count of cards before than after
+Full Card Check: Total card counts didn't match before and after
+
+		col 1 = before, col2 = after
+handCount[1]: 		58, 59
+deckCount[1]: 		21, 19
+hand[1][10]: 		13, 21
+playedCardCount: 		314, 315
+
++------------Current Error Count: 140 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+handCount[0]: 		142, 143
+deckCount[0]: 		154, 152
+hand[0][111]: 		13, 3
+playedCardCount: 		290, 291
+
+Full Card Check Errors:
+Full Card Check: Card value 13 has different count of cards before than after
+Full Card Check: Total card counts didn't match before and after
+
+		col 1 = before, col2 = after
+handCount[0]: 		142, 143
+deckCount[0]: 		154, 152
+hand[0][111]: 		13, 3
+playedCardCount: 		290, 291
+
++------------Current Error Count: 144 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+handCount[1]: 		18, 19
+deckCount[1]: 		14, 12
+hand[1][3]: 		13, 24
+playedCardCount: 		60, 61
+
+Full Card Check Errors:
+Full Card Check: Card value 13 has different count of cards before than after
+Full Card Check: Total card counts didn't match before and after
+
+		col 1 = before, col2 = after
+handCount[1]: 		18, 19
+deckCount[1]: 		14, 12
+hand[1][3]: 		13, 24
+playedCardCount: 		60, 61
+
++------------Current Error Count: 148 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		57, 58
+
+Full Card Check Errors:
+None
++------------Current Error Count: 150 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		279, 280
+
+Full Card Check Errors:
+None
++------------Current Error Count: 152 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		85, 86
+
+Full Card Check Errors:
+None
++------------Current Error Count: 154 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		192, 193
+
+Full Card Check Errors:
+None
++------------Current Error Count: 156 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+handCount[2]: 		79, 80
+deckCount[2]: 		152, 150
+hand[2][35]: 		13, 0
+playedCardCount: 		410, 411
+
+Full Card Check Errors:
+Full Card Check: Card value 13 has different count of cards before than after
+Full Card Check: Total card counts didn't match before and after
+
+		col 1 = before, col2 = after
+handCount[2]: 		79, 80
+deckCount[2]: 		152, 150
+hand[2][35]: 		13, 0
+playedCardCount: 		410, 411
+
++------------Current Error Count: 160 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		140, 141
+
+Full Card Check Errors:
+None
++------------Current Error Count: 162 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		257, 258
+
+Full Card Check Errors:
+None
++------------Current Error Count: 164 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		210, 211
+
+Full Card Check Errors:
+None
++------------Current Error Count: 166 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+handCount[2]: 		7, 8
+deckCount[2]: 		1, 114
+discardCount[2]: 	115, 0
+hand[2][0]: 		13, 1
+deck[2][0]: 		20, 2
+discard[2][0]: 		23, -1
+discard[2][1]: 		12, -1
+discard[2][2]: 		6, -1
+discard[2][3]: 		24, -1
+discard[2][4]: 		2, -1
+discard[2][5]: 		21, -1
+discard[2][6]: 		1, -1
+discard[2][7]: 		21, -1
+discard[2][8]: 		4, -1
+discard[2][9]: 		23, -1
+discard[2][10]: 		21, -1
+discard[2][11]: 		20, -1
+discard[2][12]: 		0, -1
+discard[2][13]: 		9, -1
+discard[2][14]: 		0, -1
+discard[2][15]: 		1, -1
+discard[2][16]: 		25, -1
+discard[2][17]: 		2, -1
+discard[2][18]: 		20, -1
+discard[2][19]: 		12, -1
+discard[2][20]: 		5, -1
+discard[2][21]: 		23, -1
+discard[2][22]: 		25, -1
+discard[2][23]: 		8, -1
+discard[2][24]: 		24, -1
+discard[2][25]: 		12, -1
+discard[2][26]: 		4, -1
+discard[2][27]: 		2, -1
+discard[2][28]: 		8, -1
+discard[2][29]: 		18, -1
+discard[2][30]: 		17, -1
+discard[2][31]: 		21, -1
+discard[2][32]: 		14, -1
+discard[2][33]: 		9, -1
+discard[2][34]: 		25, -1
+discard[2][35]: 		23, -1
+discard[2][36]: 		25, -1
+discard[2][37]: 		11, -1
+discard[2][38]: 		20, -1
+discard[2][39]: 		24, -1
+discard[2][40]: 		3, -1
+discard[2][41]: 		9, -1
+discard[2][42]: 		26, -1
+discard[2][43]: 		4, -1
+discard[2][44]: 		2, -1
+discard[2][45]: 		25, -1
+discard[2][46]: 		11, -1
+discard[2][47]: 		22, -1
+discard[2][48]: 		23, -1
+discard[2][49]: 		13, -1
+discard[2][50]: 		14, -1
+discard[2][51]: 		13, -1
+discard[2][52]: 		10, -1
+discard[2][53]: 		7, -1
+discard[2][54]: 		17, -1
+discard[2][55]: 		22, -1
+discard[2][56]: 		16, -1
+discard[2][57]: 		6, -1
+discard[2][58]: 		4, -1
+discard[2][59]: 		25, -1
+discard[2][60]: 		17, -1
+discard[2][61]: 		4, -1
+discard[2][62]: 		8, -1
+discard[2][63]: 		8, -1
+discard[2][64]: 		0, -1
+discard[2][65]: 		1, -1
+discard[2][66]: 		24, -1
+discard[2][67]: 		23, -1
+discard[2][68]: 		13, -1
+discard[2][69]: 		1, -1
+discard[2][70]: 		20, -1
+discard[2][71]: 		24, -1
+discard[2][72]: 		19, -1
+discard[2][73]: 		3, -1
+discard[2][74]: 		19, -1
+discard[2][75]: 		2, -1
+discard[2][76]: 		11, -1
+discard[2][77]: 		11, -1
+discard[2][78]: 		4, -1
+discard[2][79]: 		20, -1
+discard[2][80]: 		15, -1
+discard[2][81]: 		21, -1
+discard[2][82]: 		22, -1
+discard[2][83]: 		3, -1
+discard[2][84]: 		13, -1
+discard[2][85]: 		18, -1
+discard[2][86]: 		3, -1
+discard[2][87]: 		0, -1
+discard[2][88]: 		20, -1
+discard[2][89]: 		17, -1
+discard[2][90]: 		19, -1
+discard[2][91]: 		22, -1
+discard[2][92]: 		0, -1
+discard[2][93]: 		23, -1
+discard[2][94]: 		0, -1
+discard[2][95]: 		18, -1
+discard[2][96]: 		4, -1
+discard[2][97]: 		9, -1
+discard[2][98]: 		10, -1
+discard[2][99]: 		1, -1
+discard[2][100]: 		0, -1
+discard[2][101]: 		17, -1
+discard[2][102]: 		16, -1
+discard[2][103]: 		6, -1
+discard[2][104]: 		0, -1
+discard[2][105]: 		22, -1
+discard[2][106]: 		19, -1
+discard[2][107]: 		3, -1
+discard[2][108]: 		22, -1
+discard[2][109]: 		4, -1
+discard[2][110]: 		15, -1
+discard[2][111]: 		8, -1
+discard[2][112]: 		14, -1
+discard[2][113]: 		9, -1
+discard[2][114]: 		4, -1
+playedCardCount: 		248, 249
+
+Full Card Check Errors:
+Full Card Check: Card value 13 has different count of cards before than after
+Full Card Check: Total card counts didn't match before and after
+
+		col 1 = before, col2 = after
+handCount[2]: 		7, 8
+deckCount[2]: 		1, 114
+discardCount[2]: 	115, 0
+hand[2][0]: 		13, 1
+deck[2][0]: 		20, 2
+discard[2][0]: 		23, -1
+discard[2][1]: 		12, -1
+discard[2][2]: 		6, -1
+discard[2][3]: 		24, -1
+discard[2][4]: 		2, -1
+discard[2][5]: 		21, -1
+discard[2][6]: 		1, -1
+discard[2][7]: 		21, -1
+discard[2][8]: 		4, -1
+discard[2][9]: 		23, -1
+discard[2][10]: 		21, -1
+discard[2][11]: 		20, -1
+discard[2][12]: 		0, -1
+discard[2][13]: 		9, -1
+discard[2][14]: 		0, -1
+discard[2][15]: 		1, -1
+discard[2][16]: 		25, -1
+discard[2][17]: 		2, -1
+discard[2][18]: 		20, -1
+discard[2][19]: 		12, -1
+discard[2][20]: 		5, -1
+discard[2][21]: 		23, -1
+discard[2][22]: 		25, -1
+discard[2][23]: 		8, -1
+discard[2][24]: 		24, -1
+discard[2][25]: 		12, -1
+discard[2][26]: 		4, -1
+discard[2][27]: 		2, -1
+discard[2][28]: 		8, -1
+discard[2][29]: 		18, -1
+discard[2][30]: 		17, -1
+discard[2][31]: 		21, -1
+discard[2][32]: 		14, -1
+discard[2][33]: 		9, -1
+discard[2][34]: 		25, -1
+discard[2][35]: 		23, -1
+discard[2][36]: 		25, -1
+discard[2][37]: 		11, -1
+discard[2][38]: 		20, -1
+discard[2][39]: 		24, -1
+discard[2][40]: 		3, -1
+discard[2][41]: 		9, -1
+discard[2][42]: 		26, -1
+discard[2][43]: 		4, -1
+discard[2][44]: 		2, -1
+discard[2][45]: 		25, -1
+discard[2][46]: 		11, -1
+discard[2][47]: 		22, -1
+discard[2][48]: 		23, -1
+discard[2][49]: 		13, -1
+discard[2][50]: 		14, -1
+discard[2][51]: 		13, -1
+discard[2][52]: 		10, -1
+discard[2][53]: 		7, -1
+discard[2][54]: 		17, -1
+discard[2][55]: 		22, -1
+discard[2][56]: 		16, -1
+discard[2][57]: 		6, -1
+discard[2][58]: 		4, -1
+discard[2][59]: 		25, -1
+discard[2][60]: 		17, -1
+discard[2][61]: 		4, -1
+discard[2][62]: 		8, -1
+discard[2][63]: 		8, -1
+discard[2][64]: 		0, -1
+discard[2][65]: 		1, -1
+discard[2][66]: 		24, -1
+discard[2][67]: 		23, -1
+discard[2][68]: 		13, -1
+discard[2][69]: 		1, -1
+discard[2][70]: 		20, -1
+discard[2][71]: 		24, -1
+discard[2][72]: 		19, -1
+discard[2][73]: 		3, -1
+discard[2][74]: 		19, -1
+discard[2][75]: 		2, -1
+discard[2][76]: 		11, -1
+discard[2][77]: 		11, -1
+discard[2][78]: 		4, -1
+discard[2][79]: 		20, -1
+discard[2][80]: 		15, -1
+discard[2][81]: 		21, -1
+discard[2][82]: 		22, -1
+discard[2][83]: 		3, -1
+discard[2][84]: 		13, -1
+discard[2][85]: 		18, -1
+discard[2][86]: 		3, -1
+discard[2][87]: 		0, -1
+discard[2][88]: 		20, -1
+discard[2][89]: 		17, -1
+discard[2][90]: 		19, -1
+discard[2][91]: 		22, -1
+discard[2][92]: 		0, -1
+discard[2][93]: 		23, -1
+discard[2][94]: 		0, -1
+discard[2][95]: 		18, -1
+discard[2][96]: 		4, -1
+discard[2][97]: 		9, -1
+discard[2][98]: 		10, -1
+discard[2][99]: 		1, -1
+discard[2][100]: 		0, -1
+discard[2][101]: 		17, -1
+discard[2][102]: 		16, -1
+discard[2][103]: 		6, -1
+discard[2][104]: 		0, -1
+discard[2][105]: 		22, -1
+discard[2][106]: 		19, -1
+discard[2][107]: 		3, -1
+discard[2][108]: 		22, -1
+discard[2][109]: 		4, -1
+discard[2][110]: 		15, -1
+discard[2][111]: 		8, -1
+discard[2][112]: 		14, -1
+discard[2][113]: 		9, -1
+discard[2][114]: 		4, -1
+playedCardCount: 		248, 249
+
++------------Current Error Count: 170 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		279, 280
+
+Full Card Check Errors:
+None
++------------Current Error Count: 172 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		240, 241
+
+Full Card Check Errors:
+None
++------------Current Error Count: 174 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+handCount[2]: 		91, 92
+deckCount[2]: 		38, 36
+hand[2][21]: 		13, 10
+playedCardCount: 		437, 438
+
+Full Card Check Errors:
+Full Card Check: Card value 13 has different count of cards before than after
+Full Card Check: Total card counts didn't match before and after
+
+		col 1 = before, col2 = after
+handCount[2]: 		91, 92
+deckCount[2]: 		38, 36
+hand[2][21]: 		13, 10
+playedCardCount: 		437, 438
+
++------------Current Error Count: 178 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		327, 328
+
+Full Card Check Errors:
+None
++------------Current Error Count: 180 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		387, 388
+
+Full Card Check Errors:
+None
++------------Current Error Count: 182 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		266, 267
+
+Full Card Check Errors:
+None
++------------Current Error Count: 184 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		15, 16
+
+Full Card Check Errors:
+None
++------------Current Error Count: 186 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		45, 46
+
+Full Card Check Errors:
+None
++------------Current Error Count: 188 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		410, 411
+
+Full Card Check Errors:
+None
++------------Current Error Count: 190 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+handCount[2]: 		75, 76
+deckCount[2]: 		90, 88
+hand[2][12]: 		13, 20
+playedCardCount: 		353, 354
+
+Full Card Check Errors:
+Full Card Check: Card value 13 has different count of cards before than after
+Full Card Check: Total card counts didn't match before and after
+
+		col 1 = before, col2 = after
+handCount[2]: 		75, 76
+deckCount[2]: 		90, 88
+hand[2][12]: 		13, 20
+playedCardCount: 		353, 354
+
++------------Current Error Count: 194 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		236, 237
+
+Full Card Check Errors:
+None
++------------Current Error Count: 196 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+handCount[1]: 		60, 61
+deckCount[1]: 		75, 73
+hand[1][17]: 		13, 19
+playedCardCount: 		157, 158
+
+Full Card Check Errors:
+Full Card Check: Card value 13 has different count of cards before than after
+Full Card Check: Total card counts didn't match before and after
+
+		col 1 = before, col2 = after
+handCount[1]: 		60, 61
+deckCount[1]: 		75, 73
+hand[1][17]: 		13, 19
+playedCardCount: 		157, 158
+
++------------Current Error Count: 200 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+handCount[2]: 		102, 103
+deckCount[2]: 		104, 102
+hand[2][24]: 		13, 19
+playedCardCount: 		398, 399
+
+Full Card Check Errors:
+Full Card Check: Card value 13 has different count of cards before than after
+Full Card Check: Total card counts didn't match before and after
+
+		col 1 = before, col2 = after
+handCount[2]: 		102, 103
+deckCount[2]: 		104, 102
+hand[2][24]: 		13, 19
+playedCardCount: 		398, 399
+
++------------Current Error Count: 204 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		425, 426
+
+Full Card Check Errors:
+None
++------------Current Error Count: 206 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		4, 5
+
+Full Card Check Errors:
+None
++------------Current Error Count: 208 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		316, 317
+
+Full Card Check Errors:
+None
++------------Current Error Count: 210 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+handCount[0]: 		136, 137
+deckCount[0]: 		15, 13
+hand[0][124]: 		13, 24
+playedCardCount: 		284, 285
+
+Full Card Check Errors:
+Full Card Check: Card value 13 has different count of cards before than after
+Full Card Check: Total card counts didn't match before and after
+
+		col 1 = before, col2 = after
+handCount[0]: 		136, 137
+deckCount[0]: 		15, 13
+hand[0][124]: 		13, 24
+playedCardCount: 		284, 285
+
++------------Current Error Count: 214 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		443, 444
+
+Full Card Check Errors:
+None
++------------Current Error Count: 216 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		98, 99
+
+Full Card Check Errors:
+None
++------------Current Error Count: 218 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+handCount[0]: 		21, 22
+deckCount[0]: 		32, 30
+hand[0][1]: 		13, 25
+playedCardCount: 		147, 148
+
+Full Card Check Errors:
+Full Card Check: Card value 13 has different count of cards before than after
+Full Card Check: Total card counts didn't match before and after
+
+		col 1 = before, col2 = after
+handCount[0]: 		21, 22
+deckCount[0]: 		32, 30
+hand[0][1]: 		13, 25
+playedCardCount: 		147, 148
+
++------------Current Error Count: 222 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		434, 435
+
+Full Card Check Errors:
+None
++------------Current Error Count: 224 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+handCount[0]: 		27, 28
+deckCount[0]: 		10, 8
+hand[0][19]: 		13, 4
+playedCardCount: 		214, 215
+
+Full Card Check Errors:
+Full Card Check: Card value 13 has different count of cards before than after
+Full Card Check: Total card counts didn't match before and after
+
+		col 1 = before, col2 = after
+handCount[0]: 		27, 28
+deckCount[0]: 		10, 8
+hand[0][19]: 		13, 4
+playedCardCount: 		214, 215
+
++------------Current Error Count: 228 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		372, 373
+
+Full Card Check Errors:
+None
++------------Current Error Count: 230 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		6, 7
+
+Full Card Check Errors:
+None
++------------Current Error Count: 232 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		15, 16
+
+Full Card Check Errors:
+None
++------------Current Error Count: 234 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		423, 424
+
+Full Card Check Errors:
+None
++------------Current Error Count: 236 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		243, 244
+
+Full Card Check Errors:
+None
++------------Current Error Count: 238 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		277, 278
+
+Full Card Check Errors:
+None
++------------Current Error Count: 240 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		45, 46
+
+Full Card Check Errors:
+None
++------------Current Error Count: 242 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		191, 192
+
+Full Card Check Errors:
+None
++------------Current Error Count: 244 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		170, 171
+
+Full Card Check Errors:
+None
++------------Current Error Count: 246 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		314, 315
+
+Full Card Check Errors:
+None
++------------Current Error Count: 248 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		102, 103
+
+Full Card Check Errors:
+None
++------------Current Error Count: 250 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		128, 129
+
+Full Card Check Errors:
+None
++------------Current Error Count: 252 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+handCount[1]: 		77, 78
+deckCount[1]: 		147, 145
+hand[1][25]: 		13, 12
+playedCardCount: 		64, 65
+
+Full Card Check Errors:
+Full Card Check: Card value 13 has different count of cards before than after
+Full Card Check: Total card counts didn't match before and after
+
+		col 1 = before, col2 = after
+handCount[1]: 		77, 78
+deckCount[1]: 		147, 145
+hand[1][25]: 		13, 12
+playedCardCount: 		64, 65
+
++------------Current Error Count: 256 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		261, 262
+
+Full Card Check Errors:
+None
++------------Current Error Count: 258 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		24, 25
+
+Full Card Check Errors:
+None
++------------Current Error Count: 260 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+handCount[1]: 		166, 167
+deckCount[1]: 		142, 140
+hand[1][6]: 		13, 12
+playedCardCount: 		175, 176
+
+Full Card Check Errors:
+Full Card Check: Card value 13 has different count of cards before than after
+Full Card Check: Total card counts didn't match before and after
+
+		col 1 = before, col2 = after
+handCount[1]: 		166, 167
+deckCount[1]: 		142, 140
+hand[1][6]: 		13, 12
+playedCardCount: 		175, 176
+
++------------Current Error Count: 264 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		15, 16
+
+Full Card Check Errors:
+None
++------------Current Error Count: 266 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		224, 225
+
+Full Card Check Errors:
+None
++------------Current Error Count: 268 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		95, 96
+
+Full Card Check Errors:
+None
++------------Current Error Count: 270 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+handCount[1]: 		230, 231
+deckCount[1]: 		241, 239
+hand[1][3]: 		13, 17
+playedCardCount: 		415, 416
+
+Full Card Check Errors:
+Full Card Check: Card value 13 has different count of cards before than after
+Full Card Check: Total card counts didn't match before and after
+
+		col 1 = before, col2 = after
+handCount[1]: 		230, 231
+deckCount[1]: 		241, 239
+hand[1][3]: 		13, 17
+playedCardCount: 		415, 416
+
++------------Current Error Count: 274 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		161, 162
+
+Full Card Check Errors:
+None
++------------Current Error Count: 276 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		128, 129
+
+Full Card Check Errors:
+None
++------------Current Error Count: 278 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+handCount[1]: 		56, 57
+deckCount[1]: 		56, 54
+hand[1][49]: 		13, 25
+playedCardCount: 		194, 195
+
+Full Card Check Errors:
+Full Card Check: Card value 13 has different count of cards before than after
+Full Card Check: Total card counts didn't match before and after
+
+		col 1 = before, col2 = after
+handCount[1]: 		56, 57
+deckCount[1]: 		56, 54
+hand[1][49]: 		13, 25
+playedCardCount: 		194, 195
+
++------------Current Error Count: 282 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		486, 487
+
+Full Card Check Errors:
+None
++------------Current Error Count: 284 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+handCount[1]: 		66, 67
+deckCount[1]: 		35, 33
+hand[1][58]: 		13, 20
+playedCardCount: 		299, 300
+
+Full Card Check Errors:
+Full Card Check: Card value 13 has different count of cards before than after
+Full Card Check: Total card counts didn't match before and after
+
+		col 1 = before, col2 = after
+handCount[1]: 		66, 67
+deckCount[1]: 		35, 33
+hand[1][58]: 		13, 20
+playedCardCount: 		299, 300
+
++------------Current Error Count: 288 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+handCount[2]: 		13, 14
+deckCount[2]: 		113, 111
+hand[2][7]: 		13, 9
+playedCardCount: 		43, 44
+
+Full Card Check Errors:
+Full Card Check: Card value 13 has different count of cards before than after
+Full Card Check: Total card counts didn't match before and after
+
+		col 1 = before, col2 = after
+handCount[2]: 		13, 14
+deckCount[2]: 		113, 111
+hand[2][7]: 		13, 9
+playedCardCount: 		43, 44
+
++------------Current Error Count: 292 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		259, 260
+
+Full Card Check Errors:
+None
++------------Current Error Count: 294 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		284, 285
+
+Full Card Check Errors:
+None
++------------Current Error Count: 296 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		249, 250
+
+Full Card Check Errors:
+None
++------------Current Error Count: 298 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		26, 27
+
+Full Card Check Errors:
+None
++------------Current Error Count: 300 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		221, 222
+
+Full Card Check Errors:
+None
++------------Current Error Count: 302 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		355, 356
+
+Full Card Check Errors:
+None
++------------Current Error Count: 304 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+handCount[0]: 		56, 57
+deckCount[0]: 		103, 101
+hand[0][16]: 		13, 20
+playedCardCount: 		294, 295
+
+Full Card Check Errors:
+Full Card Check: Card value 13 has different count of cards before than after
+Full Card Check: Total card counts didn't match before and after
+
+		col 1 = before, col2 = after
+handCount[0]: 		56, 57
+deckCount[0]: 		103, 101
+hand[0][16]: 		13, 20
+playedCardCount: 		294, 295
+
++------------Current Error Count: 308 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+handCount[0]: 		141, 142
+deckCount[0]: 		109, 107
+hand[0][47]: 		13, 12
+playedCardCount: 		156, 157
+
+Full Card Check Errors:
+Full Card Check: Card value 13 has different count of cards before than after
+Full Card Check: Total card counts didn't match before and after
+
+		col 1 = before, col2 = after
+handCount[0]: 		141, 142
+deckCount[0]: 		109, 107
+hand[0][47]: 		13, 12
+playedCardCount: 		156, 157
+
++------------Current Error Count: 312 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		469, 470
+
+Full Card Check Errors:
+None
++------------Current Error Count: 314 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		215, 216
+
+Full Card Check Errors:
+None
++------------Current Error Count: 316 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+handCount[1]: 		61, 62
+deckCount[1]: 		244, 242
+hand[1][12]: 		13, 3
+playedCardCount: 		310, 311
+
+Full Card Check Errors:
+Full Card Check: Card value 13 has different count of cards before than after
+Full Card Check: Total card counts didn't match before and after
+
+		col 1 = before, col2 = after
+handCount[1]: 		61, 62
+deckCount[1]: 		244, 242
+hand[1][12]: 		13, 3
+playedCardCount: 		310, 311
+
++------------Current Error Count: 320 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		481, 482
+
+Full Card Check Errors:
+None
++------------Current Error Count: 322 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+handCount[0]: 		35, 36
+deckCount[0]: 		41, 39
+hand[0][4]: 		13, 15
+playedCardCount: 		293, 294
+
+Full Card Check Errors:
+Full Card Check: Card value 13 has different count of cards before than after
+Full Card Check: Total card counts didn't match before and after
+
+		col 1 = before, col2 = after
+handCount[0]: 		35, 36
+deckCount[0]: 		41, 39
+hand[0][4]: 		13, 15
+playedCardCount: 		293, 294
+
++------------Current Error Count: 326 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		246, 247
+
+Full Card Check Errors:
+None
++------------Current Error Count: 328 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+handCount[1]: 		6, 7
+deckCount[1]: 		12, 10
+hand[1][2]: 		13, 7
+playedCardCount: 		335, 336
+
+Full Card Check Errors:
+Full Card Check: Card value 13 has different count of cards before than after
+Full Card Check: Total card counts didn't match before and after
+
+		col 1 = before, col2 = after
+handCount[1]: 		6, 7
+deckCount[1]: 		12, 10
+hand[1][2]: 		13, 7
+playedCardCount: 		335, 336
+
++------------Current Error Count: 332 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		300, 301
+
+Full Card Check Errors:
+None
++------------Current Error Count: 334 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		280, 281
+
+Full Card Check Errors:
+None
++------------Current Error Count: 336 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+handCount[1]: 		64, 65
+deckCount[1]: 		70, 68
+hand[1][48]: 		13, 9
+playedCardCount: 		335, 336
+
+Full Card Check Errors:
+Full Card Check: Card value 13 has different count of cards before than after
+Full Card Check: Total card counts didn't match before and after
+
+		col 1 = before, col2 = after
+handCount[1]: 		64, 65
+deckCount[1]: 		70, 68
+hand[1][48]: 		13, 9
+playedCardCount: 		335, 336
+
++------------Current Error Count: 340 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		81, 82
+
+Full Card Check Errors:
+None
++------------Current Error Count: 342 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		362, 363
+
+Full Card Check Errors:
+None
++------------Current Error Count: 344 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		498, 499
+
+Full Card Check Errors:
+None
++------------Current Error Count: 346 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		231, 232
+
+Full Card Check Errors:
+None
++------------Current Error Count: 348 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+handCount[1]: 		54, 55
+deckCount[1]: 		245, 243
+hand[1][30]: 		13, 16
+playedCardCount: 		375, 376
+
+Full Card Check Errors:
+Full Card Check: Card value 13 has different count of cards before than after
+Full Card Check: Total card counts didn't match before and after
+
+		col 1 = before, col2 = after
+handCount[1]: 		54, 55
+deckCount[1]: 		245, 243
+hand[1][30]: 		13, 16
+playedCardCount: 		375, 376
+
++------------Current Error Count: 352 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		181, 182
+
+Full Card Check Errors:
+None
++------------Current Error Count: 354 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+handCount[0]: 		198, 199
+deckCount[0]: 		245, 243
+playedCardCount: 		284, 285
+
+Full Card Check Errors:
+Full Card Check: Card value 13 has different count of cards before than after
+Full Card Check: Total card counts didn't match before and after
+
+		col 1 = before, col2 = after
+handCount[0]: 		198, 199
+deckCount[0]: 		245, 243
+playedCardCount: 		284, 285
+
++------------Current Error Count: 358 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		339, 340
+
+Full Card Check Errors:
+None
++------------Current Error Count: 360 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		360, 361
+
+Full Card Check Errors:
+None
++------------Current Error Count: 362 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+handCount[3]: 		31, 32
+deckCount[3]: 		52, 50
+hand[3][11]: 		13, 18
+playedCardCount: 		205, 206
+
+Full Card Check Errors:
+Full Card Check: Card value 13 has different count of cards before than after
+Full Card Check: Total card counts didn't match before and after
+
+		col 1 = before, col2 = after
+handCount[3]: 		31, 32
+deckCount[3]: 		52, 50
+hand[3][11]: 		13, 18
+playedCardCount: 		205, 206
+
++------------Current Error Count: 366 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+handCount[0]: 		14, 15
+deckCount[0]: 		26, 24
+hand[0][6]: 		13, 9
+playedCardCount: 		261, 262
+
+Full Card Check Errors:
+Full Card Check: Card value 13 has different count of cards before than after
+Full Card Check: Total card counts didn't match before and after
+
+		col 1 = before, col2 = after
+handCount[0]: 		14, 15
+deckCount[0]: 		26, 24
+hand[0][6]: 		13, 9
+playedCardCount: 		261, 262
+
++------------Current Error Count: 370 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		42, 43
+
+Full Card Check Errors:
+None
++------------Current Error Count: 372 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+handCount[2]: 		25, 26
+deckCount[2]: 		56, 54
+playedCardCount: 		211, 212
+
+Full Card Check Errors:
+Full Card Check: Card value 13 has different count of cards before than after
+Full Card Check: Total card counts didn't match before and after
+
+		col 1 = before, col2 = after
+handCount[2]: 		25, 26
+deckCount[2]: 		56, 54
+playedCardCount: 		211, 212
+
++------------Current Error Count: 376 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		376, 377
+
+Full Card Check Errors:
+None
++------------Current Error Count: 378 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		475, 476
+
+Full Card Check Errors:
+None
++------------Current Error Count: 380 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		184, 185
+
+Full Card Check Errors:
+None
++------------Current Error Count: 382 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		384, 385
+
+Full Card Check Errors:
+None
++------------Current Error Count: 384 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		38, 39
+
+Full Card Check Errors:
+None
++------------Current Error Count: 386 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		317, 318
+
+Full Card Check Errors:
+None
++------------Current Error Count: 388 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+handCount[2]: 		24, 25
+deckCount[2]: 		94, 92
+hand[2][2]: 		13, 26
+playedCardCount: 		293, 294
+
+Full Card Check Errors:
+Full Card Check: Card value 13 has different count of cards before than after
+Full Card Check: Total card counts didn't match before and after
+
+		col 1 = before, col2 = after
+handCount[2]: 		24, 25
+deckCount[2]: 		94, 92
+hand[2][2]: 		13, 26
+playedCardCount: 		293, 294
+
++------------Current Error Count: 392 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		389, 390
+
+Full Card Check Errors:
+None
++------------Current Error Count: 394 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+handCount[0]: 		116, 117
+deckCount[0]: 		237, 235
+hand[0][6]: 		13, 2
+playedCardCount: 		115, 116
+
+Full Card Check Errors:
+Full Card Check: Card value 13 has different count of cards before than after
+Full Card Check: Total card counts didn't match before and after
+
+		col 1 = before, col2 = after
+handCount[0]: 		116, 117
+deckCount[0]: 		237, 235
+hand[0][6]: 		13, 2
+playedCardCount: 		115, 116
+
++------------Current Error Count: 398 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		65, 66
+
+Full Card Check Errors:
+None
++------------Current Error Count: 400 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		152, 153
+
+Full Card Check Errors:
+None
++------------Current Error Count: 402 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		342, 343
+
+Full Card Check Errors:
+None
++------------Current Error Count: 404 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+handCount[2]: 		48, 49
+deckCount[2]: 		18, 16
+hand[2][9]: 		13, 14
+playedCardCount: 		45, 46
+
+Full Card Check Errors:
+Full Card Check: Card value 13 has different count of cards before than after
+Full Card Check: Total card counts didn't match before and after
+
+		col 1 = before, col2 = after
+handCount[2]: 		48, 49
+deckCount[2]: 		18, 16
+hand[2][9]: 		13, 14
+playedCardCount: 		45, 46
+
++------------Current Error Count: 408 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+handCount[1]: 		177, 178
+deckCount[1]: 		64, 62
+hand[1][7]: 		13, 26
+playedCardCount: 		32, 33
+
+Full Card Check Errors:
+Full Card Check: Card value 13 has different count of cards before than after
+Full Card Check: Total card counts didn't match before and after
+
+		col 1 = before, col2 = after
+handCount[1]: 		177, 178
+deckCount[1]: 		64, 62
+hand[1][7]: 		13, 26
+playedCardCount: 		32, 33
+
++------------Current Error Count: 412 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+handCount[1]: 		121, 122
+deckCount[1]: 		151, 149
+hand[1][82]: 		13, 0
+playedCardCount: 		343, 344
+
+Full Card Check Errors:
+Full Card Check: Card value 13 has different count of cards before than after
+Full Card Check: Total card counts didn't match before and after
+
+		col 1 = before, col2 = after
+handCount[1]: 		121, 122
+deckCount[1]: 		151, 149
+hand[1][82]: 		13, 0
+playedCardCount: 		343, 344
+
++------------Current Error Count: 416 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		196, 197
+
+Full Card Check Errors:
+None
++------------Current Error Count: 418 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+handCount[2]: 		33, 34
+deckCount[2]: 		47, 45
+hand[2][20]: 		13, 10
+playedCardCount: 		148, 149
+
+Full Card Check Errors:
+Full Card Check: Card value 13 has different count of cards before than after
+Full Card Check: Total card counts didn't match before and after
+
+		col 1 = before, col2 = after
+handCount[2]: 		33, 34
+deckCount[2]: 		47, 45
+hand[2][20]: 		13, 10
+playedCardCount: 		148, 149
+
++------------Current Error Count: 422 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		361, 362
+
+Full Card Check Errors:
+None
++------------Current Error Count: 424 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		259, 260
+
+Full Card Check Errors:
+None
++------------Current Error Count: 426 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+handCount[1]: 		26, 27
+deckCount[1]: 		16, 14
+hand[1][17]: 		13, 8
+playedCardCount: 		401, 402
+
+Full Card Check Errors:
+Full Card Check: Card value 13 has different count of cards before than after
+Full Card Check: Total card counts didn't match before and after
+
+		col 1 = before, col2 = after
+handCount[1]: 		26, 27
+deckCount[1]: 		16, 14
+hand[1][17]: 		13, 8
+playedCardCount: 		401, 402
+
++------------Current Error Count: 430 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		148, 149
+
+Full Card Check Errors:
+None
++------------Current Error Count: 432 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+handCount[0]: 		34, 35
+deckCount[0]: 		5, 3
+hand[0][19]: 		13, 6
+playedCardCount: 		408, 409
+
+Full Card Check Errors:
+Full Card Check: Card value 13 has different count of cards before than after
+Full Card Check: Total card counts didn't match before and after
+
+		col 1 = before, col2 = after
+handCount[0]: 		34, 35
+deckCount[0]: 		5, 3
+hand[0][19]: 		13, 6
+playedCardCount: 		408, 409
+
++------------Current Error Count: 436 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		407, 408
+
+Full Card Check Errors:
+None
++------------Current Error Count: 438 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		203, 204
+
+Full Card Check Errors:
+None
++------------Current Error Count: 440 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		338, 339
+
+Full Card Check Errors:
+None
++------------Current Error Count: 442 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		274, 275
+
+Full Card Check Errors:
+None
++------------Current Error Count: 444 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		209, 210
+
+Full Card Check Errors:
+None
++------------Current Error Count: 446 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		7, 8
+
+Full Card Check Errors:
+None
++------------Current Error Count: 448 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		91, 92
+
+Full Card Check Errors:
+None
++------------Current Error Count: 450 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+handCount[0]: 		46, 47
+deckCount[0]: 		24, 22
+hand[0][15]: 		13, 24
+playedCardCount: 		303, 304
+
+Full Card Check Errors:
+Full Card Check: Card value 13 has different count of cards before than after
+Full Card Check: Total card counts didn't match before and after
+
+		col 1 = before, col2 = after
+handCount[0]: 		46, 47
+deckCount[0]: 		24, 22
+hand[0][15]: 		13, 24
+playedCardCount: 		303, 304
+
++------------Current Error Count: 454 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		199, 200
+
+Full Card Check Errors:
+None
++------------Current Error Count: 456 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		174, 175
+
+Full Card Check Errors:
+None
++------------Current Error Count: 458 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+handCount[0]: 		13, 14
+deckCount[0]: 		77, 75
+hand[0][6]: 		13, 7
+playedCardCount: 		227, 228
+
+Full Card Check Errors:
+Full Card Check: Card value 13 has different count of cards before than after
+Full Card Check: Total card counts didn't match before and after
+
+		col 1 = before, col2 = after
+handCount[0]: 		13, 14
+deckCount[0]: 		77, 75
+hand[0][6]: 		13, 7
+playedCardCount: 		227, 228
+
++------------Current Error Count: 462 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+handCount[0]: 		85, 86
+deckCount[0]: 		249, 247
+hand[0][49]: 		13, 10
+playedCardCount: 		468, 469
+
+Full Card Check Errors:
+Full Card Check: Card value 13 has different count of cards before than after
+Full Card Check: Total card counts didn't match before and after
+
+		col 1 = before, col2 = after
+handCount[0]: 		85, 86
+deckCount[0]: 		249, 247
+hand[0][49]: 		13, 10
+playedCardCount: 		468, 469
+
++------------Current Error Count: 466 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		409, 410
+
+Full Card Check Errors:
+None
++------------Current Error Count: 468 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+handCount[2]: 		95, 96
+deckCount[2]: 		120, 118
+hand[2][69]: 		13, 7
+playedCardCount: 		160, 161
+
+Full Card Check Errors:
+Full Card Check: Card value 13 has different count of cards before than after
+Full Card Check: Total card counts didn't match before and after
+
+		col 1 = before, col2 = after
+handCount[2]: 		95, 96
+deckCount[2]: 		120, 118
+hand[2][69]: 		13, 7
+playedCardCount: 		160, 161
+
++------------Current Error Count: 472 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		69, 70
+
+Full Card Check Errors:
+None
++------------Current Error Count: 474 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		40, 41
+
+Full Card Check Errors:
+None
++------------Current Error Count: 476 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		333, 334
+
+Full Card Check Errors:
+None
++------------Current Error Count: 478 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		92, 93
+
+Full Card Check Errors:
+None
++------------Current Error Count: 480 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		466, 467
+
+Full Card Check Errors:
+None
++------------Current Error Count: 482 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		350, 351
+
+Full Card Check Errors:
+None
++------------Current Error Count: 484 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		28, 29
+
+Full Card Check Errors:
+None
++------------Current Error Count: 486 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		11, 12
+
+Full Card Check Errors:
+None
++------------Current Error Count: 488 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+handCount[0]: 		67, 68
+deckCount[0]: 		38, 36
+hand[0][33]: 		13, 0
+playedCardCount: 		252, 253
+
+Full Card Check Errors:
+Full Card Check: Card value 13 has different count of cards before than after
+Full Card Check: Total card counts didn't match before and after
+
+		col 1 = before, col2 = after
+handCount[0]: 		67, 68
+deckCount[0]: 		38, 36
+hand[0][33]: 		13, 0
+playedCardCount: 		252, 253
+
++------------Current Error Count: 492 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+handCount[0]: 		133, 134
+deckCount[0]: 		241, 239
+hand[0][36]: 		13, 24
+playedCardCount: 		312, 313
+
+Full Card Check Errors:
+Full Card Check: Card value 13 has different count of cards before than after
+Full Card Check: Total card counts didn't match before and after
+
+		col 1 = before, col2 = after
+handCount[0]: 		133, 134
+deckCount[0]: 		241, 239
+hand[0][36]: 		13, 24
+playedCardCount: 		312, 313
+
++------------Current Error Count: 496 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+handCount[0]: 		13, 14
+deckCount[0]: 		34, 32
+hand[0][9]: 		13, 17
+playedCardCount: 		177, 178
+
+Full Card Check Errors:
+Full Card Check: Card value 13 has different count of cards before than after
+Full Card Check: Total card counts didn't match before and after
+
+		col 1 = before, col2 = after
+handCount[0]: 		13, 14
+deckCount[0]: 		34, 32
+hand[0][9]: 		13, 17
+playedCardCount: 		177, 178
+
++------------Current Error Count: 500 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		254, 255
+
+Full Card Check Errors:
+None
++------------Current Error Count: 502 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		334, 335
+
+Full Card Check Errors:
+None
++------------Current Error Count: 504 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+handCount[1]: 		24, 25
+deckCount[1]: 		38, 36
+hand[1][15]: 		13, 18
+playedCardCount: 		241, 242
+
+Full Card Check Errors:
+Full Card Check: Card value 13 has different count of cards before than after
+Full Card Check: Total card counts didn't match before and after
+
+		col 1 = before, col2 = after
+handCount[1]: 		24, 25
+deckCount[1]: 		38, 36
+hand[1][15]: 		13, 18
+playedCardCount: 		241, 242
+
++------------Current Error Count: 508 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+handCount[2]: 		58, 59
+deckCount[2]: 		13, 11
+hand[2][30]: 		13, 5
+playedCardCount: 		346, 347
+
+Full Card Check Errors:
+Full Card Check: Card value 13 has different count of cards before than after
+Full Card Check: Total card counts didn't match before and after
+
+		col 1 = before, col2 = after
+handCount[2]: 		58, 59
+deckCount[2]: 		13, 11
+hand[2][30]: 		13, 5
+playedCardCount: 		346, 347
+
++------------Current Error Count: 512 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		22, 23
+
+Full Card Check Errors:
+None
++------------Current Error Count: 514 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		225, 226
+
+Full Card Check Errors:
+None
++------------Current Error Count: 516 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+handCount[1]: 		94, 95
+deckCount[1]: 		186, 184
+hand[1][4]: 		13, 14
+playedCardCount: 		433, 434
+
+Full Card Check Errors:
+Full Card Check: Card value 13 has different count of cards before than after
+Full Card Check: Total card counts didn't match before and after
+
+		col 1 = before, col2 = after
+handCount[1]: 		94, 95
+deckCount[1]: 		186, 184
+hand[1][4]: 		13, 14
+playedCardCount: 		433, 434
+
++------------Current Error Count: 520 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+handCount[1]: 		21, 22
+deckCount[1]: 		127, 125
+hand[1][3]: 		13, 18
+playedCardCount: 		113, 114
+
+Full Card Check Errors:
+Full Card Check: Card value 13 has different count of cards before than after
+Full Card Check: Total card counts didn't match before and after
+
+		col 1 = before, col2 = after
+handCount[1]: 		21, 22
+deckCount[1]: 		127, 125
+hand[1][3]: 		13, 18
+playedCardCount: 		113, 114
+
++------------Current Error Count: 524 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		123, 124
+
+Full Card Check Errors:
+None
++------------Current Error Count: 526 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		209, 210
+
+Full Card Check Errors:
+None
++------------Current Error Count: 528 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		53, 54
+
+Full Card Check Errors:
+None
++------------Current Error Count: 530 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		383, 384
+
+Full Card Check Errors:
+None
++------------Current Error Count: 532 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+handCount[0]: 		78, 79
+deckCount[0]: 		76, 74
+hand[0][37]: 		13, 4
+playedCardCount: 		149, 150
+
+Full Card Check Errors:
+Full Card Check: Card value 13 has different count of cards before than after
+Full Card Check: Total card counts didn't match before and after
+
+		col 1 = before, col2 = after
+handCount[0]: 		78, 79
+deckCount[0]: 		76, 74
+hand[0][37]: 		13, 4
+playedCardCount: 		149, 150
+
++------------Current Error Count: 536 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+handCount[1]: 		39, 40
+deckCount[1]: 		29, 27
+hand[1][23]: 		13, 15
+playedCardCount: 		342, 343
+
+Full Card Check Errors:
+Full Card Check: Card value 13 has different count of cards before than after
+Full Card Check: Total card counts didn't match before and after
+
+		col 1 = before, col2 = after
+handCount[1]: 		39, 40
+deckCount[1]: 		29, 27
+hand[1][23]: 		13, 15
+playedCardCount: 		342, 343
+
++------------Current Error Count: 540 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		373, 374
+
+Full Card Check Errors:
+None
++------------Current Error Count: 542 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		180, 181
+
+Full Card Check Errors:
+None
++------------Current Error Count: 544 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+handCount[0]: 		103, 104
+deckCount[0]: 		101, 99
+hand[0][67]: 		13, 5
+playedCardCount: 		275, 276
+
+Full Card Check Errors:
+Full Card Check: Card value 13 has different count of cards before than after
+Full Card Check: Total card counts didn't match before and after
+
+		col 1 = before, col2 = after
+handCount[0]: 		103, 104
+deckCount[0]: 		101, 99
+hand[0][67]: 		13, 5
+playedCardCount: 		275, 276
+
++------------Current Error Count: 548 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		287, 288
+
+Full Card Check Errors:
+None
++------------Current Error Count: 550 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		78, 79
+
+Full Card Check Errors:
+None
++------------Current Error Count: 552 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		163, 164
+
+Full Card Check Errors:
+None
++------------Current Error Count: 554 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		279, 280
+
+Full Card Check Errors:
+None
++------------Current Error Count: 556 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+handCount[1]: 		109, 110
+deckCount[1]: 		51, 49
+hand[1][22]: 		13, 23
+playedCardCount: 		79, 80
+
+Full Card Check Errors:
+Full Card Check: Card value 13 has different count of cards before than after
+Full Card Check: Total card counts didn't match before and after
+
+		col 1 = before, col2 = after
+handCount[1]: 		109, 110
+deckCount[1]: 		51, 49
+hand[1][22]: 		13, 23
+playedCardCount: 		79, 80
+
++------------Current Error Count: 560 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+handCount[1]: 		143, 144
+deckCount[1]: 		112, 110
+hand[1][137]: 		13, 12
+playedCardCount: 		172, 173
+
+Full Card Check Errors:
+Full Card Check: Card value 13 has different count of cards before than after
+Full Card Check: Total card counts didn't match before and after
+
+		col 1 = before, col2 = after
+handCount[1]: 		143, 144
+deckCount[1]: 		112, 110
+hand[1][137]: 		13, 12
+playedCardCount: 		172, 173
+
++------------Current Error Count: 564 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		211, 212
+
+Full Card Check Errors:
+None
++------------Current Error Count: 566 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+handCount[2]: 		81, 82
+deckCount[2]: 		86, 84
+playedCardCount: 		242, 243
+
+Full Card Check Errors:
+Full Card Check: Card value 13 has different count of cards before than after
+Full Card Check: Total card counts didn't match before and after
+
+		col 1 = before, col2 = after
+handCount[2]: 		81, 82
+deckCount[2]: 		86, 84
+playedCardCount: 		242, 243
+
++------------Current Error Count: 570 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+handCount[1]: 		176, 177
+deckCount[1]: 		213, 211
+hand[1][58]: 		13, 25
+playedCardCount: 		168, 169
+
+Full Card Check Errors:
+Full Card Check: Card value 13 has different count of cards before than after
+Full Card Check: Total card counts didn't match before and after
+
+		col 1 = before, col2 = after
+handCount[1]: 		176, 177
+deckCount[1]: 		213, 211
+hand[1][58]: 		13, 25
+playedCardCount: 		168, 169
+
++------------Current Error Count: 574 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+handCount[1]: 		23, 24
+deckCount[1]: 		2, 0
+hand[1][11]: 		13, 4
+playedCardCount: 		270, 271
+
+Full Card Check Errors:
+Full Card Check: Card value 13 has different count of cards before than after
+Full Card Check: Total card counts didn't match before and after
+
+		col 1 = before, col2 = after
+handCount[1]: 		23, 24
+deckCount[1]: 		2, 0
+hand[1][11]: 		13, 4
+playedCardCount: 		270, 271
+
++------------Current Error Count: 578 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		207, 208
+
+Full Card Check Errors:
+None
++------------Current Error Count: 580 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+handCount[0]: 		171, 172
+deckCount[0]: 		198, 196
+hand[0][15]: 		13, 3
+playedCardCount: 		170, 171
+
+Full Card Check Errors:
+Full Card Check: Card value 13 has different count of cards before than after
+Full Card Check: Total card counts didn't match before and after
+
+		col 1 = before, col2 = after
+handCount[0]: 		171, 172
+deckCount[0]: 		198, 196
+hand[0][15]: 		13, 3
+playedCardCount: 		170, 171
+
++------------Current Error Count: 584 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+handCount[3]: 		30, 31
+deckCount[3]: 		49, 47
+hand[3][4]: 		13, 17
+playedCardCount: 		294, 295
+
+Full Card Check Errors:
+Full Card Check: Card value 13 has different count of cards before than after
+Full Card Check: Total card counts didn't match before and after
+
+		col 1 = before, col2 = after
+handCount[3]: 		30, 31
+deckCount[3]: 		49, 47
+hand[3][4]: 		13, 17
+playedCardCount: 		294, 295
+
++------------Current Error Count: 588 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		98, 99
+
+Full Card Check Errors:
+None
++------------Current Error Count: 590 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		161, 162
+
+Full Card Check Errors:
+None
++------------Current Error Count: 592 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+handCount[1]: 		14, 15
+deckCount[1]: 		74, 72
+hand[1][11]: 		13, 24
+playedCardCount: 		275, 276
+
+Full Card Check Errors:
+Full Card Check: Card value 13 has different count of cards before than after
+Full Card Check: Total card counts didn't match before and after
+
+		col 1 = before, col2 = after
+handCount[1]: 		14, 15
+deckCount[1]: 		74, 72
+hand[1][11]: 		13, 24
+playedCardCount: 		275, 276
+
++------------Current Error Count: 596 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		304, 305
+
+Full Card Check Errors:
+None
++------------Current Error Count: 598 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		168, 169
+
+Full Card Check Errors:
+None
++------------Current Error Count: 600 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		136, 137
+
+Full Card Check Errors:
+None
++------------Current Error Count: 602 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		113, 114
+
+Full Card Check Errors:
+None
++------------Current Error Count: 604 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+handCount[0]: 		171, 172
+deckCount[0]: 		222, 220
+hand[0][146]: 		13, 12
+playedCardCount: 		107, 108
+
+Full Card Check Errors:
+Full Card Check: Card value 13 has different count of cards before than after
+Full Card Check: Total card counts didn't match before and after
+
+		col 1 = before, col2 = after
+handCount[0]: 		171, 172
+deckCount[0]: 		222, 220
+hand[0][146]: 		13, 12
+playedCardCount: 		107, 108
+
++------------Current Error Count: 608 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		68, 69
+
+Full Card Check Errors:
+None
++------------Current Error Count: 610 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		19, 20
+
+Full Card Check Errors:
+None
++------------Current Error Count: 612 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		297, 298
+
+Full Card Check Errors:
+None
++------------Current Error Count: 614 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		232, 233
+
+Full Card Check Errors:
+None
++------------Current Error Count: 616 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		395, 396
+
+Full Card Check Errors:
+None
++------------Current Error Count: 618 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+handCount[0]: 		31, 32
+deckCount[0]: 		140, 138
+hand[0][6]: 		13, 15
+playedCardCount: 		349, 350
+
+Full Card Check Errors:
+Full Card Check: Card value 13 has different count of cards before than after
+Full Card Check: Total card counts didn't match before and after
+
+		col 1 = before, col2 = after
+handCount[0]: 		31, 32
+deckCount[0]: 		140, 138
+hand[0][6]: 		13, 15
+playedCardCount: 		349, 350
+
++------------Current Error Count: 622 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+handCount[0]: 		51, 52
+deckCount[0]: 		223, 221
+hand[0][41]: 		13, 20
+playedCardCount: 		83, 84
+
+Full Card Check Errors:
+Full Card Check: Card value 13 has different count of cards before than after
+Full Card Check: Total card counts didn't match before and after
+
+		col 1 = before, col2 = after
+handCount[0]: 		51, 52
+deckCount[0]: 		223, 221
+hand[0][41]: 		13, 20
+playedCardCount: 		83, 84
+
++------------Current Error Count: 626 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+handCount[0]: 		200, 201
+deckCount[0]: 		222, 220
+hand[0][128]: 		13, 8
+playedCardCount: 		55, 56
+
+Full Card Check Errors:
+Full Card Check: Card value 13 has different count of cards before than after
+Full Card Check: Total card counts didn't match before and after
+
+		col 1 = before, col2 = after
+handCount[0]: 		200, 201
+deckCount[0]: 		222, 220
+hand[0][128]: 		13, 8
+playedCardCount: 		55, 56
+
++------------Current Error Count: 630 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+handCount[1]: 		29, 30
+deckCount[1]: 		59, 57
+hand[1][25]: 		13, 5
+playedCardCount: 		290, 291
+
+Full Card Check Errors:
+Full Card Check: Card value 13 has different count of cards before than after
+Full Card Check: Total card counts didn't match before and after
+
+		col 1 = before, col2 = after
+handCount[1]: 		29, 30
+deckCount[1]: 		59, 57
+hand[1][25]: 		13, 5
+playedCardCount: 		290, 291
+
++------------Current Error Count: 634 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+handCount[1]: 		226, 227
+deckCount[1]: 		228, 226
+hand[1][17]: 		13, 11
+playedCardCount: 		325, 326
+
+Full Card Check Errors:
+Full Card Check: Card value 13 has different count of cards before than after
+Full Card Check: Total card counts didn't match before and after
+
+		col 1 = before, col2 = after
+handCount[1]: 		226, 227
+deckCount[1]: 		228, 226
+hand[1][17]: 		13, 11
+playedCardCount: 		325, 326
+
++------------Current Error Count: 638 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+handCount[3]: 		39, 40
+deckCount[3]: 		81, 79
+hand[3][20]: 		13, 3
+playedCardCount: 		140, 141
+
+Full Card Check Errors:
+Full Card Check: Card value 13 has different count of cards before than after
+Full Card Check: Total card counts didn't match before and after
+
+		col 1 = before, col2 = after
+handCount[3]: 		39, 40
+deckCount[3]: 		81, 79
+hand[3][20]: 		13, 3
+playedCardCount: 		140, 141
+
++------------Current Error Count: 642 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		172, 173
+
+Full Card Check Errors:
+None
++------------Current Error Count: 644 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		239, 240
+
+Full Card Check Errors:
+None
++------------Current Error Count: 646 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		122, 123
+
+Full Card Check Errors:
+None
++------------Current Error Count: 648 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+handCount[1]: 		125, 126
+deckCount[1]: 		86, 84
+hand[1][71]: 		13, 26
+playedCardCount: 		214, 215
+
+Full Card Check Errors:
+Full Card Check: Card value 13 has different count of cards before than after
+Full Card Check: Total card counts didn't match before and after
+
+		col 1 = before, col2 = after
+handCount[1]: 		125, 126
+deckCount[1]: 		86, 84
+hand[1][71]: 		13, 26
+playedCardCount: 		214, 215
+
++------------Current Error Count: 652 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		10, 11
+
+Full Card Check Errors:
+None
++------------Current Error Count: 654 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		84, 85
+
+Full Card Check Errors:
+None
++------------Current Error Count: 656 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+handCount[0]: 		152, 153
+deckCount[0]: 		5, 3
+hand[0][134]: 		13, 24
+playedCardCount: 		359, 360
+
+Full Card Check Errors:
+Full Card Check: Card value 13 has different count of cards before than after
+Full Card Check: Total card counts didn't match before and after
+
+		col 1 = before, col2 = after
+handCount[0]: 		152, 153
+deckCount[0]: 		5, 3
+hand[0][134]: 		13, 24
+playedCardCount: 		359, 360
+
++------------Current Error Count: 660 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		91, 92
+
+Full Card Check Errors:
+None
++------------Current Error Count: 662 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		226, 227
+
+Full Card Check Errors:
+None
++------------Current Error Count: 664 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		368, 369
+
+Full Card Check Errors:
+None
++------------Current Error Count: 666 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		273, 274
+
+Full Card Check Errors:
+None
++------------Current Error Count: 668 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		117, 118
+
+Full Card Check Errors:
+None
++------------Current Error Count: 670 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		114, 115
+
+Full Card Check Errors:
+None
++------------Current Error Count: 672 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		95, 96
+
+Full Card Check Errors:
+None
++------------Current Error Count: 674 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+handCount[1]: 		9, 10
+deckCount[1]: 		223, 221
+hand[1][7]: 		13, 1
+playedCardCount: 		302, 303
+
+Full Card Check Errors:
+Full Card Check: Card value 13 has different count of cards before than after
+Full Card Check: Total card counts didn't match before and after
+
+		col 1 = before, col2 = after
+handCount[1]: 		9, 10
+deckCount[1]: 		223, 221
+hand[1][7]: 		13, 1
+playedCardCount: 		302, 303
+
++------------Current Error Count: 678 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+handCount[2]: 		33, 34
+deckCount[2]: 		77, 75
+hand[2][30]: 		13, 22
+playedCardCount: 		83, 84
+
+Full Card Check Errors:
+Full Card Check: Card value 13 has different count of cards before than after
+Full Card Check: Total card counts didn't match before and after
+
+		col 1 = before, col2 = after
+handCount[2]: 		33, 34
+deckCount[2]: 		77, 75
+hand[2][30]: 		13, 22
+playedCardCount: 		83, 84
+
++------------Current Error Count: 682 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+handCount[0]: 		19, 20
+deckCount[0]: 		25, 23
+hand[0][11]: 		13, 6
+playedCardCount: 		131, 132
+
+Full Card Check Errors:
+Full Card Check: Card value 13 has different count of cards before than after
+Full Card Check: Total card counts didn't match before and after
+
+		col 1 = before, col2 = after
+handCount[0]: 		19, 20
+deckCount[0]: 		25, 23
+hand[0][11]: 		13, 6
+playedCardCount: 		131, 132
+
++------------Current Error Count: 686 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		34, 35
+
+Full Card Check Errors:
+None
++------------Current Error Count: 688 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		150, 151
+
+Full Card Check Errors:
+None
++------------Current Error Count: 690 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		399, 400
+
+Full Card Check Errors:
+None
++------------Current Error Count: 692 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		170, 171
+
+Full Card Check Errors:
+None
++------------Current Error Count: 694 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+handCount[0]: 		69, 70
+deckCount[0]: 		99, 97
+hand[0][57]: 		13, 19
+playedCardCount: 		46, 47
+
+Full Card Check Errors:
+Full Card Check: Card value 13 has different count of cards before than after
+Full Card Check: Total card counts didn't match before and after
+
+		col 1 = before, col2 = after
+handCount[0]: 		69, 70
+deckCount[0]: 		99, 97
+hand[0][57]: 		13, 19
+playedCardCount: 		46, 47
+
++------------Current Error Count: 698 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		328, 329
+
+Full Card Check Errors:
+None
++------------Current Error Count: 700 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		396, 397
+
+Full Card Check Errors:
+None
++------------Current Error Count: 702 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+handCount[0]: 		0, 1
+deckCount[0]: 		4, 2
+playedCardCount: 		426, 427
+
+Full Card Check Errors:
+Full Card Check: Card value 9 has different count of cards before than after
+Full Card Check: Total card counts didn't match before and after
+
+		col 1 = before, col2 = after
+handCount[0]: 		0, 1
+deckCount[0]: 		4, 2
+playedCardCount: 		426, 427
+
++------------Current Error Count: 706 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		406, 407
+
+Full Card Check Errors:
+None
++------------Current Error Count: 708 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+handCount[2]: 		5, 6
+deckCount[2]: 		55, 53
+hand[2][2]: 		13, 24
+playedCardCount: 		170, 171
+
+Full Card Check Errors:
+Full Card Check: Card value 13 has different count of cards before than after
+Full Card Check: Total card counts didn't match before and after
+
+		col 1 = before, col2 = after
+handCount[2]: 		5, 6
+deckCount[2]: 		55, 53
+hand[2][2]: 		13, 24
+playedCardCount: 		170, 171
+
++------------Current Error Count: 712 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+handCount[1]: 		60, 61
+deckCount[1]: 		36, 34
+hand[1][1]: 		13, 8
+playedCardCount: 		99, 100
+
+Full Card Check Errors:
+Full Card Check: Card value 13 has different count of cards before than after
+Full Card Check: Total card counts didn't match before and after
+
+		col 1 = before, col2 = after
+handCount[1]: 		60, 61
+deckCount[1]: 		36, 34
+hand[1][1]: 		13, 8
+playedCardCount: 		99, 100
+
++------------Current Error Count: 716 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+handCount[1]: 		17, 18
+deckCount[1]: 		58, 56
+hand[1][8]: 		13, 19
+playedCardCount: 		438, 439
+
+Full Card Check Errors:
+Full Card Check: Card value 13 has different count of cards before than after
+Full Card Check: Total card counts didn't match before and after
+
+		col 1 = before, col2 = after
+handCount[1]: 		17, 18
+deckCount[1]: 		58, 56
+hand[1][8]: 		13, 19
+playedCardCount: 		438, 439
+
++------------Current Error Count: 720 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+handCount[1]: 		137, 138
+deckCount[1]: 		39, 37
+hand[1][34]: 		13, 21
+playedCardCount: 		158, 159
+
+Full Card Check Errors:
+Full Card Check: Card value 13 has different count of cards before than after
+Full Card Check: Total card counts didn't match before and after
+
+		col 1 = before, col2 = after
+handCount[1]: 		137, 138
+deckCount[1]: 		39, 37
+hand[1][34]: 		13, 21
+playedCardCount: 		158, 159
+
++------------Current Error Count: 724 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+handCount[3]: 		57, 58
+deckCount[3]: 		110, 108
+hand[3][28]: 		13, 4
+playedCardCount: 		192, 193
+
+Full Card Check Errors:
+Full Card Check: Card value 13 has different count of cards before than after
+Full Card Check: Total card counts didn't match before and after
+
+		col 1 = before, col2 = after
+handCount[3]: 		57, 58
+deckCount[3]: 		110, 108
+hand[3][28]: 		13, 4
+playedCardCount: 		192, 193
+
++------------Current Error Count: 728 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		489, 490
+
+Full Card Check Errors:
+None
++------------Current Error Count: 730 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		203, 204
+
+Full Card Check Errors:
+None
++------------Current Error Count: 732 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		494, 495
+
+Full Card Check Errors:
+None
++------------Current Error Count: 734 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		64, 65
+
+Full Card Check Errors:
+None
++------------Current Error Count: 736 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+handCount[0]: 		69, 70
+deckCount[0]: 		78, 76
+hand[0][60]: 		13, 22
+playedCardCount: 		468, 469
+
+Full Card Check Errors:
+Full Card Check: Card value 13 has different count of cards before than after
+Full Card Check: Total card counts didn't match before and after
+
+		col 1 = before, col2 = after
+handCount[0]: 		69, 70
+deckCount[0]: 		78, 76
+hand[0][60]: 		13, 22
+playedCardCount: 		468, 469
+
++------------Current Error Count: 740 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		444, 445
+
+Full Card Check Errors:
+None
++------------Current Error Count: 742 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		119, 120
+
+Full Card Check Errors:
+None
++------------Current Error Count: 744 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		332, 333
+
+Full Card Check Errors:
+None
++------------Current Error Count: 746 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+handCount[1]: 		100, 101
+deckCount[1]: 		103, 101
+hand[1][4]: 		13, 10
+playedCardCount: 		482, 483
+
+Full Card Check Errors:
+Full Card Check: Card value 13 has different count of cards before than after
+Full Card Check: Total card counts didn't match before and after
+
+		col 1 = before, col2 = after
+handCount[1]: 		100, 101
+deckCount[1]: 		103, 101
+hand[1][4]: 		13, 10
+playedCardCount: 		482, 483
+
++------------Current Error Count: 750 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+handCount[1]: 		26, 27
+deckCount[1]: 		131, 129
+hand[1][16]: 		13, 16
+playedCardCount: 		85, 86
+
+Full Card Check Errors:
+Full Card Check: Card value 13 has different count of cards before than after
+Full Card Check: Total card counts didn't match before and after
+
+		col 1 = before, col2 = after
+handCount[1]: 		26, 27
+deckCount[1]: 		131, 129
+hand[1][16]: 		13, 16
+playedCardCount: 		85, 86
+
++------------Current Error Count: 754 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		259, 260
+
+Full Card Check Errors:
+None
++------------Current Error Count: 756 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		310, 311
+
+Full Card Check Errors:
+None
++------------Current Error Count: 758 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+handCount[0]: 		147, 148
+deckCount[0]: 		61, 59
+hand[0][32]: 		13, 6
+playedCardCount: 		174, 175
+
+Full Card Check Errors:
+Full Card Check: Card value 13 has different count of cards before than after
+Full Card Check: Total card counts didn't match before and after
+
+		col 1 = before, col2 = after
+handCount[0]: 		147, 148
+deckCount[0]: 		61, 59
+hand[0][32]: 		13, 6
+playedCardCount: 		174, 175
+
++------------Current Error Count: 762 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		293, 294
+
+Full Card Check Errors:
+None
++------------Current Error Count: 764 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		447, 448
+
+Full Card Check Errors:
+None
++------------Current Error Count: 766 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+handCount[0]: 		42, 43
+deckCount[0]: 		53, 51
+hand[0][13]: 		13, 5
+playedCardCount: 		124, 125
+
+Full Card Check Errors:
+Full Card Check: Card value 13 has different count of cards before than after
+Full Card Check: Total card counts didn't match before and after
+
+		col 1 = before, col2 = after
+handCount[0]: 		42, 43
+deckCount[0]: 		53, 51
+hand[0][13]: 		13, 5
+playedCardCount: 		124, 125
+
++------------Current Error Count: 770 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+handCount[1]: 		32, 33
+deckCount[1]: 		97, 95
+hand[1][14]: 		13, 8
+playedCardCount: 		180, 181
+
+Full Card Check Errors:
+Full Card Check: Card value 13 has different count of cards before than after
+Full Card Check: Total card counts didn't match before and after
+
+		col 1 = before, col2 = after
+handCount[1]: 		32, 33
+deckCount[1]: 		97, 95
+hand[1][14]: 		13, 8
+playedCardCount: 		180, 181
+
++------------Current Error Count: 774 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		316, 317
+
+Full Card Check Errors:
+None
++------------Current Error Count: 776 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		406, 407
+
+Full Card Check Errors:
+None
++------------Current Error Count: 778 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+handCount[3]: 		36, 37
+deckCount[3]: 		45, 43
+hand[3][2]: 		13, 11
+playedCardCount: 		447, 448
+
+Full Card Check Errors:
+Full Card Check: Card value 13 has different count of cards before than after
+Full Card Check: Total card counts didn't match before and after
+
+		col 1 = before, col2 = after
+handCount[3]: 		36, 37
+deckCount[3]: 		45, 43
+hand[3][2]: 		13, 11
+playedCardCount: 		447, 448
+
++------------Current Error Count: 782 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		382, 383
+
+Full Card Check Errors:
+None
++------------Current Error Count: 784 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		125, 126
+
+Full Card Check Errors:
+None
++------------Current Error Count: 786 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+handCount[1]: 		15, 16
+deckCount[1]: 		42, 40
+hand[1][0]: 		13, 26
+playedCardCount: 		337, 338
+
+Full Card Check Errors:
+Full Card Check: Card value 13 has different count of cards before than after
+Full Card Check: Total card counts didn't match before and after
+
+		col 1 = before, col2 = after
+handCount[1]: 		15, 16
+deckCount[1]: 		42, 40
+hand[1][0]: 		13, 26
+playedCardCount: 		337, 338
+
++------------Current Error Count: 790 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		378, 379
+
+Full Card Check Errors:
+None
++------------Current Error Count: 792 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+handCount[0]: 		26, 27
+deckCount[0]: 		141, 139
+hand[0][14]: 		13, 23
+playedCardCount: 		186, 187
+
+Full Card Check Errors:
+Full Card Check: Card value 13 has different count of cards before than after
+Full Card Check: Total card counts didn't match before and after
+
+		col 1 = before, col2 = after
+handCount[0]: 		26, 27
+deckCount[0]: 		141, 139
+hand[0][14]: 		13, 23
+playedCardCount: 		186, 187
+
++------------Current Error Count: 796 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		165, 166
+
+Full Card Check Errors:
+None
++------------Current Error Count: 798 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+handCount[0]: 		42, 43
+deckCount[0]: 		0, 122
+discardCount[0]: 	124, 0
+hand[0][20]: 		13, 17
+discard[0][0]: 		18, -1
+discard[0][1]: 		22, -1
+discard[0][2]: 		15, -1
+discard[0][3]: 		22, -1
+discard[0][4]: 		4, -1
+discard[0][5]: 		18, -1
+discard[0][6]: 		16, -1
+discard[0][7]: 		0, -1
+discard[0][8]: 		4, -1
+discard[0][9]: 		1, -1
+discard[0][10]: 		3, -1
+discard[0][11]: 		8, -1
+discard[0][12]: 		6, -1
+discard[0][13]: 		13, -1
+discard[0][14]: 		10, -1
+discard[0][15]: 		7, -1
+discard[0][16]: 		5, -1
+discard[0][17]: 		13, -1
+discard[0][18]: 		14, -1
+discard[0][19]: 		24, -1
+discard[0][20]: 		11, -1
+discard[0][21]: 		1, -1
+discard[0][22]: 		22, -1
+discard[0][23]: 		14, -1
+discard[0][24]: 		5, -1
+discard[0][25]: 		18, -1
+discard[0][26]: 		0, -1
+discard[0][27]: 		11, -1
+discard[0][28]: 		4, -1
+discard[0][29]: 		6, -1
+discard[0][30]: 		0, -1
+discard[0][31]: 		18, -1
+discard[0][32]: 		24, -1
+discard[0][33]: 		21, -1
+discard[0][34]: 		10, -1
+discard[0][35]: 		1, -1
+discard[0][36]: 		25, -1
+discard[0][37]: 		1, -1
+discard[0][38]: 		23, -1
+discard[0][39]: 		22, -1
+discard[0][40]: 		16, -1
+discard[0][41]: 		6, -1
+discard[0][42]: 		23, -1
+discard[0][43]: 		13, -1
+discard[0][44]: 		7, -1
+discard[0][45]: 		10, -1
+discard[0][46]: 		7, -1
+discard[0][47]: 		6, -1
+discard[0][48]: 		24, -1
+discard[0][49]: 		17, -1
+discard[0][50]: 		0, -1
+discard[0][51]: 		4, -1
+discard[0][52]: 		2, -1
+discard[0][53]: 		19, -1
+discard[0][54]: 		10, -1
+discard[0][55]: 		0, -1
+discard[0][56]: 		1, -1
+discard[0][57]: 		21, -1
+discard[0][58]: 		15, -1
+discard[0][59]: 		3, -1
+discard[0][60]: 		18, -1
+discard[0][61]: 		0, -1
+discard[0][62]: 		0, -1
+discard[0][63]: 		24, -1
+discard[0][64]: 		18, -1
+discard[0][65]: 		15, -1
+discard[0][66]: 		6, -1
+discard[0][67]: 		13, -1
+discard[0][68]: 		17, -1
+discard[0][69]: 		15, -1
+discard[0][70]: 		15, -1
+discard[0][71]: 		15, -1
+discard[0][72]: 		26, -1
+discard[0][73]: 		13, -1
+discard[0][74]: 		22, -1
+discard[0][75]: 		4, -1
+discard[0][76]: 		16, -1
+discard[0][77]: 		13, -1
+discard[0][78]: 		11, -1
+discard[0][79]: 		8, -1
+discard[0][80]: 		0, -1
+discard[0][81]: 		18, -1
+discard[0][82]: 		15, -1
+discard[0][83]: 		24, -1
+discard[0][84]: 		22, -1
+discard[0][85]: 		9, -1
+discard[0][86]: 		22, -1
+discard[0][87]: 		19, -1
+discard[0][88]: 		6, -1
+discard[0][89]: 		12, -1
+discard[0][90]: 		12, -1
+discard[0][91]: 		18, -1
+discard[0][92]: 		17, -1
+discard[0][93]: 		0, -1
+discard[0][94]: 		23, -1
+discard[0][95]: 		9, -1
+discard[0][96]: 		8, -1
+discard[0][97]: 		5, -1
+discard[0][98]: 		1, -1
+discard[0][99]: 		4, -1
+discard[0][100]: 		24, -1
+discard[0][101]: 		18, -1
+discard[0][102]: 		22, -1
+discard[0][103]: 		2, -1
+discard[0][104]: 		15, -1
+discard[0][105]: 		24, -1
+discard[0][106]: 		13, -1
+discard[0][107]: 		0, -1
+discard[0][108]: 		21, -1
+discard[0][109]: 		9, -1
+discard[0][110]: 		10, -1
+discard[0][111]: 		12, -1
+discard[0][112]: 		5, -1
+discard[0][113]: 		22, -1
+discard[0][114]: 		19, -1
+discard[0][115]: 		17, -1
+discard[0][116]: 		10, -1
+discard[0][117]: 		26, -1
+discard[0][118]: 		9, -1
+discard[0][119]: 		4, -1
+discard[0][120]: 		8, -1
+discard[0][121]: 		19, -1
+discard[0][122]: 		19, -1
+discard[0][123]: 		4, -1
+playedCardCount: 		407, 408
+
+Full Card Check Errors:
+Full Card Check: Card value 13 has different count of cards before than after
+Full Card Check: Total card counts didn't match before and after
+
+		col 1 = before, col2 = after
+handCount[0]: 		42, 43
+deckCount[0]: 		0, 122
+discardCount[0]: 	124, 0
+hand[0][20]: 		13, 17
+discard[0][0]: 		18, -1
+discard[0][1]: 		22, -1
+discard[0][2]: 		15, -1
+discard[0][3]: 		22, -1
+discard[0][4]: 		4, -1
+discard[0][5]: 		18, -1
+discard[0][6]: 		16, -1
+discard[0][7]: 		0, -1
+discard[0][8]: 		4, -1
+discard[0][9]: 		1, -1
+discard[0][10]: 		3, -1
+discard[0][11]: 		8, -1
+discard[0][12]: 		6, -1
+discard[0][13]: 		13, -1
+discard[0][14]: 		10, -1
+discard[0][15]: 		7, -1
+discard[0][16]: 		5, -1
+discard[0][17]: 		13, -1
+discard[0][18]: 		14, -1
+discard[0][19]: 		24, -1
+discard[0][20]: 		11, -1
+discard[0][21]: 		1, -1
+discard[0][22]: 		22, -1
+discard[0][23]: 		14, -1
+discard[0][24]: 		5, -1
+discard[0][25]: 		18, -1
+discard[0][26]: 		0, -1
+discard[0][27]: 		11, -1
+discard[0][28]: 		4, -1
+discard[0][29]: 		6, -1
+discard[0][30]: 		0, -1
+discard[0][31]: 		18, -1
+discard[0][32]: 		24, -1
+discard[0][33]: 		21, -1
+discard[0][34]: 		10, -1
+discard[0][35]: 		1, -1
+discard[0][36]: 		25, -1
+discard[0][37]: 		1, -1
+discard[0][38]: 		23, -1
+discard[0][39]: 		22, -1
+discard[0][40]: 		16, -1
+discard[0][41]: 		6, -1
+discard[0][42]: 		23, -1
+discard[0][43]: 		13, -1
+discard[0][44]: 		7, -1
+discard[0][45]: 		10, -1
+discard[0][46]: 		7, -1
+discard[0][47]: 		6, -1
+discard[0][48]: 		24, -1
+discard[0][49]: 		17, -1
+discard[0][50]: 		0, -1
+discard[0][51]: 		4, -1
+discard[0][52]: 		2, -1
+discard[0][53]: 		19, -1
+discard[0][54]: 		10, -1
+discard[0][55]: 		0, -1
+discard[0][56]: 		1, -1
+discard[0][57]: 		21, -1
+discard[0][58]: 		15, -1
+discard[0][59]: 		3, -1
+discard[0][60]: 		18, -1
+discard[0][61]: 		0, -1
+discard[0][62]: 		0, -1
+discard[0][63]: 		24, -1
+discard[0][64]: 		18, -1
+discard[0][65]: 		15, -1
+discard[0][66]: 		6, -1
+discard[0][67]: 		13, -1
+discard[0][68]: 		17, -1
+discard[0][69]: 		15, -1
+discard[0][70]: 		15, -1
+discard[0][71]: 		15, -1
+discard[0][72]: 		26, -1
+discard[0][73]: 		13, -1
+discard[0][74]: 		22, -1
+discard[0][75]: 		4, -1
+discard[0][76]: 		16, -1
+discard[0][77]: 		13, -1
+discard[0][78]: 		11, -1
+discard[0][79]: 		8, -1
+discard[0][80]: 		0, -1
+discard[0][81]: 		18, -1
+discard[0][82]: 		15, -1
+discard[0][83]: 		24, -1
+discard[0][84]: 		22, -1
+discard[0][85]: 		9, -1
+discard[0][86]: 		22, -1
+discard[0][87]: 		19, -1
+discard[0][88]: 		6, -1
+discard[0][89]: 		12, -1
+discard[0][90]: 		12, -1
+discard[0][91]: 		18, -1
+discard[0][92]: 		17, -1
+discard[0][93]: 		0, -1
+discard[0][94]: 		23, -1
+discard[0][95]: 		9, -1
+discard[0][96]: 		8, -1
+discard[0][97]: 		5, -1
+discard[0][98]: 		1, -1
+discard[0][99]: 		4, -1
+discard[0][100]: 		24, -1
+discard[0][101]: 		18, -1
+discard[0][102]: 		22, -1
+discard[0][103]: 		2, -1
+discard[0][104]: 		15, -1
+discard[0][105]: 		24, -1
+discard[0][106]: 		13, -1
+discard[0][107]: 		0, -1
+discard[0][108]: 		21, -1
+discard[0][109]: 		9, -1
+discard[0][110]: 		10, -1
+discard[0][111]: 		12, -1
+discard[0][112]: 		5, -1
+discard[0][113]: 		22, -1
+discard[0][114]: 		19, -1
+discard[0][115]: 		17, -1
+discard[0][116]: 		10, -1
+discard[0][117]: 		26, -1
+discard[0][118]: 		9, -1
+discard[0][119]: 		4, -1
+discard[0][120]: 		8, -1
+discard[0][121]: 		19, -1
+discard[0][122]: 		19, -1
+discard[0][123]: 		4, -1
+playedCardCount: 		407, 408
+
++------------Current Error Count: 802 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		490, 491
+
+Full Card Check Errors:
+None
++------------Current Error Count: 804 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		299, 300
+
+Full Card Check Errors:
+None
++------------Current Error Count: 806 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		493, 494
+
+Full Card Check Errors:
+None
++------------Current Error Count: 808 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+handCount[1]: 		91, 92
+deckCount[1]: 		154, 152
+hand[1][56]: 		13, 8
+playedCardCount: 		328, 329
+
+Full Card Check Errors:
+Full Card Check: Card value 13 has different count of cards before than after
+Full Card Check: Total card counts didn't match before and after
+
+		col 1 = before, col2 = after
+handCount[1]: 		91, 92
+deckCount[1]: 		154, 152
+hand[1][56]: 		13, 8
+playedCardCount: 		328, 329
+
++------------Current Error Count: 812 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+handCount[1]: 		88, 89
+deckCount[1]: 		91, 89
+playedCardCount: 		387, 388
+
+Full Card Check Errors:
+Full Card Check: Card value 13 has different count of cards before than after
+Full Card Check: Total card counts didn't match before and after
+
+		col 1 = before, col2 = after
+handCount[1]: 		88, 89
+deckCount[1]: 		91, 89
+playedCardCount: 		387, 388
+
++------------Current Error Count: 816 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		287, 288
+
+Full Card Check Errors:
+None
++------------Current Error Count: 818 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		217, 218
+
+Full Card Check Errors:
+None
++------------Current Error Count: 820 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+handCount[1]: 		28, 29
+deckCount[1]: 		4, 2
+hand[1][19]: 		13, 2
+playedCardCount: 		239, 240
+
+Full Card Check Errors:
+Full Card Check: Card value 13 has different count of cards before than after
+Full Card Check: Total card counts didn't match before and after
+
+		col 1 = before, col2 = after
+handCount[1]: 		28, 29
+deckCount[1]: 		4, 2
+hand[1][19]: 		13, 2
+playedCardCount: 		239, 240
+
++------------Current Error Count: 824 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+handCount[0]: 		17, 18
+deckCount[0]: 		3, 1
+hand[0][7]: 		13, 4
+playedCardCount: 		121, 122
+
+Full Card Check Errors:
+Full Card Check: Card value 13 has different count of cards before than after
+Full Card Check: Total card counts didn't match before and after
+
+		col 1 = before, col2 = after
+handCount[0]: 		17, 18
+deckCount[0]: 		3, 1
+hand[0][7]: 		13, 4
+playedCardCount: 		121, 122
+
++------------Current Error Count: 828 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		456, 457
+
+Full Card Check Errors:
+None
++------------Current Error Count: 830 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		98, 99
+
+Full Card Check Errors:
+None
++------------Current Error Count: 832 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+handCount[2]: 		51, 52
+deckCount[2]: 		26, 24
+hand[2][50]: 		13, 23
+playedCardCount: 		351, 352
+
+Full Card Check Errors:
+Full Card Check: Card value 13 has different count of cards before than after
+Full Card Check: Total card counts didn't match before and after
+
+		col 1 = before, col2 = after
+handCount[2]: 		51, 52
+deckCount[2]: 		26, 24
+hand[2][50]: 		13, 23
+playedCardCount: 		351, 352
+
++------------Current Error Count: 836 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		388, 389
+
+Full Card Check Errors:
+None
++------------Current Error Count: 838 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		464, 465
+
+Full Card Check Errors:
+None
++------------Current Error Count: 840 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		424, 425
+
+Full Card Check Errors:
+None
++------------Current Error Count: 842 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		286, 287
+
+Full Card Check Errors:
+None
++------------Current Error Count: 844 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		284, 285
+
+Full Card Check Errors:
+None
++------------Current Error Count: 846 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		377, 378
+
+Full Card Check Errors:
+None
++------------Current Error Count: 848 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		225, 226
+
+Full Card Check Errors:
+None
++------------Current Error Count: 850 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		326, 327
+
+Full Card Check Errors:
+None
++------------Current Error Count: 852 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		391, 392
+
+Full Card Check Errors:
+None
++------------Current Error Count: 854 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		339, 340
+
+Full Card Check Errors:
+None
++------------Current Error Count: 856 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+handCount[0]: 		69, 70
+deckCount[0]: 		68, 66
+hand[0][51]: 		13, 2
+playedCardCount: 		330, 331
+
+Full Card Check Errors:
+Full Card Check: Card value 13 has different count of cards before than after
+Full Card Check: Total card counts didn't match before and after
+
+		col 1 = before, col2 = after
+handCount[0]: 		69, 70
+deckCount[0]: 		68, 66
+hand[0][51]: 		13, 2
+playedCardCount: 		330, 331
+
++------------Current Error Count: 860 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		267, 268
+
+Full Card Check Errors:
+None
++------------Current Error Count: 862 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		387, 388
+
+Full Card Check Errors:
+None
++------------Current Error Count: 864 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		54, 55
+
+Full Card Check Errors:
+None
++------------Current Error Count: 866 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		75, 76
+
+Full Card Check Errors:
+None
++------------Current Error Count: 868 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		46, 47
+
+Full Card Check Errors:
+None
++------------Current Error Count: 870 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		163, 164
+
+Full Card Check Errors:
+None
++------------Current Error Count: 872 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+handCount[1]: 		172, 173
+deckCount[1]: 		239, 237
+hand[1][74]: 		13, 17
+playedCardCount: 		75, 76
+
+Full Card Check Errors:
+Full Card Check: Card value 13 has different count of cards before than after
+Full Card Check: Total card counts didn't match before and after
+
+		col 1 = before, col2 = after
+handCount[1]: 		172, 173
+deckCount[1]: 		239, 237
+hand[1][74]: 		13, 17
+playedCardCount: 		75, 76
+
++------------Current Error Count: 876 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+handCount[1]: 		67, 68
+deckCount[1]: 		110, 108
+hand[1][42]: 		13, 11
+playedCardCount: 		442, 443
+
+Full Card Check Errors:
+Full Card Check: Card value 13 has different count of cards before than after
+Full Card Check: Total card counts didn't match before and after
+
+		col 1 = before, col2 = after
+handCount[1]: 		67, 68
+deckCount[1]: 		110, 108
+hand[1][42]: 		13, 11
+playedCardCount: 		442, 443
+
++------------Current Error Count: 880 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+handCount[0]: 		27, 28
+deckCount[0]: 		95, 93
+hand[0][19]: 		13, 4
+playedCardCount: 		198, 199
+
+Full Card Check Errors:
+Full Card Check: Card value 13 has different count of cards before than after
+Full Card Check: Total card counts didn't match before and after
+
+		col 1 = before, col2 = after
+handCount[0]: 		27, 28
+deckCount[0]: 		95, 93
+hand[0][19]: 		13, 4
+playedCardCount: 		198, 199
+
++------------Current Error Count: 884 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+handCount[0]: 		48, 49
+deckCount[0]: 		122, 120
+hand[0][14]: 		13, 5
+playedCardCount: 		182, 183
+
+Full Card Check Errors:
+Full Card Check: Card value 13 has different count of cards before than after
+Full Card Check: Total card counts didn't match before and after
+
+		col 1 = before, col2 = after
+handCount[0]: 		48, 49
+deckCount[0]: 		122, 120
+hand[0][14]: 		13, 5
+playedCardCount: 		182, 183
+
++------------Current Error Count: 888 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		16, 17
+
+Full Card Check Errors:
+None
++------------Current Error Count: 890 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		408, 409
+
+Full Card Check Errors:
+None
++------------Current Error Count: 892 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+handCount[1]: 		107, 108
+deckCount[1]: 		238, 236
+hand[1][82]: 		13, 3
+playedCardCount: 		494, 495
+
+Full Card Check Errors:
+Full Card Check: Card value 13 has different count of cards before than after
+Full Card Check: Total card counts didn't match before and after
+
+		col 1 = before, col2 = after
+handCount[1]: 		107, 108
+deckCount[1]: 		238, 236
+hand[1][82]: 		13, 3
+playedCardCount: 		494, 495
+
++------------Current Error Count: 896 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		230, 231
+
+Full Card Check Errors:
+None
++------------Current Error Count: 898 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		359, 360
+
+Full Card Check Errors:
+None
++------------Current Error Count: 900 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		173, 174
+
+Full Card Check Errors:
+None
++------------Current Error Count: 902 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		194, 195
+
+Full Card Check Errors:
+None
++------------Current Error Count: 904 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		305, 306
+
+Full Card Check Errors:
+None
++------------Current Error Count: 906 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+handCount[0]: 		104, 105
+deckCount[0]: 		134, 132
+hand[0][55]: 		13, 14
+playedCardCount: 		65, 66
+
+Full Card Check Errors:
+Full Card Check: Card value 13 has different count of cards before than after
+Full Card Check: Total card counts didn't match before and after
+
+		col 1 = before, col2 = after
+handCount[0]: 		104, 105
+deckCount[0]: 		134, 132
+hand[0][55]: 		13, 14
+playedCardCount: 		65, 66
+
++------------Current Error Count: 910 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		363, 364
+
+Full Card Check Errors:
+None
++------------Current Error Count: 912 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		295, 296
+
+Full Card Check Errors:
+None
++------------Current Error Count: 914 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+handCount[1]: 		2, 3
+deckCount[1]: 		51, 49
+hand[1][1]: 		13, 17
+playedCardCount: 		66, 67
+
+Full Card Check Errors:
+Full Card Check: Card value 13 has different count of cards before than after
+Full Card Check: Total card counts didn't match before and after
+
+		col 1 = before, col2 = after
+handCount[1]: 		2, 3
+deckCount[1]: 		51, 49
+hand[1][1]: 		13, 17
+playedCardCount: 		66, 67
+
++------------Current Error Count: 918 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+handCount[1]: 		206, 207
+deckCount[1]: 		146, 144
+hand[1][116]: 		13, 8
+playedCardCount: 		477, 478
+
+Full Card Check Errors:
+Full Card Check: Card value 13 has different count of cards before than after
+Full Card Check: Total card counts didn't match before and after
+
+		col 1 = before, col2 = after
+handCount[1]: 		206, 207
+deckCount[1]: 		146, 144
+hand[1][116]: 		13, 8
+playedCardCount: 		477, 478
+
++------------Current Error Count: 922 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		142, 143
+
+Full Card Check Errors:
+None
++------------Current Error Count: 924 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+handCount[0]: 		38, 39
+deckCount[0]: 		87, 85
+hand[0][8]: 		13, 14
+playedCardCount: 		391, 392
+
+Full Card Check Errors:
+Full Card Check: Card value 13 has different count of cards before than after
+Full Card Check: Total card counts didn't match before and after
+
+		col 1 = before, col2 = after
+handCount[0]: 		38, 39
+deckCount[0]: 		87, 85
+hand[0][8]: 		13, 14
+playedCardCount: 		391, 392
+
++------------Current Error Count: 928 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		69, 70
+
+Full Card Check Errors:
+None
++------------Current Error Count: 930 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		231, 232
+
+Full Card Check Errors:
+None
++------------Current Error Count: 932 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+handCount[0]: 		139, 140
+deckCount[0]: 		205, 203
+hand[0][107]: 		13, 5
+playedCardCount: 		191, 192
+
+Full Card Check Errors:
+Full Card Check: Card value 13 has different count of cards before than after
+Full Card Check: Total card counts didn't match before and after
+
+		col 1 = before, col2 = after
+handCount[0]: 		139, 140
+deckCount[0]: 		205, 203
+hand[0][107]: 		13, 5
+playedCardCount: 		191, 192
+
++------------Current Error Count: 936 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+handCount[0]: 		2, 3
+deckCount[0]: 		123, 121
+hand[0][1]: 		13, 16
+playedCardCount: 		120, 121
+
+Full Card Check Errors:
+Full Card Check: Card value 13 has different count of cards before than after
+Full Card Check: Total card counts didn't match before and after
+
+		col 1 = before, col2 = after
+handCount[0]: 		2, 3
+deckCount[0]: 		123, 121
+hand[0][1]: 		13, 16
+playedCardCount: 		120, 121
+
++------------Current Error Count: 940 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		243, 244
+
+Full Card Check Errors:
+None
++------------Current Error Count: 942 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		81, 82
+
+Full Card Check Errors:
+None
++------------Current Error Count: 944 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		497, 498
+
+Full Card Check Errors:
+None
++------------Current Error Count: 946 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		34, 35
+
+Full Card Check Errors:
+None
++------------Current Error Count: 948 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+handCount[1]: 		87, 88
+deckCount[1]: 		151, 149
+hand[1][30]: 		13, 1
+playedCardCount: 		470, 471
+
+Full Card Check Errors:
+Full Card Check: Card value 13 has different count of cards before than after
+Full Card Check: Total card counts didn't match before and after
+
+		col 1 = before, col2 = after
+handCount[1]: 		87, 88
+deckCount[1]: 		151, 149
+hand[1][30]: 		13, 1
+playedCardCount: 		470, 471
+
++------------Current Error Count: 952 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		397, 398
+
+Full Card Check Errors:
+None
++------------Current Error Count: 954 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+handCount[2]: 		159, 160
+deckCount[2]: 		78, 76
+hand[2][151]: 		13, 17
+playedCardCount: 		313, 314
+
+Full Card Check Errors:
+Full Card Check: Card value 13 has different count of cards before than after
+Full Card Check: Total card counts didn't match before and after
+
+		col 1 = before, col2 = after
+handCount[2]: 		159, 160
+deckCount[2]: 		78, 76
+hand[2][151]: 		13, 17
+playedCardCount: 		313, 314
+
++------------Current Error Count: 958 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		90, 91
+
+Full Card Check Errors:
+None
++------------Current Error Count: 960 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+handCount[1]: 		45, 46
+deckCount[1]: 		42, 40
+hand[1][13]: 		13, 17
+playedCardCount: 		209, 210
+
+Full Card Check Errors:
+Full Card Check: Card value 13 has different count of cards before than after
+Full Card Check: Total card counts didn't match before and after
+
+		col 1 = before, col2 = after
+handCount[1]: 		45, 46
+deckCount[1]: 		42, 40
+hand[1][13]: 		13, 17
+playedCardCount: 		209, 210
+
++------------Current Error Count: 964 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+handCount[2]: 		119, 120
+deckCount[2]: 		75, 73
+hand[2][70]: 		13, 21
+playedCardCount: 		360, 361
+
+Full Card Check Errors:
+Full Card Check: Card value 13 has different count of cards before than after
+Full Card Check: Total card counts didn't match before and after
+
+		col 1 = before, col2 = after
+handCount[2]: 		119, 120
+deckCount[2]: 		75, 73
+hand[2][70]: 		13, 21
+playedCardCount: 		360, 361
+
++------------Current Error Count: 968 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		361, 362
+
+Full Card Check Errors:
+None
++------------Current Error Count: 970 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		236, 237
+
+Full Card Check Errors:
+None
++------------Current Error Count: 972 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		324, 325
+
+Full Card Check Errors:
+None
++------------Current Error Count: 974 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		36, 37
+
+Full Card Check Errors:
+None
++------------Current Error Count: 976 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		480, 481
+
+Full Card Check Errors:
+None
++------------Current Error Count: 978 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		171, 172
+
+Full Card Check Errors:
+None
++------------Current Error Count: 980 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+handCount[1]: 		24, 25
+deckCount[1]: 		119, 117
+hand[1][8]: 		13, 20
+playedCardCount: 		12, 13
+
+Full Card Check Errors:
+Full Card Check: Card value 13 has different count of cards before than after
+Full Card Check: Total card counts didn't match before and after
+
+		col 1 = before, col2 = after
+handCount[1]: 		24, 25
+deckCount[1]: 		119, 117
+hand[1][8]: 		13, 20
+playedCardCount: 		12, 13
+
++------------Current Error Count: 984 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		427, 428
+
+Full Card Check Errors:
+None
++------------Current Error Count: 986 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+handCount[1]: 		99, 100
+deckCount[1]: 		247, 245
+hand[1][38]: 		13, 11
+playedCardCount: 		89, 90
+
+Full Card Check Errors:
+Full Card Check: Card value 13 has different count of cards before than after
+Full Card Check: Total card counts didn't match before and after
+
+		col 1 = before, col2 = after
+handCount[1]: 		99, 100
+deckCount[1]: 		247, 245
+hand[1][38]: 		13, 11
+playedCardCount: 		89, 90
+
++------------Current Error Count: 990 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		181, 182
+
+Full Card Check Errors:
+None
++------------Current Error Count: 992 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		293, 294
+
+Full Card Check Errors:
+None
++------------Current Error Count: 994 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+playedCardCount: 		261, 262
+
+Full Card Check Errors:
+None
++------------Current Error Count: 996 -------------+
+
+Basic Function Errors:
+Basic Function Check: Didn't end up with net +2 cards in hand
+Basic Function Check: Didn't discard smithy to top of pile
+
+		col 1 = before, col2 = after
+handCount[2]: 		48, 49
+deckCount[2]: 		82, 80
+hand[2][45]: 		13, 6
+playedCardCount: 		490, 491
+
+Full Card Check Errors:
+Full Card Check: Card value 13 has different count of cards before than after
+Full Card Check: Total card counts didn't match before and after
+
+		col 1 = before, col2 = after
+handCount[2]: 		48, 49
+deckCount[2]: 		82, 80
+hand[2][45]: 		13, 6
+playedCardCount: 		490, 491
+
++------------Final Error Count: 1000 -------------+
+
